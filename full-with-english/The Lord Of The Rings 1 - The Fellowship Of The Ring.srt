@@ -1,4 +1,4 @@
-﻿﻿1
+1
 00:00:24,233 --> 00:00:37,650
 <i><font color="#0080C0">♫ Man ammen toltha I dann hen morn?</font></i>
 <i><font color="#FFFF00">(Who brings to us this token of darkness?)</font></i>
@@ -3485,24 +3485,20 @@ Go!
 <i><font color="#778899">♫ Bârî’n Katharâd</font></i>
 <i><font color="#FFFF00">(Lords of Eternal Life)</font></i>
 
-
 813
 01:12:11,970 --> 01:12:20,459
 <i><font color="#778899">♫ Îdô Nidir nênâ</font></i>
 <i><font color="#FFFF00">(Now, we are the Nine)</font></i>
-
 
 814
 01:12:20,970 --> 01:12:24,459
 <i><font color="#778899">♫ Nêpâm ned abârat</font></i>
 <i><font color="#FFFF00">(We grasp power for ourselves)</font></i>
 
-
 815
 01:12:25,970 --> 01:12:30,459
 <i><font color="#778899">♫ Nidir nênâkham</font></i>
 <i><font color="#FFFF00">(We, the Nine, are coming)</font></i>
-
 
 816
 01:12:30,970 --> 01:12:40,459
@@ -3669,7 +3665,6 @@ Frodo.
 01:19:13,560 --> 01:19:19,059
 <font color="#008000">Im Arwen - Telin le thaed.</font>
 <font color="#FFFF00">(I am Arwen - I’ve come to help you.)</font>
-
 
 852
 01:19:19,060 --> 01:19:24,860
@@ -4096,7 +4091,6 @@ My dear boy.
 946
 01:28:53,620 --> 01:28:54,819
 Now, what have I forgotten?
-
 
 947
 01:28:55,250 --> 01:29:02,750
@@ -8629,3 +8623,4 @@ Sam...
 03:27:13,363 --> 03:27:35,025
 <i><font color="#008000">♫ silivren penna míriel</font></i>
 <i><font color="#FFFF00">(Glittering light falling like shining jewels)</font></i>
+
