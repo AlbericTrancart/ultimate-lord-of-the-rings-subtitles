@@ -1,4 +1,4 @@
-﻿﻿1
+1
 00:01:17,302 --> 00:01:18,929
 Sméagol!
 
@@ -4014,7 +4014,6 @@ None who venture there ever return.
 01:35:51,393 --> 01:35:53,270
 That mountain is evil.
 
-
 932
 01:35:55,970 --> 01:36:16,459
 <i><font color="#008000">♫ Go vegil tolo hí 'ni men 'war</font></i>
@@ -4536,7 +4535,6 @@ of the mountain.
 1051
 01:47:31,635 --> 01:47:33,971
 And so Isildur cursed them...
-
 
 1052
 01:47:35,468 --> 01:47:45,597
@@ -7252,7 +7250,6 @@ I do not believe it.
 03:19:31,739 --> 03:19:33,115
 I will not.
 
-
 1697
 03:19:45,008 --> 03:20:00,850
 <font color="#FF0000">Ash nazg dur</font>
@@ -7470,7 +7467,6 @@ Then let us be rid of it...
 03:24:47,596 --> 03:24:49,682
 Come on, Mr. Frodo.
 
-
 1746
 03:24:49,849 --> 03:24:52,476
 I can't carry it for you...
@@ -7533,7 +7529,6 @@ Look, Mr. Frodo.
 03:26:35,970 --> 03:26:46,459
 <i><font color="#008000">♫ Le annon beth nín</font></i>
 <i><font color="#FFFF00">(I give you my word)</font></i>
-
 
 1760
 03:26:36,330 --> 03:26:38,541
@@ -7767,7 +7762,6 @@ No!
 <i><font color="#008000">♫ Boe min bango</font></i>
 <i><font color="#FFFF00">(One of you must pay)</font></i>
 
-
 1811
 03:32:38,984 --> 03:32:40,861
 Yes!
@@ -7783,7 +7777,6 @@ Precious! Precious!
 1814
 03:32:47,910 --> 03:32:50,580
 Precious! Precious!
-
 
 1815
 03:32:50,970 --> 03:32:57,459
@@ -7802,7 +7795,6 @@ Give me your hand!
 1818
 03:33:54,185 --> 03:33:56,604
 Take my hand!
-
 
 1819
 03:33:57,970 --> 03:34:21,459
@@ -7928,7 +7920,6 @@ Samwise Gamgee...
 03:38:57,029 --> 03:38:59,949
 ...here at the end of all things.
 
-
 1848
 03:39:22,970 --> 03:39:33,459
 <i><font color="#008000">♫ Orthannen im vi ól</font></i>
@@ -8025,7 +8016,6 @@ in the days of peace.
 03:45:11,970 --> 03:45:35,459
 <i><font color="#008000">♫ Tinúviel el vanui</font></i>
 <i><font color="#FFFF00">(Tinúviel, the elven-fair)</font></i>
-
 
 1869
 03:45:35,970 --> 03:45:54,459
@@ -8565,3 +8555,4 @@ In my arms</i>
 1995
 04:06:32,893 --> 04:06:38,566
 <i>Into the West</i>
+
