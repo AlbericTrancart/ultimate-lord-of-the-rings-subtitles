@@ -1,0 +1,955 @@
+﻿1
+00:02:37,733 --> 00:02:42,675
+<i><font color="#FF8000">♫ Katabrikihu tanakhi uduhu bin-nât aznân tarsisi</font></i>
+<i><font color="#FFFF00">(Can breach it, Comes from it, Only an endless darkness rises)</font></i>
+
+2
+00:02:42,833 --> 00:02:45,475
+<i><font color="#FF8000">♫ Bazar udu agânî-furkhîn</font></i>
+<i><font color="#FFFF00">(Deep from the beginnings of the world)</font></i>
+
+3
+00:02:45,633 --> 00:02:48,000
+<i><font color="#FF8000">♫ Ma satf unkhai! Atkât Zatag rafizu</font></i>
+<i><font color="#FFFF00">(Nor step too close, The silence will take you)</font></i>
+
+4
+00:02:48,333 --> 00:02:53,200
+<i><font color="#FF8000">♫ Irkat-lukhud ma kata[brikihu]</font></i>
+<i><font color="#FFFF00">(No shaft of light can breach it)</font></i>
+
+5
+00:02:53,333 --> 00:02:58,200
+<i><font color="#FF8000">♫ Ulfat-atam ma...</font></i>
+<i><font color="#FFFF00">(No breath of air...)</font></i>
+
+6
+00:03:10,333 --> 00:03:14,200
+<i><font color="#FF8000">♫ ...tana[khi] uduhu</font></i>
+<i><font color="#FFFF00">(...comes from it)</font></i>
+
+7
+00:03:14,333 --> 00:03:23,200
+<i><font color="#FF8000">♫ Bin-nât aznân tarsisi</font></i>
+<i><font color="#FFFF00">(Only an endless dark rises)</font></i>
+
+8
+00:03:23,533 --> 00:03:32,200
+<i><font color="#FF8000">♫ Bazar udu agânî-furk[hîn]</font></i>
+<i><font color="#FFFF00">(Deep from the beginnings of the world)</font></i>
+
+9
+00:03:32,333 --> 00:03:34,800
+<i><font color="#FF8000">♫ Gurd!</font></i>
+<i><font color="#FFFF00">(Have fear!)</font></i>
+
+10
+00:03:35,233 --> 00:03:37,200
+<i><font color="#0080C0">♫ Mettanna</font></i>
+<i><font color="#FFFF00">(To the end)</font></i>
+
+11
+00:03:37,333 --> 00:03:39,200
+<i><font color="#0080C0">♫ Nárendur</font></i>
+<i><font color="#FFFF00">(Servant of fire)</font></i>
+
+12
+00:03:39,333 --> 00:03:43,200
+<i><font color="#0080C0">♫ An mauya mahtie</font></i>
+<i><font color="#FFFF00">(For you must fight)</font></i>
+
+13
+00:03:43,333 --> 00:03:48,200
+<i><font color="#0080C0">♫ Mettana</font></i>
+<i><font color="#FFFF00">(To the end)</font></i>
+
+14
+00:22:13,100 --> 00:22:24,700
+<i><font color="#800080">♫ And on thaere hwile</font></i>
+<i><font color="#FFFF00">(And in that moment)</font></i>
+
+15
+00:22:25,070 --> 00:22:44,700
+<i><font color="#800080">♫ Héo[dréag] thá losinga</font></i>
+<i><font color="#FFFF00">(She felt the loss)</font></i>
+
+16
+00:22:45,100 --> 00:23:02,700
+<i><font color="#800080">♫ Earla thinga the héo forléas</font></i>
+<i><font color="#FFFF00">(Of everything that had been missed)</font></i>
+
+17
+00:27:25,749 --> 00:27:35,200
+<i><font color="#0080C0">♫ [Ró]mello vanwa, [Va]limar!</font></i>
+<i><font color="#FFFF00">(Lost to those of the East is Valimar!)</font></i>
+
+18
+00:27:35,749 --> 00:27:44,200
+<i><font color="#0080C0">♫ Namarie! Nai [elye] hiru[va]!</font></i>
+<i><font color="#FFFF00">(Farewell! Maybe even thou shalt find it!)</font></i>
+
+19
+00:27:44,749 --> 00:27:55,200
+<i><font color="#0080C0">♫ [Ró]mello vanwa, [Va]limar!</font></i>
+<i><font color="#FFFF00">(Lost to those of the East is Valimar!)</font></i>
+
+20
+00:27:55,749 --> 00:28:03,200
+<i><font color="#0080C0">♫ Nai elyë [hiruva!]</font></i>
+<i><font color="#FFFF00">(Maybe even thou shalt find it!)</font></i>
+
+21
+00:36:15,000 --> 00:36:19,000
+<font color="#008000">Hiro hyn hîdh ab ’wanath.</font>
+<font color="#FFFF00">(Let they find peace in the afterlife.)</font>
+
+22
+00:45:12,000 --> 00:45:30,000
+<i><font color="#008000">♫ Ngyrth sí...</font></i>
+<i><font color="#FFFF00">(The dead...)</font></i>
+
+23
+00:45:53,650 --> 00:46:27,000
+<i><font color="#008000">♫ Ngyrth sí ú-los[tar]</font></i>
+<i><font color="#FFFF00">(The dead do not sleep here)</font></i>
+
+24
+00:49:54,970 --> 00:49:58,459
+<i><font color="#778899">♫ Nêbâbîtham Magânanê</font></i>
+<i><font color="#FFFF00">(We renounce our Maker)</font></i>
+
+25
+00:49:58,970 --> 00:50:03,459
+<i><font color="#778899">♫ Nêtabdam dâur</font></i>
+<i><font color="#FFFF00">(We cling to the darkness)</font></i>
+
+26
+00:50:24,270 --> 00:50:30,459
+<i><font color="#778899">♫ Nênâkham</font></i>
+<i><font color="#FFFF00">(We are coming)</font></i>
+
+27
+00:52:07,383 --> 00:52:09,724
+<font color="#008000">Aragorn, nad no ennas!</font>
+<font color="#FFFF00">(Aragorn, something’s out there!)</font>
+
+28
+00:52:16,000 --> 00:52:18,147
+<font color="#008000">Man cenich?</font>
+<font color="#FFFF00">(What do you see?)</font>
+
+29
+00:53:31,100 --> 00:53:33,700
+<i><font color="#800080">♫ Hwær cwóm helm? Hwær cwóm byrne?</font></i>
+<i><font color="#FFFF00">(Where is the helm? Where is the hauberk?)</font></i>
+
+30
+00:53:34,100 --> 00:53:37,700
+<i><font color="#800080">♫ Hwærcwóm feax flówende?</font></i>
+<i><font color="#FFFF00">(Where is the bright hair flowing?)</font></i>
+
+31
+00:53:38,200 --> 00:53:43,700
+<i><font color="#800080">♫ Hwær cwóm hand on hearpestrenge?</font></i>
+<i><font color="#FFFF00">(Where is the hand on the harp string?)</font></i>
+
+32
+00:53:44,100 --> 00:53:49,700
+<i><font color="#800080">♫ Hwær cwóm scir fýr scinende?</font></i>
+<i><font color="#FFFF00">(Where is the red fire glowing?)</font></i>
+
+33
+00:56:17,100 --> 00:56:28,000
+<i><font color="#800080">♫ Híe hine [sáwon] feorran</font></i>
+<i><font color="#FFFF00">(In the distance they saw him)</font></i>
+
+34
+00:56:28,800 --> 00:56:35,700
+<i><font color="#800080">♫ And hwíte sun[nan in mane]</font></i>
+<i><font color="#FFFF00">(White sun caught in his mane)</font></i>
+
+35
+00:56:36,100 --> 00:56:42,300
+<i><font color="#800080">♫ [Híe lange hine] clipodon</font></i>
+<i><font color="#FFFF00">(Long they called him)</font></i>
+
+36
+00:56:42,600 --> 00:56:48,700
+<i><font color="#800080">♫ Ac hé [ne wolde cuman]</font></i>
+<i><font color="#FFFF00">(But he would not come)</font></i>
+
+37
+00:57:23,600 --> 00:57:46,500
+<i><font color="#800080">♫ For ðon hé wæs Sceadufæx</font></i>
+<i><font color="#FFFF00">(For he was Shadowfax)</font></i>
+
+38
+00:57:46,750 --> 00:57:56,700
+<i><font color="#800080">♫ hláford ealra méara</font></i>
+<i><font color="#FFFF00">(Lord of all Horses)</font></i>
+
+39
+00:57:57,200 --> 00:58:07,700
+<i><font color="#800080">♫ Anhé Neandé</font></i>
+<i><font color="#FFFF00">(And he answered only to one)</font></i>
+
+40
+01:20:04,700 --> 01:20:10,700
+<i><font color="#0080C0">♫ Mettanna</font></i>
+<i><font color="#FFFF00">(To the end)</font></i>
+
+41
+01:20:13,500 --> 01:20:23,600
+<i><font color="#800080">♫ Lim-strang wæs geboren</font></i>
+<i><font color="#FFFF00">(Strong-limbed he was born)</font></i>
+
+42
+01:20:24,100 --> 01:20:32,700
+<i><font color="#800080">♫ Bearn léod-cyninga</font></i>
+<i><font color="#FFFF00">(This son of Kings)</font></i>
+
+43
+01:20:33,000 --> 01:20:41,700
+<i><font color="#800080">♫ Magorinc Mearces</font></i>
+<i><font color="#FFFF00">(This warrior of Rohan)</font></i>
+
+44
+01:20:42,100 --> 01:20:49,700
+<i><font color="#800080">♫ Bunden in byrde tó lædenne</font></i>
+<i><font color="#FFFF00">(Bound by birth to lead)</font></i>
+
+45
+01:25:05,800 --> 01:25:15,000
+<i><font color="#800080">♫ Bealocwealm hafað fréone frecan forth onsended</font></i>
+<i><font color="#FFFF00">(An evil death has set forth the noble warrior)</font></i>
+
+46
+01:25:15,600 --> 01:25:22,000
+<i><font color="#800080">♫ giedd sculon singan gléomenn sorgiende</font></i>
+<i><font color="#FFFF00">(A song shall sing sorrowing minstrels)</font></i>
+
+47
+01:25:22,700 --> 01:25:29,900
+<i><font color="#800080">♫ on Meduselde þæt he ma no wære,</font></i>
+<i><font color="#FFFF00">(in Meduseld that he is no more,)</font></i>
+
+48
+01:25:30,600 --> 01:25:38,000
+<i><font color="#800080">♫ his dryhtne dyrest and mæga deorost.</font></i>
+<i><font color="#FFFF00">(to his lord dearest and kinsmen most belover.)</font></i>
+
+49
+01:25:39,100 --> 01:25:41,700
+<i><font color="#800080">♫ Bealo...</font></i>
+<i><font color="#FFFF00">(An evil death...)</font></i>
+
+50
+01:25:44,887 --> 01:25:46,577
+<font color="#800080">Simbelmynë.</font>
+<font color="#FFFF00">("Evermind")</font>
+
+51
+01:26:50,100 --> 01:26:57,700
+<i><font color="#800080">♫ Of cilde tó menn</font></i>
+<i><font color="#FFFF00">(From childhood to a man)</font></i>
+
+52
+01:26:58,100 --> 01:27:23,700
+<i><font color="#800080">♫ thæt hé his déath geséo</font></i>
+<i><font color="#FFFF00">(So that he might face his death)</font></i>
+
+53
+01:27:04,300 --> 01:27:12,000
+<font color="#800080">Westu hál... Ferðu, Théodred, Ferðu.</font>
+<font color="#FFFF00">(Be-thou well... Go-thou, Théodred, go-thou.)</font>
+
+54
+01:27:25,100 --> 01:27:33,700
+<i><font color="#800080">♫ Thæt hearde sóth</font></i>
+<i><font color="#FFFF00">(The hard truth)</font></i>
+
+55
+01:31:03,793 --> 01:31:05,878
+<font color="#800080">Fæste.</font>
+<font color="#FFFF00">(Fast.)</font>
+
+56
+01:31:07,000 --> 01:31:08,000
+<font color="#800080">Stille nú.</font>
+<font color="#FFFF00">(Be still now.)</font>
+
+57
+01:31:11,300 --> 01:31:12,900
+<font color="#800080">Fæste.</font>
+<font color="#FFFF00">(Fast.)</font>
+
+58
+01:31:15,200 --> 01:31:16,400
+<font color="#800080">Stille.</font>
+<font color="#FFFF00">(Be still.)</font>
+
+59
+01:31:21,000 --> 01:31:22,800
+<font color="#800080">Stille.</font>
+<font color="#FFFF00">(Be still.)</font>
+
+60
+01:31:25,000 --> 01:31:26,000
+<font color="#800080">Stille.</font>
+<font color="#FFFF00">(Be still.)</font>
+
+61
+01:31:27,900 --> 01:31:30,300
+<font color="#800080">Lac is drefed, gefrægon.</font>
+<font color="#FFFF00">(A battle is stirred up, they heard.)</font>
+
+62
+01:31:37,500 --> 01:31:40,000
+<font color="#800080">Hwæt nemnað ðe?</font>
+<font color="#FFFF00">(What is your name?)</font>
+
+63
+01:31:49,900 --> 01:31:52,100
+<font color="#800080">Ðin nama is cynglic.</font>
+<font color="#FFFF00">(Your name is kingly.)</font>
+
+64
+01:31:54,300 --> 01:31:56,300
+<font color="#008000">Man le trasta, Brego?</font>
+<font color="#FFFF00">(What troubles you, Brego?)</font>
+
+65
+01:32:01,400 --> 01:32:03,000
+<font color="#008000">Man cenich?</font>
+<font color="#FFFF00">(What did you see?)</font>
+
+66
+01:50:07,460 --> 01:50:21,360
+<i><font color="#008000">♫ Ú i vethed</font></i>
+<i><font color="#FFFF00">(This is not the end)</font></i>
+
+67
+01:50:21,460 --> 01:50:36,560
+<i><font color="#008000">♫ nâ i onnad</font></i>
+<i><font color="#FFFF00">(it is the beginning)</font></i>
+
+68
+01:51:03,050 --> 01:51:05,932
+<font color="#008000">Minlû pedich nin...</font>
+<font color="#FFFF00">(Once you told me...)</font>
+
+69
+01:51:07,044 --> 01:51:09,230
+<font color="#008000">i aur hen telitha.</font>
+<font color="#FFFF00">(this day would come.)</font>
+
+70
+01:51:11,025 --> 01:51:13,545
+<font color="#008000">Ú i vethed ... nâ i onnad.</font>
+<font color="#FFFF00">(This is not the end... it is the beginning.)</font>
+
+71
+01:51:13,828 --> 01:51:15,900
+<font color="#008000">Boe bedich go Frodo.</font>
+<font color="#FFFF00">(You must go with Frodo.)</font>
+
+72
+01:51:16,500 --> 01:51:18,650
+<font color="#008000">Han bâd lîn.</font>
+<font color="#FFFF00">(It is your path.)</font>
+
+73
+01:51:29,000 --> 01:51:30,800
+<font color="#008000">Dolen i vâd o nin.</font>
+<font color="#FFFF00">(My path is hidden from me.)</font>
+
+74
+01:51:32,548 --> 01:51:35,963
+<font color="#008000">Si peliannen i vâd na dail lîn.</font>
+<font color="#FFFF00">(It is already laid before your feet.)</font>
+
+75
+01:51:36,500 --> 01:51:39,000
+<font color="#008000">Si boe ú-dhannathach.</font>
+<font color="#FFFF00">(You cannot falter now.)</font>
+
+76
+01:51:41,725 --> 01:51:43,547
+<font color="#008000">Arwen...</font>
+
+77
+01:51:45,800 --> 01:51:48,800
+<font color="#008000">Ae ú-esteliach nad...</font>
+<font color="#FFFF00">(If you trust nothing else...)</font>
+
+78
+01:51:49,000 --> 01:51:51,000
+<font color="#008000">estelio han...</font>
+<font color="#FFFF00">(trust in this...)</font>
+
+79
+01:51:52,000 --> 01:51:54,500
+<font color="#008000">estelio ammen.</font>
+<font color="#FFFF00">(trust in us.)</font>
+
+80
+01:52:04,460 --> 01:52:32,560
+<i><font color="#008000">♫ Esteli o han...</font></i>
+<i><font color="#FFFF00">(Trust this...)</font></i>
+
+81
+01:52:40,460 --> 01:52:52,560
+<i><font color="#008000">♫ Estel, le iôn adar lín</font></i>
+<i><font color="#FFFF00">(Hope, you are your father’s son)</font></i>
+
+82
+01:53:23,800 --> 01:53:26,000
+<font color="#008000">Nach gwannatha sin?</font>
+<font color="#FFFF00">(Are you going to leave in such way?)</font>
+
+83
+01:53:27,300 --> 01:53:31,608
+<font color="#008000">Ma nathach hi gwannathach or minuial archened?</font>
+<font color="#FFFF00">(Did you think you could slip away at first light - unnoticed?)</font>
+
+84
+01:53:33,274 --> 01:53:35,000
+<font color="#008000">Ú-ethelithon.</font>
+<font color="#FFFF00">(I will not return.)</font>
+
+85
+01:53:36,050 --> 01:53:38,000
+<font color="#008000">Estelio guru lîn ne dagor.</font>
+<font color="#FFFF00">(Trust in your skill in battle.)</font>
+
+86
+01:53:38,478 --> 01:53:39,852
+<font color="#008000">Ethelithach.</font>
+<font color="#FFFF00">(You will come back.)</font>
+
+87
+01:53:40,078 --> 01:53:42,053
+<font color="#008000"> Ú-bedin o gurth ne dagor.</font>
+<font color="#FFFF00">(I don’t speak about death in battle.)</font>
+
+88
+01:53:42,315 --> 01:53:44,618
+<font color="#008000">O man pedich?</font>
+<font color="#FFFF00">(What do you speak of?)</font>
+
+89
+01:53:49,924 --> 01:53:52,989
+<font color="#008000">Edra le men, men na guil edwen...</font>
+<font color="#FFFF00">(You have a chance for another life...)</font>
+
+90
+01:53:54,995 --> 01:53:59,370
+<font color="#008000">haer o auth a nîr a naeth.</font>
+<font color="#FFFF00">(far from war and weeping and woe.)</font>
+
+91
+01:56:44,900 --> 01:56:53,200
+<i><font color="#800080">♫ Hwær cwóm hearpestrenge?</font></i>
+<i><font color="#FFFF00">(Where is the harp string?)</font></i>
+
+92
+01:56:53,400 --> 01:57:03,700
+<i><font color="#800080">♫ Hwær cwóm scir fýr scinende?</font></i>
+<i><font color="#FFFF00">(Where is the red fire glowing?)</font></i>
+
+93
+01:57:23,100 --> 01:57:31,700
+<i><font color="#800080">♫ Hwær cwóm helm?</font></i>
+<i><font color="#FFFF00">(Where is the helm?)</font></i>
+
+94
+02:03:33,100 --> 02:03:40,700
+<i><font color="#800080">♫ Héo dréag thá losinga</font></i>
+<i><font color="#FFFF00">(She felt the loss)</font></i>
+
+95
+02:03:41,100 --> 02:03:51,400
+<i><font color="#800080">♫ Earla thinga the héo forléas</font></i>
+<i><font color="#FFFF00">(Of everything that had been missed)</font></i>
+
+96
+02:04:57,080 --> 02:05:06,200
+<font color="#FF0000">Durbgu Nazg-shu, Durbgu Dash-shu</font>
+<font color="#FFFF00">(Lord of the Ring, Lord of the Earth)</font>
+
+97
+02:06:58,970 --> 02:07:12,259
+<i><font color="#008000">♫ Uich gwennen na 'wanath ah na dhín</font></i>
+<i><font color="#FFFF00">(You are not bound to loss and silence)</font></i>
+
+98
+02:07:12,970 --> 02:07:16,559
+<i><font color="#008000">♫ An uich gwennen na</font></i>
+<i><font color="#FFFF00">(For you are not bound)</font></i>
+
+99
+02:07:16,970 --> 02:07:25,259
+<i><font color="#008000">♫ Boe naid bain gwannathar</font></i>
+<i><font color="#FFFF00">(All things must pass away)</font></i>
+
+100
+02:07:25,670 --> 02:07:40,259
+<i><font color="#008000">♫ Boe cuil ban firitha</font></i>
+<i><font color="#FFFF00">(All life is doomed to fade)</font></i>
+
+101
+02:08:26,562 --> 02:08:27,675
+<font color="#008000">Arwen.</font>
+
+102
+02:08:29,097 --> 02:08:30,885
+<font color="#008000">Tollen i lû.</font>
+<font color="#FFFF00">(It is time.)</font>
+
+103
+02:08:32,969 --> 02:08:36,679
+<font color="#008000">I chair gwannar na Valannor. Si bado, no círar.</font>
+<font color="#FFFF00">(The ships depart to Valinor. Now go, before they sail.)</font>
+
+104
+02:09:26,970 --> 02:09:34,259
+<i><font color="#008000">♫ Úivethed nâ i onnad</font></i>
+<i><font color="#FFFF00">(This is not the end, it is the beginning)</font></i>
+
+105
+02:09:34,970 --> 02:09:40,259
+<i><font color="#008000">♫ Si boe ú-dhanna</font></i>
+<i><font color="#FFFF00">(You must not falter now)</font></i>
+
+106
+02:09:41,500 --> 02:09:56,259
+<i><font color="#008000">♫ Ae ú-esteli, esteliach nad...</font></i>
+<i><font color="#FFFF00">(If you trust nothing else...)</font></i>
+
+107
+02:09:57,700 --> 02:10:13,259
+<i><font color="#008000">♫ Estelio han, estelio han, estelio</font></i>
+<i><font color="#FFFF00">(Trust this, trust this, trust)</font></i>
+
+108
+02:10:13,970 --> 02:10:29,259
+<i><font color="#008000">♫ Estelio han, estelio veleth</font></i>
+<i><font color="#FFFF00">(Trust this, trust love)</font></i>
+
+109
+02:10:34,970 --> 02:10:44,259
+<i><font color="#008000">♫ Estel, le iôn adar lín</font></i>
+<i><font color="#FFFF00">(Hope, you are your father’s son)</font></i>
+
+110
+02:11:12,065 --> 02:11:15,099
+<font color="#008000">Ah im, ú-’erin veleth lîn?</font>
+<font color="#FFFF00">Do I not also have your love?</font>
+
+111
+02:11:16,804 --> 02:11:18,496
+<font color="#008000">Gerich veleth nîn, ada.</font>
+<font color="#FFFF00">You have my love, father.</font>
+
+112
+02:11:25,970 --> 02:11:41,259
+<i><font color="#008000">♫ Nef Elbereth Gil[thoniel]</font></i>
+<i><font color="#FFFF00">(Heavenly Elbereth Kindler of Stars)</font></i>
+
+113
+02:11:43,970 --> 02:12:03,259
+<i><font color="#008000">♫ Boe naer, [an]nant ui[ch] ben-estel</font></i>
+<i><font color="#FFFF00">(Sorrowing, and yet you are not without hope)</font></i>
+
+114
+02:12:06,970 --> 02:12:17,259
+<i><font color="#0080C0">♫ Man ammen toltha i dann hen môrn?</font></i>
+<i><font color="#FFFF00">(Who brings to us this token of darkness?)</font></i>
+
+115
+02:12:09,750 --> 02:12:12,750
+<font color="#008000">I amar prestar aen,</font>
+<font color="#FFFF00">(The world is changed,)</font>
+
+116
+02:12:13,400 --> 02:12:15,400
+<font color="#008000">han mathon ne nen,</font>
+<font color="#FFFF00">(I feel it in the water.)</font>
+
+117
+02:12:15,950 --> 02:12:17,950
+<font color="#008000">han mathon ne chae,</font>
+<font color="#FFFF00">(I feel it in the earth,)</font>
+
+118
+02:12:19,740 --> 02:12:27,259
+<i><font color="#0080C0">♫ Si danna atha nauva</font></i>
+<i><font color="#FFFF00">(Now all will fall away)</font></i>
+
+119
+02:12:19,750 --> 02:12:23,520
+<font color="#008000">a han noston ned ’wilith.</font>
+<font color="#FFFF00">(I smell it in the air.)</font>
+
+120
+02:12:36,740 --> 02:12:44,259
+<i><font color="#0080C0">♫ Mel, melmë nóren sina</font></i>
+<i><font color="#FFFF00">(Love, our love for this land)</font></i>
+
+121
+02:12:49,140 --> 02:13:00,259
+<i><font color="#0080C0">♫ Nur ala aëaron</font></i>
+<i><font color="#FFFF00">(is deeper than the depths of the sea)</font></i>
+
+122
+02:13:00,540 --> 02:13:14,259
+<i><font color="#0080C0">♫ Nuruva Tercáno</font></i>
+<i><font color="#FFFF00">(The Herald of Death)</font></i>
+
+123
+02:28:56,970 --> 02:29:09,259
+<i><font color="#0080C0">♫ I tuo i macil a staldaron Corma</font></i>
+<i><font color="#FFFF00">(The strength, the weapon, the needs of the valiant, the Ring...)</font></i>
+
+124
+02:31:20,500 --> 02:31:25,450
+<font color="#008000">Mae carnen, Brego, mellon nîn.</font>
+<font color="#FFFF00">(Well done, Brego, my friend.)</font>
+
+125
+02:32:00,689 --> 02:32:01,637
+<font color="#008000">Le abdollen.</font>
+<font color="#FFFF00">(You’re late.)</font>
+
+126
+02:32:33,800 --> 02:32:36,800
+<font color="#008000">Hannon le.</font>
+<font color="#FFFF00">(Thank you.)</font>
+
+127
+02:36:36,970 --> 02:36:58,459
+<i><font color="#008000">♫ Echuiannen</font></i>
+<i><font color="#FFFF00">(The woods have awoken)</font></i>
+
+128
+02:39:56,014 --> 02:39:57,500
+<font color="#008000">Boe a hyn:</font>
+<font color="#FFFF00">(And they should be...)</font>
+
+129
+02:39:58,000 --> 02:40:01,150
+<font color="#008000">Neled herain... dan caer menig.</font>
+<font color="#FFFF00">(Three hundred... against ten thousand.)</font>
+
+130
+02:40:03,022 --> 02:40:05,575
+<font color="#008000">Si, beriathar hyn ammaeg na ned Edoras.</font>
+<font color="#FFFF00">(Here they-will-defend themselves sharper than at Edoras.)</font>
+
+131
+02:40:05,691 --> 02:40:09,212
+<font color="#008000">Aragorn, nedin dagor hen ú-’erir ortheri.</font>
+<font color="#FFFF00">(Aragorn, they cannot win this fight.)</font>
+
+132
+02:40:10,262 --> 02:40:11,555
+<font color="#008000">Natha daged dhaer</font>
+<font color="#FFFF00">(They are all going to die.)</font>
+
+133
+02:41:04,100 --> 02:41:26,700
+<i><font color="#800080">♫ Hwær cwóm helm? Hwær cwóm byrne?</font></i>
+<i><font color="#FFFF00">(Where is the helm? Where is the hauberk?)</font></i>
+
+134
+02:41:26,900 --> 02:42:00,700
+<i><font color="#800080">♫ Hwær cwom feax flowende?</font></i>
+<i><font color="#FFFF00">(Where is the bright hair flowing?)</font></i>
+
+135
+02:44:48,115 --> 02:44:50,482
+<font color="#008000">Ú-moe edaved, Legolas</font>
+<font color="#FFFF00">(There is nothing to forgive, Legolas.)</font>
+
+136
+02:45:21,970 --> 02:45:28,259
+<i><font color="#0080C0">♫ Man ammen toltha i dann hen môrn?</font></i>
+<i><font color="#FFFF00">(Who brings to us this token of darkness?)</font></i>
+
+137
+02:45:29,970 --> 02:45:38,259
+<i><font color="#0080C0">♫ Si danna atha nauva</font></i>
+<i><font color="#FFFF00">(Now all will fall away)</font></i>
+
+138
+02:45:39,970 --> 02:45:47,259
+<i><font color="#0080C0">♫ Mel, melmë nóren sina</font></i>
+<i><font color="#FFFF00">(Love, our love for this land)</font></i>
+
+139
+02:45:47,970 --> 02:45:53,259
+<i><font color="#0080C0">♫ Nur ala aëaron nur</font></i>
+<i><font color="#FFFF00">(is deeper than the depths of the sea)</font></i>
+
+140
+02:45:53,570 --> 02:46:01,259
+<i><font color="#0080C0">♫ Il[firin] nair[elma]</font></i>
+<i><font color="#FFFF00">(Undying is our regret)</font></i>
+
+141
+02:46:13,500 --> 02:46:15,000
+<font color="#008000">Mae govannen, Haldir.</font>
+<font color="#FFFF00">(Well-met, Haldir.)</font>
+
+142
+02:48:30,144 --> 02:48:33,658
+<font color="#008000">A Eruchîn, ú-dano i faelas a hyn...</font>
+<font color="#FFFF00">(O Children-of-Eru, don’t show the mercy to them...)</font>
+
+143
+02:48:34,848 --> 02:48:37,052
+<font color="#008000">an uben tanatha le faelas!</font>
+<font color="#FFFF00">(for nobody will-show you mercy!)</font>
+
+144
+02:49:56,868 --> 02:49:58,112
+<font color="#008000">Dartho!</font>
+<font color="#FFFF00">(Hold!)</font>
+
+145
+02:50:28,400 --> 02:50:29,512
+<font color="#008000">Tangado a chadad!</font>
+<font color="#FFFF00">(Prepare to fire!)</font>
+
+146
+02:50:30,400 --> 02:50:31,512
+<font color="#008000">Tangado a chadad!</font>
+<font color="#FFFF00">(Prepare to fire!)</font>
+
+147
+02:50:37,510 --> 02:50:40,615
+<font color="#008000">Faeg i-varv dîn na lanc...</font>
+<font color="#FFFF00">(Their armour is weak at the neck...)</font>
+
+148
+02:50:40,879 --> 02:50:42,308
+<font color="#008000">a nu ranc!</font>
+<font color="#FFFF00">(and beneath the arm!)</font>
+
+149
+02:50:42,581 --> 02:50:44,207
+<font color="#008000">Hado i philinn!</font>
+<font color="#FFFF00">(Release the arrows!)</font>
+
+150
+02:51:00,456 --> 02:51:03,456
+<font color="#008000">I philinn! ... Han!</font>
+<font color="#FFFF00">(Arrows! ... forward!)</font>
+
+151
+02:51:32,599 --> 02:51:33,527
+<font color="#008000">Pendraid!</font>
+<font color="#FFFF00">(Ladders!)</font>
+
+152
+02:54:54,700 --> 02:54:56,700
+ <font color="#008000">Na fennas!</font>
+<font color="#FFFF00"> (To the gateway!)</font>
+
+153
+02:54:56,705 --> 02:54:57,987
+<font color="#008000">Hado ribed! Hado!</font>
+<font color="#FFFF00">(Hurl to flow! Hurl!)</font>
+
+154
+02:55:35,317 --> 02:55:36,626
+<font color="#008000">Dago han, Legolas!</font>
+<font color="#FFFF00">(Bring him down, Legolas!)</font>
+
+155
+02:55:40,054 --> 02:55:41,167
+<font color="#008000">Dago han!</font>
+<font color="#FFFF00">(Bring him down!)</font>
+
+156
+02:55:41,423 --> 02:55:42,054
+<font color="#008000">Dago han!</font>
+<font color="#FFFF00">(Bring him down!)</font>
+
+157
+02:57:17,700 --> 02:57:20,600
+<font color="#008000">Hado i philinn!</font>
+<font color="#FFFF00">(Release the arrows!)</font>
+
+158
+02:57:22,660 --> 02:57:23,608
+<font color="#008000">Herio!</font>
+<font color="#FFFF00">(Charge!)</font>
+
+159
+03:00:06,030 --> 03:00:07,459
+<font color="#008000">Nan barad!</font>
+<font color="#FFFF00">(To the Tower!)</font>
+
+160
+03:00:12,404 --> 03:00:13,897
+<font color="#008000">Nan barad!</font>
+<font color="#FFFF00">(To the Tower!)</font>
+
+161
+03:00:14,538 --> 03:00:16,131
+<font color="#008000">Haldir!</font>
+
+162
+03:00:17,007 --> 03:00:18,413
+<font color="#008000">Nan barad!</font>
+<font color="#FFFF00">(To the Tower!)</font>
+
+163
+03:00:24,007 --> 03:00:25,413
+<font color="#008000">Nan barad!</font>
+<font color="#FFFF00">(To the Tower!)</font>
+
+164
+03:00:32,767 --> 03:00:50,946
+<i><font color="#008000">♫ Ar sindarn óriello caita mornië</font></i>
+<i><font color="#FFFF00">(And out of a grey country darkness lies)</font></i>
+
+165
+03:00:42,767 --> 03:00:43,946
+<font color="#008000">Haldir!</font>
+
+166
+03:00:51,767 --> 03:01:11,946
+<i><font color="#008000">♫ Ar ilye tier unduláve lumbule...</font></i>
+<i><font color="#FFFF00">(And all paths are drowned deep in shadow...)</font></i>
+
+167
+03:09:21,726 --> 03:09:29,339
+<i><font color="#008000">♫ Rithannen i geven</font></i>
+<i><font color="#FFFF00">(Earth shakes)</font></i>
+
+168
+03:09:29,726 --> 03:09:36,339
+<i><font color="#008000">♫ Thangen i harn</font></i>
+<i><font color="#FFFF00">(Stone breaks)</font></i>
+
+169
+03:09:36,726 --> 03:09:45,339
+<i><font color="#008000">♫ Na fennas i daur</font></i>
+<i><font color="#FFFF00">(The forest is at your door)</font></i>
+
+170
+03:09:45,626 --> 03:09:54,339
+<i><font color="#008000">♫ Ôl dûr ristannen</font></i>
+<i><font color="#FFFF00">(The dark sleep is broken)</font></i>
+
+171
+03:09:54,726 --> 03:09:59,339
+<i><font color="#008000">♫ Eryn echuiannen</font></i>
+<i><font color="#FFFF00">(The woods have awoken)</font></i>
+
+172
+03:09:59,726 --> 03:10:04,339
+<i><font color="#008000">♫ I ngelaidh dagrar</font></i>
+<i><font color="#FFFF00">(The trees have gone to war)</font></i>
+
+173
+03:10:04,726 --> 03:10:09,339
+<i><font color="#008000">♫ Ristar thynd, cúa tawar</font></i>
+<i><font color="#FFFF00">(Roots rend, wood bends)</font></i>
+
+174
+03:10:09,726 --> 03:10:16,339
+<i><font color="#008000">♫ Dam[bedir] ganed</font></i>
+<i><font color="#FFFF00">(The Ents have answered the call)</font></i>
+
+175
+03:14:02,870 --> 03:14:18,459
+<i><font color="#008000">♫ Rithannen i geven, Thangen i harn</font></i>
+<i><font color="#FFFF00">(Earth shakes, Stone breaks)</font></i>
+
+176
+03:14:21,970 --> 03:14:34,459
+<i><font color="#008000">♫ Rithannen i geven, Thangen i harn</font></i>
+<i><font color="#FFFF00">(Earth shakes, Stone breaks)</font></i>
+
+177
+03:14:34,970 --> 03:14:44,459
+<i><font color="#008000">♫ Na fennas i daur</font></i>
+<i><font color="#FFFF00">(The forest is at your door)</font></i>
+
+178
+03:14:44,970 --> 03:14:52,459
+<i><font color="#008000">♫ Ôl dûr ristannen</font></i>
+<i><font color="#FFFF00">(The dark sleep is broken)</font></i>
+
+179
+03:14:52,970 --> 03:14:58,459
+<i><font color="#008000">♫ Echuiannen</font></i>
+<i><font color="#FFFF00">(The woods have awoken)</font></i>
+
+180
+03:14:59,970 --> 03:15:04,459
+<i><font color="#008000">♫ i ngelaidh dagra</font></i>
+<i><font color="#FFFF00">(The trees have gone to war)</font></i>
+
+181
+03:15:04,970 --> 03:15:11,459
+<i><font color="#008000">♫ Ristar thynd, cúa tawar</font></i>
+<i><font color="#FFFF00">(Roots rend, Wood bends)</font></i>
+
+182
+03:15:20,773 --> 03:15:22,945
+<i><font color="#800080">Forð Eorlingas!</font></i>
+<i><font color="#FFFF00">(Forth Eorlingas!)</font></i>
+
+183
+03:16:05,733 --> 03:16:09,675
+<i><font color="#FF8000">♫ [Ir]Kat-lu[hud]</font>
+<font color="#FFFF00">(Shaft of light)</font></i>
+
+184
+03:16:38,100 --> 03:16:48,700
+<i><font color="#800080">♫ For ðon hé wæs Sceadufæx</font></i>
+<i><font color="#FFFF00">(For he was Shadowfax)</font></i>
+
+185
+03:16:49,100 --> 03:16:56,700
+<i><font color="#800080">♫ hláford ealra méara</font></i>
+<i><font color="#FFFF00">(Lord of all Horses)</font></i>
+
+186
+03:16:57,100 --> 03:17:04,700
+<i><font color="#800080">♫ Anhé Neandé hlá!</font></i>
+<i><font color="#FFFF00">(And he answered only to one!)</font></i>
+
+187
+03:19:01,049 --> 03:19:10,464
+<i><font color="#008000">♫ Rithannen i geven, Thangen i harn</font></i>
+<i><font color="#FFFF00">(Earth shakes, Stone breaks)</font></i>
+
+188
+03:19:10,649 --> 03:19:15,664
+<i><font color="#008000">♫ Na fennas i daur</font></i>
+<i><font color="#FFFF00">(The forest is at your door)</font></i>
+
+189
+03:19:15,900 --> 03:19:25,864
+<i><font color="#008000">♫ Ôl dûr ristannen</font></i>
+<i><font color="#FFFF00">(The dark sleep is broken)</font></i>
+
+190
+03:19:26,049 --> 03:19:31,864
+<i><font color="#008000">♫ Eryn echuiannen</font></i>
+<i><font color="#FFFF00">(The woods have awoken)</font></i>
+
+191
+03:19:32,049 --> 03:19:39,864
+<i><font color="#008000">♫ I ngelaidh dagrar</font></i>
+<i><font color="#FFFF00">(The trees have gone to war)</font></i>
+
+192
+03:19:43,049 --> 03:19:53,864
+<i><font color="#008000">Ristar thynd, Cúa tawar</font></i>
+<i><font color="#FFFF00">(Roots rend, Wood bends)</font></i>

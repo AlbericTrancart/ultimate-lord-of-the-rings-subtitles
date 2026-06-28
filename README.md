@@ -16,7 +16,7 @@ Subtitles for the Lord of the Rings with complete transcription and translation 
 There are two versions:
 
 - [full subtitles, with English and foreign languages translated](/full-with-english/)
-- foreign languages translated only (TODO)
+- [foreign languages translated only](/foreign-only/)
 
 These subtitles are made for the Extended versions only. VLC player is recommended to display subtitle colors as intended.
 
