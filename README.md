@@ -18,9 +18,9 @@ There are two versions:
 - [full subtitles, with English and foreign languages translated](/full-with-english/)
 - [foreign languages translated only](/foreign-only/)
 
-These subtitles are made for the Extended versions only. VLC player is recommended to display subtitle colors as intended.
+These subtitles are made for the Extended versions only. **VLC player with reduced text size is heavily recommended to display subtitle colors as intended.**
 
-Also, reducing the text size can be useful for the full subtitles version as a lot of text can be displayed at once. For this, you can change it in VLC in the menu `Tools > Preferences > Subtitles > Subtitle Effects > Font Size > Smaller`.
+Reducing the text size is useful for the full subtitles version as a lot of text can be displayed at once. For this, you can change it in VLC in the menu `Tools > Preferences > Subtitles > Subtitle Effects > Font Size > Smaller`.
 
 ## Language colors
 
