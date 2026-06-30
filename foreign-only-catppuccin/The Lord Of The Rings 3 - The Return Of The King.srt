@@ -1,0 +1,700 @@
+1
+00:02:30,970 --> 00:02:41,259
+<i><font color="#89B4FA">♫ I tuo i macil a staldaron</font></i>
+<i><font color="#F9E2AF">(The strength, the weapon, the needs of the valiant)</font></i>
+
+2
+00:02:41,570 --> 00:02:48,259
+<i><font color="#89B4FA">♫ Marinyë Cor[ma]</font></i>
+<i><font color="#F9E2AF">(Let the Ring be your weapon)</font></i>
+
+3
+00:02:48,970 --> 00:02:52,259
+<i><font color="#89B4FA">♫ I tuo i macil</font></i>
+<i><font color="#F9E2AF">(The strength, the weapon)</font></i>
+
+4
+00:02:52,570 --> 00:03:01,259
+<i><font color="#89B4FA">♫ A lelyat túrenna</font></i>
+<i><font color="#F9E2AF">(Go to victory)</font></i>
+
+5
+00:03:13,080 --> 00:03:16,900
+<i><font color="#F38BA8">...burzum-ishi krimpatul...</font></i>
+<i><font color="#F9E2AF">(...in the darkness bind them...)</font></i>
+
+6
+00:04:36,080 --> 00:04:39,900
+<i><font color="#F38BA8">Ash nazg durbatulûk</font></i>
+<i><font color="#F9E2AF">(One ring to rule them all)</font></i>
+
+7
+00:04:40,080 --> 00:04:43,500
+<i><font color="#F38BA8">Ash nazg gimbatul</font></i>
+<i><font color="#F9E2AF">(One ring to find them)</font></i>
+
+8
+00:05:25,215 --> 00:05:31,500
+<i><font color="#F38BA8">...Daghburz-ishi makha gulshu darulu...</font></i>
+<i><font color="#F9E2AF">...In the Land of Mordor where the Shadows lie...)</font></i>
+
+9
+00:19:52,740 --> 00:19:55,900
+<font color="#CBA6F7">Westu Aragorn hál.</font>
+<font color="#F9E2AF">(Be-thou Aragorn well.)</font>
+
+10
+00:31:06,000 --> 00:31:08,500
+<font color="#F38BA8">Ash nazg thrakatum</font>
+<font color="#F9E2AF">(Bring the One Ring)</font>
+
+11
+00:37:37,970 --> 00:37:46,459
+<i><font color="#A6E3A1">♫ Naegriel moë</font></i>
+<i><font color="#F9E2AF">(Softly pining)</font></i>
+
+12
+00:37:47,970 --> 00:37:59,459
+<i><font color="#A6E3A1">♫ [A ch]uil anann me perónen</font></i>
+<i><font color="#F9E2AF">(For a life long lived, for a love half given)</font></i>
+
+13
+00:38:00,070 --> 00:38:08,459
+<i><font color="#A6E3A1">♫ Síliel mae</font></i>
+<i><font color="#F9E2AF">(Softly shining)</font></i>
+
+14
+00:38:08,970 --> 00:38:13,459
+<i><font color="#A6E3A1">♫ I ngîl firiel</font></i>
+<i><font color="#F9E2AF">(I saw a star fade)</font></i>
+
+15
+00:38:13,970 --> 00:38:19,459
+<i><font color="#A6E3A1">♫ Dúr i fuin</font></i>
+<i><font color="#F9E2AF">(The dark was too deep)</font></i>
+
+16
+00:38:19,970 --> 00:38:28,459
+<i><font color="#A6E3A1">♫ An i naun ului</font></i>
+<i><font color="#F9E2AF">(For what never was)</font></i>
+
+17
+00:38:28,970 --> 00:38:39,459
+<i><font color="#A6E3A1">♫ An chuil anann cuinannen</font></i>
+<i><font color="#F9E2AF">(For a life long lived)</font></i>
+
+18
+00:40:35,800 --> 00:40:37,150
+<font color="#A6E3A1">Ada.</font>
+<font color="#F9E2AF">(Dad.)</font>
+
+19
+00:40:47,970 --> 00:40:58,459
+<i><font color="#A6E3A1">♫ An i naun ului</font></i>
+<i><font color="#F9E2AF">(For what never was)</font></i>
+
+20
+00:40:59,970 --> 00:41:08,759
+<i><font color="#A6E3A1">♫ An i naun ului</font></i>
+<i><font color="#F9E2AF">(For what never was)</font></i>
+
+21
+00:41:09,370 --> 00:41:23,459
+<i><font color="#A6E3A1">♫ Am meleth perónen</font></i>
+<i><font color="#F9E2AF">(For a love half given)</font></i>
+
+22
+00:41:24,300 --> 00:41:25,000
+<font color="#A6E3A1">Ada...</font>
+<font color="#F9E2AF">(Dad...)</font>
+
+23
+00:45:23,970 --> 00:45:33,259
+<i><font color="#89B4FA">♫ Ehtelë lína, manna lelyal[ye]?</font></i>
+<i><font color="#F9E2AF">(The fountain is still, where did you go?)</font></i>
+
+24
+01:11:04,970 --> 01:11:14,459
+<i><font color="#A6E3A1">♫ Ored, gwanwen ost in giliath</font></i>
+<i><font color="#F9E2AF">(No warning, the citadel of the stars is gone)</font></i>
+
+25
+01:11:14,970 --> 01:11:26,459
+<i><font color="#A6E3A1">♫ Dannen Osgiliath</font></i>
+<i><font color="#F9E2AF">(Osgiliath has fallen)</font></i>
+
+26
+01:13:14,970 --> 01:13:21,459
+<i><font color="#A6E3A1">♫ Sílant calad Dûn</font></i>
+<i><font color="#F9E2AF">(A light shone in the west)</font></i>
+
+27
+01:13:21,970 --> 01:13:27,459
+<i><font color="#A6E3A1">♫ Tollen Rochon 'Lân</font></i>
+<i><font color="#F9E2AF">(The White Rider had come)</font></i>
+
+28
+01:13:27,970 --> 01:13:34,459
+<i><font color="#A6E3A1">♫ Mennen nored dîn</font></i>
+<i><font color="#F9E2AF">(Their race was over)</font></i>
+
+29
+01:35:55,970 --> 01:36:16,459
+<i><font color="#A6E3A1">♫ Go vegil tolo hí 'ni men 'war</font></i>
+<i><font color="#F9E2AF">(Come armed, no other end to this road)</font></i>
+
+30
+01:41:23,970 --> 01:41:32,459
+<i><font color="#A6E3A1">♫ Elo! Andúril</font></i>
+<i><font color="#F9E2AF">(Behold! Andúril)</font></i>
+
+31
+01:42:33,420 --> 01:42:36,214
+<font color="#A6E3A1">Ónen i-Estel Edain.</font>
+<font color="#F9E2AF">(I gave hope to men.)</font>
+
+32
+01:42:39,468 --> 01:42:43,597
+<font color="#A6E3A1">Ú-chebin Estel anim.</font>
+<font color="#F9E2AF">(I have kept no hope for myself.)</font>
+
+33
+01:46:58,468 --> 01:47:09,597
+<i><font color="#A6E3A1">♫ Hollen i ven</font></i>
+<i><font color="#F9E2AF">(The way is shut)</font></i>
+
+34
+01:47:09,868 --> 01:47:21,597
+<i><font color="#A6E3A1">♫ In gyrth han agorer</font></i>
+<i><font color="#F9E2AF">(It was made by those who are dead)</font></i>
+
+35
+01:47:22,368 --> 01:47:34,597
+<i><font color="#A6E3A1">♫ A han beriar in gyrth</font></i>
+<i><font color="#F9E2AF">(And the Dead keep it)</font></i>
+
+36
+01:47:35,468 --> 01:47:45,597
+<i><font color="#A6E3A1">♫ Hollen i ven</font></i>
+<i><font color="#F9E2AF">(The way is shut)</font></i>
+
+37
+01:50:54,825 --> 01:50:59,977
+<font color="#F38BA8">Katmuda! / Gorosh!</font>
+<font color="#F9E2AF">(Death to Men! / Louder!)</font>
+
+38
+01:57:50,970 --> 01:58:10,459
+<i><font color="#A6E3A1">♫ Hollen i ven</font></i>
+<i><font color="#F9E2AF">(The way is shut)</font></i>
+
+39
+01:58:12,970 --> 01:58:34,459
+<i><font color="#A6E3A1">♫ Hollen i ven</font></i>
+<i><font color="#F9E2AF">(The way is shut)</font></i>
+
+40
+01:58:41,889 --> 01:58:47,058
+<font color="#F38BA8">Gurut!</font>
+<font color="#F9E2AF">(Death!)</font>
+
+41
+02:03:12,970 --> 02:03:21,459
+<i><font color="#A6E3A1">♫ Ristais dúath</font></i>
+<i><font color="#F9E2AF">(Shreds of shadow)</font></i>
+
+42
+02:03:21,970 --> 02:03:28,459
+<i><font color="#A6E3A1">♫ Tellin i Neder</font></i>
+<i><font color="#F9E2AF">(The Nine have come)</font></i>
+
+43
+02:03:28,970 --> 02:03:38,459
+<i><font color="#A6E3A1">♫ Gurth renia</font></i>
+<i><font color="#F9E2AF">(Death has taken wing)</font></i>
+
+44
+02:03:38,970 --> 02:03:55,459
+<i><font color="#A6E3A1">♫ Meditha han phan</font></i>
+<i><font color="#F9E2AF">(He will eat it all)</font></i>
+
+45
+02:03:55,970 --> 02:04:07,459
+<i><font color="#A6E3A1">♫ Meditha ardhon</font></i>
+<i><font color="#F9E2AF">(Eat all the world)</font></i>
+
+46
+02:04:07,570 --> 02:04:10,459
+<i><font color="#A6E3A1">♫ Nerchennin o chuil</font></i>
+<i><font color="#F9E2AF">(Torn from life)</font></i>
+
+47
+02:04:10,970 --> 02:04:15,459
+<i><font color="#A6E3A1">♫ Coll am na waewath goeyl</font></i>
+<i><font color="#F9E2AF">(Borne aloft by fell winds)</font></i>
+
+48
+02:04:15,970 --> 02:04:20,459
+<i><font color="#A6E3A1">♫ Tellin i Neder</font></i>
+<i><font color="#F9E2AF">(The Nine have come)</font></i>
+
+49
+02:04:20,970 --> 02:04:24,459
+<i><font color="#A6E3A1">♫ Gurth renia</font></i>
+<i><font color="#F9E2AF">(Death has taken wing)</font></i>
+
+50
+02:12:43,555 --> 02:12:47,100
+<font color="#89B4FA">Aiya Eärendil Elenion Ancalima!</font>
+<font color="#F9E2AF">(Hail Eärendil brightest of the stars!)</font>
+
+51
+02:30:20,970 --> 02:30:25,459
+<i><font color="#A6E3A1">♫ [Coll] am na waewath goeyl</font></i>
+<i><font color="#F9E2AF">(Borne aloft by fell winds)</font></i>
+
+52
+02:30:25,970 --> 02:30:34,459
+<i><font color="#A6E3A1">♫ Tellin i Neder</font></i>
+<i><font color="#F9E2AF">(The Nine have come)</font></i>
+
+53
+02:30:34,970 --> 02:30:40,459
+<i><font color="#A6E3A1">♫ Gurth renia</font></i>
+<i><font color="#F9E2AF">(Death has taken wing)</font></i>
+
+54
+02:30:40,970 --> 02:30:48,459
+<i><font color="#A6E3A1">♫ Meditha han phan</font></i>
+<i><font color="#F9E2AF">(He will eat it all)</font></i>
+
+55
+02:30:48,970 --> 02:31:03,459
+<i><font color="#A6E3A1">♫ Meditha ardhon</font></i>
+<i><font color="#F9E2AF">(Eat all the world)</font></i>
+
+56
+02:38:45,970 --> 02:38:52,459
+<i><font color="#A6E3A1">♫ Úrianner i eryd</font></i>
+<i><font color="#F9E2AF">(The mountains burned)</font></i>
+
+57
+02:38:52,970 --> 02:39:01,459
+<i><font color="#A6E3A1">♫ Sui ros garan dannant</font></i>
+<i><font color="#F9E2AF">(As red dew fell)</font></i>
+
+58
+02:39:01,970 --> 02:39:13,459
+<i><font color="#A6E3A1">♫ Or pheli Pelennor</font></i>
+<i><font color="#F9E2AF">(On the fields of Pelennor)</font></i>
+
+59
+02:46:23,970 --> 02:46:34,459
+<i><font color="#A6E3A1">♫ Dollost - dîr cuiol 'ar nin degi!</font></i>
+<i><font color="#F9E2AF">(You fool - no living man can kill me!)</font></i>
+
+60
+02:46:34,970 --> 02:46:41,459
+<i><font color="#A6E3A1">♫ Le echelithar aen Athar fuin ban</font></i>
+<i><font color="#F9E2AF">(You will be borne away Beyond all darkness)</font></i>
+
+61
+02:46:41,970 --> 02:46:44,459
+<i><font color="#A6E3A1">♫ Rhaw lîn mannen</font></i>
+<i><font color="#F9E2AF">(Your flesh devoured)</font></i>
+
+62
+02:46:44,970 --> 02:46:47,459
+<i><font color="#A6E3A1">♫ Ind tham lîn</font></i>
+<i><font color="#F9E2AF">(Your shriveled mind)</font></i>
+
+63
+02:46:47,970 --> 02:46:52,459
+<i><font color="#A6E3A1">♫ Lanc na chen be-thobas</font></i>
+<i><font color="#F9E2AF">(Left naked to the lidless eye)</font></i>
+
+64
+02:51:49,100 --> 02:51:59,459
+<i><font color="#CBA6F7">♫ Ofer endun</font></i>
+<i><font color="#F9E2AF">(Over death)</font></i>
+
+65
+02:52:00,570 --> 02:52:22,259
+<i><font color="#CBA6F7">♫ Of lyre, of lífe</font></i>
+<i><font color="#F9E2AF">(Out of loss, out of life)</font></i>
+
+66
+02:52:22,670 --> 02:52:45,459
+<i><font color="#CBA6F7">♫ tó langum wuldre</font></i>
+<i><font color="#F9E2AF">(unto long glory)</font></i>
+
+67
+02:52:45,570 --> 02:52:55,459
+<i><font color="#CBA6F7">♫ Hé.</font></i>
+<i><font color="#F9E2AF">He.</font></i>
+
+68
+02:54:53,970 --> 02:54:56,459
+<i><font color="#A6E3A1">♫ Immen dúath caeda</font></i>
+<i><font color="#F9E2AF">(Shadow lies between us)</font></i>
+
+69
+02:54:56,970 --> 02:55:01,459
+<i><font color="#A6E3A1">♫ Sui tollech, tami gwanna[thach] omen</font></i>
+<i><font color="#F9E2AF">(As you came, so you shall leave from us)</font></i>
+
+70
+02:55:01,970 --> 02:55:06,459
+<i><font color="#A6E3A1">♫ Boe naid bain gwannathar</font></i>
+<i><font color="#F9E2AF">(All things must pass away)</font></i>
+
+71
+02:55:06,970 --> 02:55:13,459
+<i><font color="#A6E3A1">♫ Boe cuil ban firitha</font></i>
+<i><font color="#F9E2AF">(All life is doomed to fade)</font></i>
+
+72
+03:06:35,008 --> 03:06:38,850
+<i><font color="#A6E3A1">Silivren penna míriel</font></i>
+<i><font color="#F9E2AF">(Glittering light falling like shining jewels)</font></i>
+
+73
+03:06:39,007 --> 03:06:43,850
+<i><font color="#A6E3A1">O menel aglar enelath!</font></i>
+<i><font color="#F9E2AF">(from the firmament the glory of the star-host!</font></i>
+
+74
+03:06:57,008 --> 03:07:01,850
+<i><font color="#A6E3A1">Silivren penna míriel</font></i>
+<i><font color="#F9E2AF">(Glittering light falling like shining jewels)</font></i>
+
+75
+03:07:03,508 --> 03:07:06,850
+<i><font color="#F38BA8">...agh burzum-ishi krimpatul</font></i>
+<i><font color="#F9E2AF">(...and in the darkness bind them)</font></i>
+
+76
+03:19:45,008 --> 03:20:00,850
+<font color="#F38BA8">Ash nazg dur</font>
+<font color="#F9E2AF">(One Ring to rule)</font>
+
+77
+03:23:08,970 --> 03:23:21,459
+<i><font color="#A6E3A1">♫ Ta han narcho nar Gurth</font></i>
+<i><font color="#F9E2AF">(Then let death break it)</font></i>
+
+78
+03:23:21,970 --> 03:23:35,459
+<i><font color="#A6E3A1">♫ Gar vethed e-chúnen</font></i>
+<i><font color="#F9E2AF">(He has the last of my heart)</font></i>
+
+79
+03:23:35,970 --> 03:23:51,459
+<i><font color="#A6E3A1">♫ go hon bedithon na meth</font></i>
+<i><font color="#F9E2AF">(I will go with him to the end)</font></i>
+
+80
+03:23:51,970 --> 03:24:06,459
+<i><font color="#A6E3A1">♫ han narcho gurth</font></i>
+<i><font color="#F9E2AF">(Then let death break it)</font></i>
+
+81
+03:24:07,170 --> 03:24:25,459
+<i><font color="#A6E3A1">♫ Gar vethed e-chúnen</font></i>
+<i><font color="#F9E2AF">(He has the last of my heart)</font></i>
+
+82
+03:24:47,470 --> 03:24:55,459
+<i><font color="#A6E3A1">♫ Na meth</font></i>
+<i><font color="#F9E2AF">(To the end)</font></i>
+
+83
+03:24:55,570 --> 03:25:16,459
+<i><font color="#A6E3A1">♫ bedithon na meth</font></i>
+<i><font color="#F9E2AF">(with him to the end)</font></i>
+
+84
+03:26:05,370 --> 03:26:12,459
+<i><font color="#A6E3A1">♫ Nín egor na ngurth nín</font></i>
+<i><font color="#F9E2AF">(If by my life or death)</font></i>
+
+85
+03:26:12,970 --> 03:26:20,459
+<i><font color="#A6E3A1">♫ Gerin le beriad</font></i>
+<i><font color="#F9E2AF">(I can protect you)</font></i>
+
+86
+03:26:20,970 --> 03:26:25,459
+<i><font color="#A6E3A1">♫ Le beriathon</font></i>
+<i><font color="#F9E2AF">(I will)</font></i>
+
+87
+03:26:25,970 --> 03:26:31,459
+<i><font color="#A6E3A1">♫ Le [anon] vegil nín</font></i>
+<i><font color="#F9E2AF">(I give you my sword)</font></i>
+
+88
+03:26:31,970 --> 03:26:35,459
+<i><font color="#A6E3A1">♫ Cyll e-Gorv</font></i>
+<i><font color="#F9E2AF">(Ringbearer)</font></i>
+
+89
+03:26:35,970 --> 03:26:46,459
+<i><font color="#A6E3A1">♫ Le annon beth nín</font></i>
+<i><font color="#F9E2AF">(I give you my word)</font></i>
+
+90
+03:26:46,970 --> 03:26:56,459
+<i><font color="#A6E3A1">♫ Ú-erir aen han risto</font></i>
+<i><font color="#F9E2AF">(It cannot be broken)</font></i>
+
+91
+03:26:56,970 --> 03:27:06,159
+<i><font color="#A6E3A1">♫ Ú-erir aen han</font></i>
+<i><font color="#F9E2AF">(Nor turned aside)</font></i>
+
+92
+03:27:06,470 --> 03:27:15,459
+<i><font color="#A6E3A1">♫ Isto Mordor: Elessar!</font></i>
+<i><font color="#F9E2AF">(Let Mordor know this: Elessar!)</font></i>
+
+93
+03:27:35,970 --> 03:27:53,159
+<i><font color="#A6E3A1">♫ Elessar! Tellin i Gondor!</font></i>
+<i><font color="#F9E2AF">(Elessar! The Lords of Gondor have come!)</font></i>
+
+94
+03:27:53,470 --> 03:27:55,659
+<i><font color="#A6E3A1">♫ Vi ól</font></i>
+<i><font color="#F9E2AF">(Lifted up)</font></i>
+
+95
+03:27:55,970 --> 03:28:07,459
+<i><font color="#A6E3A1">♫ Coll e dû</font></i>
+<i><font color="#F9E2AF">(Borne from the darkness)</font></i>
+
+96
+03:28:07,970 --> 03:28:17,459
+<i><font color="#A6E3A1">♫ Or hiriath naur</font></i>
+<i><font color="#F9E2AF">(above the rivers of fire)</font></i>
+
+97
+03:28:17,970 --> 03:28:28,459
+<i><font color="#A6E3A1">♫ Na rovail mae</font></i>
+<i><font color="#F9E2AF">(on wings soft...)</font></i>
+
+98
+03:28:28,970 --> 03:28:30,459
+<i><font color="#A6E3A1">♫ Sui 'waew</font></i>
+<i><font color="#F9E2AF">(...as the wind)</font></i>
+
+99
+03:28:30,970 --> 03:28:36,459
+<i><font color="#A6E3A1">♫ Man prestant i ardhon?</font></i>
+<i><font color="#F9E2AF">(What's happened to the world?)</font></i>
+
+100
+03:28:36,970 --> 03:28:53,459
+<i><font color="#A6E3A1">♫ Cerithar aen illiad dim úthe[ne]nin</font></i>
+<i><font color="#F9E2AF">(Is everything sad going to come untrue?)</font></i>
+
+101
+03:28:53,970 --> 03:29:02,459
+<i><font color="#A6E3A1">♫ Naur</font></i>
+<i><font color="#F9E2AF">(Fire)</font></i>
+
+102
+03:30:23,193 --> 03:30:26,445
+<i><font color="#F38BA8">...burzum-ishi krimpatul...</font></i>
+<i><font color="#F9E2AF">(...in the darkness bind them...)</font></i>
+
+103
+03:30:36,970 --> 03:30:59,459
+<i><font color="#A6E3A1">♫ Sin eriol natha túr in úgarnen</font></i>
+<i><font color="#F9E2AF">(Only thus its power will be undone)</font></i>
+
+104
+03:30:59,970 --> 03:31:08,459
+<i><font color="#A6E3A1">♫ Mi naurath Orod[dru]in</font></i>
+<i><font color="#F9E2AF">(Into the fires of Mount Doom)</font></i>
+
+105
+03:31:08,970 --> 03:31:13,459
+<i><font color="#A6E3A1">♫ Boe hedi i Vín</font></i>
+<i><font color="#F9E2AF">(The One must be cast)</font></i>
+
+106
+03:31:13,970 --> 03:31:20,459
+<i><font color="#A6E3A1">♫ Han i vangad i moe ben bango</font></i>
+<i><font color="#F9E2AF">(This is the price that must be paid)</font></i>
+
+107
+03:31:20,970 --> 03:31:30,459
+<i><font color="#A6E3A1">♫ Sin eriol natha túr in úgarnen</font></i>
+<i><font color="#F9E2AF">(Only thus its power will be undone)</font></i>
+
+108
+03:31:30,970 --> 03:31:45,459
+<i><font color="#A6E3A1">♫ Sin eriol ûm beleg úgannen</font></i>
+<i><font color="#F9E2AF">(Only thus a great evil unmade)</font></i>
+
+109
+03:31:45,970 --> 03:31:52,459
+<i><font color="#A6E3A1">♫ Ú cilith war</font></i>
+<i><font color="#F9E2AF">(There is no other choice)</font></i>
+
+110
+03:31:52,970 --> 03:31:57,459
+<i><font color="#A6E3A1">♫ Ú men 'war</font></i>
+<i><font color="#F9E2AF">(There is no other way)</font></i>
+
+111
+03:31:57,970 --> 03:32:00,659
+<i><font color="#A6E3A1">♫ Boe min mebi</font></i>
+<i><font color="#F9E2AF">(One of you must take it)</font></i>
+
+112
+03:32:00,970 --> 03:32:08,459
+<i><font color="#A6E3A1">♫ Boe min bango</font></i>
+<i><font color="#F9E2AF">(One of you must pay)</font></i>
+
+113
+03:32:08,970 --> 03:32:20,459
+<i><font color="#A6E3A1">♫ Sin eriol na[tha]</font></i>
+<i><font color="#F9E2AF">(Only thus)</font></i>
+
+114
+03:32:20,970 --> 03:32:30,659
+<i><font color="#A6E3A1">♫ Úm beleg úgannen</font></i>
+<i><font color="#F9E2AF">(a great evil unmade)</font></i>
+
+115
+03:32:30,970 --> 03:32:34,459
+<i><font color="#A6E3A1">♫ Ú cilith 'war</font></i>
+<i><font color="#F9E2AF">(There is no other choice)</font></i>
+
+116
+03:32:34,970 --> 03:32:37,459
+<i><font color="#A6E3A1">♫ Boe min mebi</font></i>
+<i><font color="#F9E2AF">(One of you must take it)</font></i>
+
+117
+03:32:37,970 --> 03:32:44,459
+<i><font color="#A6E3A1">♫ Boe min bango</font></i>
+<i><font color="#F9E2AF">(One of you must pay)</font></i>
+
+118
+03:32:50,970 --> 03:32:57,459
+<i><font color="#A6E3A1">♫ Boe hedi i Vín</font></i>
+<i><font color="#F9E2AF">(The One must be cast)</font></i>
+
+119
+03:32:57,970 --> 03:33:13,459
+<i><font color="#A6E3A1">♫ Sin eriol úm beleg úgannen</font></i>
+<i><font color="#F9E2AF">(Only thus a great evil unmade)</font></i>
+
+120
+03:33:57,970 --> 03:34:21,459
+<i><font color="#A6E3A1">♫ Go hon bedithon na meth</font></i>
+<i><font color="#F9E2AF">(I will go with him to the end)</font></i>
+
+121
+03:34:21,970 --> 03:34:33,459
+<i><font color="#A6E3A1">♫ Mi naurath Orodruin...</font></i>
+<i><font color="#F9E2AF">(Into the fires of Mount Doom...)</font></i>
+
+122
+03:35:04,970 --> 03:35:15,459
+<i><font color="#A6E3A1">♫ ...Boe hedi i Vin</font></i>
+<i><font color="#F9E2AF">(...The One must be cast)</font></i>
+
+123
+03:35:15,970 --> 03:35:27,459
+<i><font color="#A6E3A1">♫ Bedithon na meth</font></i>
+<i><font color="#F9E2AF">(With him to the end)</font></i>
+
+124
+03:35:57,970 --> 03:36:02,459
+<i><font color="#A6E3A1">♫ Nu dalav</font></i>
+<i><font color="#F9E2AF">(Beneath the ground)</font></i>
+
+125
+03:36:02,970 --> 03:36:14,459
+<i><font color="#A6E3A1">♫ Úrui tuiannen na ruith</font></i>
+<i><font color="#F9E2AF">(Swollen hot with anger)</font></i>
+
+126
+03:36:14,970 --> 03:36:29,459
+<i><font color="#A6E3A1">♫ Leithia Orodruin oe in phan</font></i>
+<i><font color="#F9E2AF">(Orodruin releases all its ruin)</font></i>
+
+127
+03:39:22,970 --> 03:39:33,459
+<i><font color="#A6E3A1">♫ Orthannen im vi ól</font></i>
+<i><font color="#F9E2AF">(In a dream I was lifted up)</font></i>
+
+128
+03:39:33,970 --> 03:39:36,459
+<i><font color="#A6E3A1">♫ Coll e dû</font></i>
+<i><font color="#F9E2AF">(Borne from the darkness)</font></i>
+
+129
+03:39:36,970 --> 03:39:52,459
+<i><font color="#A6E3A1">♫ Na rovail mae sui</font></i>
+<i><font color="#F9E2AF">(on wings soft as the wind)</font></i>
+
+130
+03:39:52,970 --> 03:40:00,459
+<i><font color="#A6E3A1">♫ Man prestant i ardhon?</font></i>
+<i><font color="#F9E2AF">(What's happened to the world?)</font></i>
+
+131
+03:40:00,970 --> 03:40:15,459
+<i><font color="#A6E3A1">♫ Cerithar aen dim úthenin?</font></i>
+<i><font color="#F9E2AF">(Is everything sad going to come untrue?)</font></i>
+
+132
+03:44:15,500 --> 03:44:18,500
+<font color="#89B4FA">Et Eärello</font>
+<font color="#F9E2AF">(Out of the Great Sea)</font>
+
+133
+03:44:20,100 --> 03:44:26,500
+<font color="#89B4FA">Endorenna utúlien.</font>
+<font color="#F9E2AF">(to Middle-earth I am come)</font>
+
+134
+03:44:28,500 --> 03:44:32,500
+<font color="#89B4FA">Sinome maruvan</font>
+<font color="#F9E2AF">(In this place I will abide)</font>
+
+135
+03:44:33,500 --> 03:44:39,000
+<font color="#89B4FA">ar Hildinyar</font>
+<font color="#F9E2AF">(and my heirs)</font>
+
+136
+03:44:40,000 --> 03:44:48,500
+<font color="#89B4FA">tenn’ Ambar-metta</font>
+<font color="#F9E2AF">(unto the ending of the world)</font>
+
+137
+03:44:57,500 --> 03:44:59,000
+<font color="#A6E3A1">Hannon le.</font>
+<font color="#F9E2AF">(Thank you.)</font>
+
+138
+03:45:11,970 --> 03:45:35,459
+<i><font color="#A6E3A1">♫ Tinúviel el vanui</font></i>
+<i><font color="#F9E2AF">(Tinúviel, the elven-fair)</font></i>
+
+139
+03:45:35,970 --> 03:45:54,459
+<i><font color="#A6E3A1">♫ Elleth alfirin edhelhael</font></i>
+<i><font color="#F9E2AF">(Immortal maiden elven-wise)</font></i>
+
+140
+03:54:16,400 --> 03:54:19,400
+<font color="#A6E3A1">I Aear cân ven na mar.</font>
+<font color="#F9E2AF">(The sea calls us home.)</font>
+
