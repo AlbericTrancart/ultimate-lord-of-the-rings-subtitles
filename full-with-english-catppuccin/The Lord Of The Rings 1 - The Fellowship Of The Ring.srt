@@ -1,0 +1,8626 @@
+1
+00:00:24,233 --> 00:00:37,650
+<i><font color="#89B4FA">♫ Man ammen toltha I dann hen morn?</font></i>
+<i><font color="#F9E2AF">(Who brings to us this token of darkness?)</font></i>
+
+2
+00:00:31,250 --> 00:00:34,349
+<font color="#A6E3A1">I amar prestar aen.</font>
+
+3
+00:00:34,550 --> 00:00:36,649
+The world is changed.
+
+4
+00:00:36,650 --> 00:00:37,650
+<font color="#A6E3A1">Han mathon ne nen.</font>
+
+5
+00:00:37,749 --> 00:00:49,440
+<i><font color="#89B4FA">♫ Si danna atha nauva</font></i>
+<i><font color="#F9E2AF">(Now all will fall away)</font></i>
+
+6
+00:00:37,750 --> 00:00:39,749
+I feel it in the water.
+
+7
+00:00:39,950 --> 00:00:41,349
+<font color="#A6E3A1">Han mathon ne chae.</font>
+
+8
+00:00:41,550 --> 00:00:44,000
+I feel it in the earth.
+
+9
+00:00:44,150 --> 00:00:46,000
+<font color="#A6E3A1">A han noston ned 'wilith.</font>
+
+10
+00:00:46,200 --> 00:00:49,449
+I smell it in the air.
+
+11
+00:00:49,450 --> 00:00:51,549
+Much that once was...
+
+12
+00:00:51,550 --> 00:00:53,849
+...is lost.
+
+13
+00:00:53,850 --> 00:00:56,849
+For none now live who remember it.
+
+14
+00:01:09,750 --> 00:01:14,249
+It began with the forging of the great rings.
+
+15
+00:01:14,250 --> 00:01:16,449
+Three were given to the elves:
+
+16
+00:01:16,450 --> 00:01:21,550
+Immortal, wisest and fairest of all beings.
+
+17
+00:01:21,550 --> 00:01:24,049
+Seven to the dwarf-lords:
+
+18
+00:01:24,050 --> 00:01:28,949
+Great miners and craftsmen of the mountain halls.
+
+19
+00:01:28,950 --> 00:01:30,449
+And nine...
+
+20
+00:01:30,450 --> 00:01:33,649
+...nine rings were gifted to the race of men...
+
+21
+00:01:33,650 --> 00:01:38,549
+...who, above all else, desire power.
+
+22
+00:01:38,550 --> 00:01:45,050
+For within these rings was bound
+the strength and will to govern each race.
+
+23
+00:01:45,350 --> 00:01:48,759
+But they were all of them deceived.
+
+24
+00:01:48,760 --> 00:01:51,659
+For another ring was made.
+
+25
+00:01:51,660 --> 00:01:55,659
+In the land of Mordor,
+in the fires of Mount Doom...
+
+26
+00:01:55,660 --> 00:02:00,359
+... the Dark Lord Sauron forged
+in secret a master ring...
+
+27
+00:02:00,360 --> 00:02:02,559
+... to control all others.
+
+28
+00:02:02,560 --> 00:02:06,759
+And into this ring he poured
+his cruelty, his malice...
+
+29
+00:02:06,760 --> 00:02:11,959
+...and his will to dominate all life.
+
+30
+00:02:11,960 --> 00:02:16,659
+One ring to rule them all.
+
+31
+00:02:16,660 --> 00:02:18,459
+One by one...
+
+32
+00:02:18,460 --> 00:02:23,359
+... the free lands of Middle-earth
+fell to the power of the ring.
+
+33
+00:02:23,360 --> 00:02:26,959
+But there were some who resisted.
+
+34
+00:02:26,960 --> 00:02:31,759
+A last alliance of men and elves
+marched against the armies of Mordor.
+
+35
+00:02:31,760 --> 00:02:37,760
+And on the slopes of Mount Doom, they
+fought for the freedom of Middle-earth.
+
+36
+00:02:42,970 --> 00:02:53,459
+<i><font color="#778899">♫ Nênâkham nêpâm abârat aglar</font></i>
+<i><font color="#F9E2AF">(We come grasp power and glory)</font></i>
+
+37
+00:02:48,970 --> 00:02:51,459
+<font color="#A6E3A1">Tangado haid!</font>
+<font color="#F9E2AF">(Hold positions!)</font>
+
+38
+00:02:51,460 --> 00:02:56,560
+<font color="#A6E3A1">Leithio i philinn!</font>
+<font color="#F9E2AF">(Loose the arrows!)</font>
+
+39
+00:02:53,970 --> 00:02:58,459
+<i><font color="#778899">♫ Nêbâ Katharâd</font></i>
+<i><font color="#F9E2AF">(Deny Eternal Life)</font></i>
+
+40
+00:02:59,970 --> 00:03:04,459
+<i><font color="#778899">♫ Nidir nênâ</font></i>
+<i><font color="#F9E2AF">(We are the Nine)</font></i>
+
+41
+00:03:04,970 --> 00:03:12,459
+<i><font color="#778899">♫ Nêbâbîtham dâur</font></i>
+<i><font color="#F9E2AF">(We cling to the darkness)</font></i>
+
+42
+00:03:06,770 --> 00:03:10,770
+Victory was near.
+
+43
+00:03:14,070 --> 00:03:16,669
+But the power of the ring...
+
+44
+00:03:16,670 --> 00:03:19,970
+...could not be undone.
+
+45
+00:03:27,970 --> 00:03:38,459
+<i><font color="#778899">♫ Nênâkham nêpâm abârat aglar</font></i>
+<i><font color="#F9E2AF">(We come grasp power and glory)</font></i>
+
+46
+00:03:42,770 --> 00:03:44,869
+It was in this moment...
+
+47
+00:03:44,870 --> 00:03:47,469
+... when all hope had faded...
+
+48
+00:03:47,470 --> 00:03:52,870
+... that Isildur, son of the king,
+took up his father's sword.
+
+49
+00:04:22,680 --> 00:04:30,380
+Sauron, the enemy of the free peoples
+of Middle-earth, was defeated.
+
+50
+00:04:36,080 --> 00:04:38,479
+The ring passed to Isildur...
+
+51
+00:04:38,480 --> 00:04:43,379
+... who had this one chance to destroy evil forever.
+
+52
+00:04:43,380 --> 00:04:45,679
+But the hearts of men...
+
+53
+00:04:45,680 --> 00:04:48,479
+...are easily corrupted.
+
+54
+00:04:48,480 --> 00:04:54,380
+And the ring of power has a will of its own.
+
+55
+00:05:18,290 --> 00:05:22,290
+It betrayed Isildur...
+
+56
+00:05:22,790 --> 00:05:26,590
+... to his death.
+
+57
+00:05:29,390 --> 00:05:33,389
+And some things
+that should not have been forgotten...
+
+58
+00:05:33,390 --> 00:05:36,489
+...were lost.
+
+59
+00:05:36,490 --> 00:05:38,989
+History became legend...
+
+60
+00:05:38,990 --> 00:05:41,189
+...legend became myth.
+
+61
+00:05:41,190 --> 00:05:44,289
+And for two and a half thousand years...
+
+62
+00:05:44,290 --> 00:05:48,589
+... the ring passed out of all knowledge.
+
+63
+00:05:48,590 --> 00:05:52,089
+Until, when chance came...
+
+64
+00:05:52,090 --> 00:05:56,590
+...it ensnared a new bearer.
+
+65
+00:05:56,590 --> 00:06:00,000
+My precious.
+
+66
+00:06:00,390 --> 00:06:15,589
+<i><font color="#89B4FA">♫ Tercáno Nuruva</font></i>
+<i><font color="#F9E2AF">(The Herald of Death)</font></i>
+
+67
+00:06:01,690 --> 00:06:04,389
+The ring came to the creature Gollum...
+
+68
+00:06:04,390 --> 00:06:08,589
+... who took it deep into the tunnels
+of the Misty Mountains.
+
+69
+00:06:08,590 --> 00:06:11,689
+And there it consumed him.
+
+70
+00:06:11,690 --> 00:06:13,889
+It came to me.
+
+71
+00:06:13,890 --> 00:06:18,589
+My own. My love. My own.
+
+72
+00:06:18,590 --> 00:06:24,590
+My precious.
+
+73
+00:06:26,890 --> 00:06:30,599
+The ring brought to Gollum unnatural long life.
+
+74
+00:06:30,600 --> 00:06:34,489
+For 500 years it poisoned his mind.
+
+75
+00:06:34,490 --> 00:06:39,299
+And in the gloom of Gollum's cave, it waited.
+
+76
+00:06:39,300 --> 00:06:42,899
+Darkness crept back into the forests of the world.
+
+77
+00:06:42,900 --> 00:06:45,899
+Rumor grew of a shadow in the East...
+
+78
+00:06:45,900 --> 00:06:48,899
+... whispers of a nameless fear.
+
+79
+00:06:48,900 --> 00:06:52,499
+And the ring of power perceived...
+
+80
+00:06:52,500 --> 00:06:56,600
+...its time had now come.
+
+81
+00:06:57,700 --> 00:07:00,999
+It abandoned Gollum.
+
+82
+00:07:01,000 --> 00:07:06,299
+But something happened then
+the ring did not intend.
+
+83
+00:07:06,300 --> 00:07:11,099
+It was picked up by the most
+unlikely creature imaginable.
+
+84
+00:07:11,100 --> 00:07:12,399
+What's this?
+
+85
+00:07:12,400 --> 00:07:13,899
+A hobbit.
+
+86
+00:07:13,900 --> 00:07:16,999
+Bilbo Baggins of the Shire.
+
+87
+00:07:17,000 --> 00:07:18,899
+A ring.
+
+88
+00:07:18,900 --> 00:07:22,200
+Lost!
+
+89
+00:07:23,500 --> 00:07:27,199
+My precious is lost!
+
+90
+00:07:27,200 --> 00:07:29,799
+For the time will soon come...
+
+91
+00:07:29,800 --> 00:07:36,200
+... when Hobbits will shape the fortunes of all.
+
+92
+00:07:39,200 --> 00:07:42,499
+The 22nd day of September...
+
+93
+00:07:42,900 --> 00:07:46,399
+...in the year 1400...
+
+94
+00:07:46,400 --> 00:07:48,809
+...by Shire-reckoning.
+
+95
+00:07:48,810 --> 00:07:54,809
+Bag End, Bagshot Row.
+Hobbiton, Westfarthing...
+
+96
+00:07:54,810 --> 00:07:57,009
+...the Shire...
+
+97
+00:07:57,010 --> 00:08:01,210
+...Middle-earth.
+
+98
+00:08:04,410 --> 00:08:09,110
+The third age of this world.
+
+99
+00:08:10,010 --> 00:08:16,510
+
+
+100
+00:08:19,410 --> 00:08:23,410
+There and back again.
+
+101
+00:08:23,910 --> 00:08:25,909
+A Hobbit's tale.
+
+102
+00:08:25,910 --> 00:08:31,210
+By Bilbo Baggins.
+
+103
+00:08:34,610 --> 00:08:37,109
+Now...
+
+104
+00:08:37,110 --> 00:08:40,409
+...where to begin?
+
+105
+00:08:40,410 --> 00:08:42,910
+Ah, yes....
+
+106
+00:08:45,910 --> 00:08:48,909
+"Concerning...
+
+107
+00:08:48,910 --> 00:08:51,609
+...Hobbits."
+
+108
+00:08:51,610 --> 00:08:55,309
+Hobbits have been living and farming
+in the four Farthings of the Shire...
+
+109
+00:08:55,310 --> 00:08:57,519
+...for many hundreds of years...
+
+110
+00:08:57,520 --> 00:09:00,719
+...quite content to ignore and be ignored...
+
+111
+00:09:00,720 --> 00:09:04,219
+...by the world of the big folk.
+
+112
+00:09:04,220 --> 00:09:10,019
+Middle-earth being, after all,
+full of strange creatures beyond count...
+
+113
+00:09:10,020 --> 00:09:13,419
+...Hobbits must seem of little importance...
+
+114
+00:09:13,420 --> 00:09:17,619
+...being neither renowned as great warriors...
+
+115
+00:09:17,620 --> 00:09:23,120
+...nor counted among the very wise.
+
+116
+00:09:26,120 --> 00:09:30,319
+Frodo! Someone at the door.
+
+117
+00:09:30,320 --> 00:09:33,119
+In fact, it has been remarked by some...
+
+118
+00:09:33,120 --> 00:09:37,919
+... that Hobbits' only real passion is for food.
+
+119
+00:09:37,920 --> 00:09:40,319
+A rather unfair observation...
+
+120
+00:09:40,320 --> 00:09:44,419
+...as we have also developed a keen
+interest in the brewing of ales...
+
+121
+00:09:44,420 --> 00:09:47,619
+...and the smoking of pipe-weed.
+
+122
+00:09:47,620 --> 00:09:50,619
+But where our hearts truly lie...
+
+123
+00:09:50,620 --> 00:09:53,519
+...is in peace and quiet...
+
+124
+00:09:53,520 --> 00:09:55,819
+...and good, tilled earth.
+
+125
+00:09:55,820 --> 00:10:02,320
+For all Hobbits share a love of things that grow.
+
+126
+00:10:04,120 --> 00:10:08,719
+And yes, no doubt to others our ways seem quaint.
+
+127
+00:10:08,720 --> 00:10:14,519
+But today of all days.
+It is brought home to me...
+
+128
+00:10:14,520 --> 00:10:21,720
+It is no bad thing to celebrate a simple life.
+
+129
+00:10:24,630 --> 00:10:29,230
+Frodo, the door!
+
+130
+00:10:31,630 --> 00:10:33,729
+Sticklebacks. Where is that boy?
+
+131
+00:10:33,730 --> 00:10:36,930
+Frodo!
+
+132
+00:10:41,230 --> 00:10:46,130
+<i>Down from the door where it began</i>
+
+133
+00:10:49,630 --> 00:10:54,429
+<i>And I must follow if I can</i>
+
+134
+00:10:54,430 --> 00:10:58,729
+<i>The road goes ever on and on</i>
+
+135
+00:10:58,730 --> 00:11:02,429
+<i>Down from the door where it began</i>
+
+136
+00:11:02,430 --> 00:11:08,029
+<i>Now far ahead the road has gone</i>
+
+137
+00:11:08,030 --> 00:11:13,130
+<i>And I must follow if I can</i>
+- You're late.
+
+138
+00:11:15,030 --> 00:11:19,639
+A wizard is never late, Frodo Baggins.
+
+139
+00:11:19,640 --> 00:11:25,640
+Nor is he early.
+He arrives precisely when he means to.
+
+140
+00:11:35,640 --> 00:11:40,040
+It's wonderful to see you, Gandalf!
+
+141
+00:11:42,540 --> 00:11:47,640
+You didn't think I'd miss
+your Uncle Bilbo's birthday?
+
+142
+00:11:47,940 --> 00:11:50,739
+How is the old rascal?
+
+143
+00:11:50,740 --> 00:11:54,439
+I hear it's going to be a party
+of special magnificence.
+
+144
+00:11:54,440 --> 00:11:57,039
+You know Bilbo.
+He's got the whole piece in an uproar.
+
+145
+00:11:57,040 --> 00:11:59,139
+Well, that should please him.
+
+146
+00:11:59,140 --> 00:12:01,339
+Half the Shire's been invited.
+
+147
+00:12:01,340 --> 00:12:05,340
+And the rest of them are turning up anyway.
+
+148
+00:12:07,040 --> 00:12:10,639
+And so life in the Shire goes on...
+
+149
+00:12:10,640 --> 00:12:13,839
+... very much as it has this past age.
+
+150
+00:12:13,840 --> 00:12:19,439
+Full of its own comings and goings,
+with change coming slowly.
+
+151
+00:12:19,440 --> 00:12:22,739
+If it comes at all.
+
+152
+00:12:22,740 --> 00:12:26,339
+For things are made to endure in the Shire...
+
+153
+00:12:26,340 --> 00:12:30,239
+...passing from one generation to the next.
+
+154
+00:12:30,240 --> 00:12:35,439
+There's always been a Baggins
+living here under the Hill...
+
+155
+00:12:35,440 --> 00:12:38,240
+...in Bag End.
+
+156
+00:12:39,550 --> 00:12:43,049
+And there always will be.
+
+157
+00:12:43,050 --> 00:12:47,649
+To tell you the truth,
+Bilbo's been a bit odd lateIy.
+
+158
+00:12:47,650 --> 00:12:50,949
+I mean, more than usual.
+
+159
+00:12:50,950 --> 00:12:54,250
+He's taken to locking himself in his study.
+
+160
+00:12:54,450 --> 00:12:59,950
+He spends hours and hours poring over
+old maps when he thinks I'm not looking.
+
+161
+00:13:11,350 --> 00:13:14,450
+Where's it gone?
+
+162
+00:13:39,550 --> 00:13:43,250
+He's up to something.
+
+163
+00:13:49,950 --> 00:13:52,659
+- All right, then. Keep your secrets.
+- What?
+
+164
+00:13:52,660 --> 00:13:54,649
+But I know you have something to do with it.
+
+165
+00:13:54,650 --> 00:13:56,159
+Good gracious me.
+
+166
+00:13:56,160 --> 00:13:59,159
+Before you came along, we Bagginses
+were very well thought of.
+
+167
+00:13:59,160 --> 00:14:00,359
+Indeed.
+
+168
+00:14:00,360 --> 00:14:03,159
+Never had any adventures
+or did anything unexpected.
+
+169
+00:14:03,160 --> 00:14:09,159
+If you're referring to the incident with the dragon.
+I was barely involved.
+
+170
+00:14:09,160 --> 00:14:12,959
+All I did was give your uncle
+a little nudge out of the door.
+
+171
+00:14:12,960 --> 00:14:17,559
+Whatever you did, you've been officially
+labeled a disturber of the peace.
+
+172
+00:14:17,560 --> 00:14:20,860
+Oh, really?
+
+173
+00:14:25,060 --> 00:14:28,460
+Gandalf! Gandalf!
+
+174
+00:14:33,160 --> 00:14:35,860
+Fireworks, Gandalf!
+
+175
+00:14:37,460 --> 00:14:41,460
+- Gandalf!
+- Fireworks, Gandalf!
+
+176
+00:14:58,960 --> 00:15:00,559
+Gandalf?
+
+177
+00:15:00,560 --> 00:15:05,960
+- I'm glad you're back.
+- So am I, dear boy.
+
+178
+00:15:09,060 --> 00:15:12,360
+So am I.
+
+179
+00:15:42,770 --> 00:15:44,369
+No, thank you!
+
+180
+00:15:44,370 --> 00:15:48,569
+We don't want any more visitors,
+well-wishers or distant relations!
+
+181
+00:15:48,570 --> 00:15:53,370
+And what about very old friends?
+
+182
+00:15:55,270 --> 00:15:57,569
+Gandalf?
+
+183
+00:15:57,570 --> 00:16:01,269
+- Bilbo Baggins.
+- My dear Gandalf!
+
+184
+00:16:01,270 --> 00:16:07,670
+Good to see you. 111 years old!
+Who would believe it?
+
+185
+00:16:08,170 --> 00:16:11,570
+You haven't aged a day.
+
+186
+00:16:16,770 --> 00:16:18,969
+Come on, come in!
+
+187
+00:16:18,970 --> 00:16:22,579
+Welcome, welcome.
+
+188
+00:16:22,580 --> 00:16:26,480
+Oh, here we are.
+
+189
+00:16:26,780 --> 00:16:29,379
+Tea...or maybe something a littIe stronger?
+
+190
+00:16:29,380 --> 00:16:33,379
+I've got a few bottles of the old winyard left - 1296.
+
+191
+00:16:33,380 --> 00:16:38,579
+Very good year. Almost as old as I am.
+
+192
+00:16:38,580 --> 00:16:43,279
+It was laid down by my father.
+What say we open one, eh?
+
+193
+00:16:43,280 --> 00:16:47,280
+Just tea, thank you.
+
+194
+00:16:52,380 --> 00:16:54,179
+I was expecting you sometime last week.
+
+195
+00:16:54,180 --> 00:16:57,679
+Not that it matters. You come and go as
+you please. Always have and always will.
+
+196
+00:16:57,680 --> 00:17:03,079
+You caught me a bit unprepared I'm afraid.
+We've only got cold chicken and a bit of pickle....
+
+197
+00:17:03,080 --> 00:17:06,679
+There's some cheese here.
+No, that won't do.
+
+198
+00:17:06,680 --> 00:17:11,279
+We've got raspberry jam, an apple tart....
+
+199
+00:17:11,280 --> 00:17:15,479
+But not much for afters.
+Oh, no, we're all right.
+
+200
+00:17:15,480 --> 00:17:19,680
+I've just found some sponge cake.
+
+201
+00:17:21,280 --> 00:17:23,980
+I could make you some eggs if you'd li...
+
+202
+00:17:26,390 --> 00:17:30,089
+- Just tea, thank you.
+- Oh, right.
+
+203
+00:17:30,090 --> 00:17:33,579
+- You don't mind if I eat, do you?
+- No, not at all.
+
+204
+00:17:33,580 --> 00:17:35,679
+Bilbo! Bilbo Baggins!
+
+205
+00:17:35,680 --> 00:17:38,680
+I'm not at home!
+
+206
+00:17:43,290 --> 00:17:46,089
+It's the Sackville-Bagginses.
+
+207
+00:17:46,090 --> 00:17:48,789
+- I know you're in there!
+- They're after the house.
+
+208
+00:17:48,790 --> 00:17:51,489
+They've never forgiven me for living this long.
+
+209
+00:17:51,490 --> 00:17:54,389
+I've got to get away from these confounded
+relatives, hanging on the bell all day...
+
+210
+00:17:54,390 --> 00:17:57,189
+...never giving me a moment's peace.
+
+211
+00:17:57,190 --> 00:18:00,889
+I want to see mountains again.
+Mountains, Gandalf!
+
+212
+00:18:00,890 --> 00:18:05,589
+And then find somewhere quiet
+where I can finish my book. Oh, tea.
+
+213
+00:18:05,590 --> 00:18:09,789
+- So you mean to go through with your plan?
+- Yes, yes. It's all in hand.
+
+214
+00:18:09,790 --> 00:18:13,390
+All the arrangements are made.
+
+215
+00:18:14,090 --> 00:18:16,289
+Oh, thank you.
+
+216
+00:18:16,290 --> 00:18:18,589
+Frodo suspects something.
+
+217
+00:18:18,590 --> 00:18:21,289
+Of course he does. He's a Baggins...
+
+218
+00:18:21,290 --> 00:18:24,489
+...not some blockheaded Bracegirdle
+from Hardbottle.
+
+219
+00:18:24,490 --> 00:18:28,089
+You will tell him, won't you?
+
+220
+00:18:28,090 --> 00:18:31,590
+- Yes, yes.
+- He's very fond of you.
+
+221
+00:18:32,390 --> 00:18:35,390
+I know.
+
+222
+00:18:36,290 --> 00:18:40,299
+He'd probably come with me if I asked him.
+
+223
+00:18:40,300 --> 00:18:45,000
+I think in his heart, Frodo's
+still in love with the Shire.
+
+224
+00:18:45,200 --> 00:18:47,799
+The woods, the fields.
+
+225
+00:18:47,800 --> 00:18:51,500
+Little rivers.
+
+226
+00:18:54,600 --> 00:18:58,700
+I am old, Gandalf.
+
+227
+00:18:58,700 --> 00:19:05,200
+I know I don't look it, but I'm
+beginning to feel it in my heart.
+
+228
+00:19:06,100 --> 00:19:08,799
+I feel thin.
+
+229
+00:19:08,800 --> 00:19:11,799
+Sort of stretched...
+
+230
+00:19:11,800 --> 00:19:15,399
+...like butter scraped over too much bread.
+
+231
+00:19:15,400 --> 00:19:19,999
+I need a holiday. A very Long holiday.
+
+232
+00:19:20,000 --> 00:19:24,600
+And I don't expect I shall return.
+
+233
+00:19:25,500 --> 00:19:30,100
+In fact, I mean not to.
+
+234
+00:19:31,300 --> 00:19:36,700
+Old Toby.
+The finest weed in the Southfarthing.
+
+235
+00:19:52,800 --> 00:19:55,499
+Gandalf, my old friend...
+
+236
+00:19:55,500 --> 00:19:59,700
+...this will be a night to remember.
+
+237
+00:20:21,110 --> 00:20:22,509
+Hello, hello.
+
+238
+00:20:22,510 --> 00:20:27,609
+Fatty Bolger. Lovely to see you.
+Welcome, welcome.
+
+239
+00:20:27,610 --> 00:20:31,510
+Go on, Sam. Ask Rosie for a dance.
+
+240
+00:20:32,710 --> 00:20:37,309
+- I think I'll just have another ale.
+- Oh, no, you don't.
+
+241
+00:20:37,310 --> 00:20:40,610
+Go on!
+
+242
+00:20:49,310 --> 00:20:51,309
+So there I was...
+
+243
+00:20:51,310 --> 00:20:55,609
+...at the mercy of three monstrous trolls.
+
+244
+00:20:55,610 --> 00:20:57,709
+And they were all arguing amongst themselves...
+
+245
+00:20:57,710 --> 00:21:00,309
+...about how they were going to cook us.
+
+246
+00:21:00,310 --> 00:21:06,409
+Whether it be turned on a spit, or to sit
+on us one by one, squash us into jelly.
+
+247
+00:21:06,410 --> 00:21:10,109
+They spent so much time arguing
+the whithertos and the whyfors...
+
+248
+00:21:10,110 --> 00:21:14,719
+...that the sun's first light
+crept over the top of the trees...
+
+249
+00:21:14,720 --> 00:21:18,620
+...and turned them all to stone!
+
+250
+00:21:22,620 --> 00:21:25,420
+Quickly.
+
+251
+00:21:28,120 --> 00:21:31,620
+Up they go!
+
+252
+00:21:33,020 --> 00:21:35,820
+No no, the big one - big one
+
+253
+00:21:43,420 --> 00:21:46,419
+Mrs. Bracegirdle, how nice to see you.
+Welcome, welcome.
+
+254
+00:21:46,420 --> 00:21:48,519
+Are all these children yours?
+
+255
+00:21:48,520 --> 00:21:52,920
+Good gracious, you have been productive.
+
+256
+00:21:53,520 --> 00:21:56,320
+Bilbo?
+
+257
+00:21:56,520 --> 00:21:58,519
+Sackville-Bagginses!
+
+258
+00:21:58,520 --> 00:22:01,020
+Quickly, hide!
+
+259
+00:22:09,520 --> 00:22:13,120
+Thank you, my boy.
+
+260
+00:22:13,220 --> 00:22:16,819
+You're a good lad, Frodo.
+
+261
+00:22:16,820 --> 00:22:20,019
+I'm very selfish, you know.
+
+262
+00:22:20,020 --> 00:22:23,929
+Yes, I am. Very selfish.
+
+263
+00:22:23,930 --> 00:22:26,329
+I don't know why I took you in after
+your mother and father died...
+
+264
+00:22:26,330 --> 00:22:28,419
+...but it wasn't out of charity.
+
+265
+00:22:28,420 --> 00:22:29,919
+I think it was because...
+
+266
+00:22:29,920 --> 00:22:32,519
+...of all my numerous relations...
+
+267
+00:22:32,520 --> 00:22:36,429
+...you were the one Baggins that showed real spirit.
+
+268
+00:22:36,430 --> 00:22:38,429
+Bilbo, have you been at the Gaffer's home brew?
+
+269
+00:22:38,430 --> 00:22:40,329
+No.
+
+270
+00:22:40,330 --> 00:22:43,229
+Well, yes, but that's not the point.
+
+271
+00:22:43,230 --> 00:22:47,830
+The point is, Frodo...
+
+272
+00:22:49,530 --> 00:22:52,930
+...you'll be all right.
+
+273
+00:22:54,930 --> 00:22:57,129
+- Done!
+- You're supposed to stick it in the ground.
+
+274
+00:22:57,130 --> 00:22:58,829
+- It is in the ground.
+- Outside!
+
+275
+00:22:58,830 --> 00:23:01,830
+This was your idea.
+
+276
+00:23:16,230 --> 00:23:18,929
+Bilbo.
+
+277
+00:23:18,930 --> 00:23:21,829
+Bilbo, watch out for the dragon!
+
+278
+00:23:21,830 --> 00:23:26,630
+Nonsense. There hasn't been a dragon
+in these parts for thousands of years.
+
+279
+00:23:38,740 --> 00:23:43,640
+- That was good.
+- Let's get another one.
+
+280
+00:23:43,640 --> 00:23:48,339
+Meriadoc Brandybuck and Peregrin Took.
+
+281
+00:23:48,340 --> 00:23:51,640
+I might've known.
+
+282
+00:23:56,140 --> 00:23:59,139
+Speech, Bilbo!
+
+283
+00:23:59,140 --> 00:24:00,639
+Speech!
+
+284
+00:24:00,640 --> 00:24:03,140
+Speech!
+
+285
+00:24:06,940 --> 00:24:09,939
+My dear Bagginses and Boffins...
+
+286
+00:24:09,940 --> 00:24:12,339
+...Tooks and Brandybucks...
+
+287
+00:24:12,340 --> 00:24:15,039
+...Grubbs, Chubbs...
+
+288
+00:24:15,040 --> 00:24:17,239
+...Hornblowers...
+
+289
+00:24:17,240 --> 00:24:19,339
+...Bolgers...
+
+290
+00:24:19,340 --> 00:24:21,139
+...Bracegirdles...
+
+291
+00:24:21,140 --> 00:24:25,140
+...and Proudfoots.
+- Proudfeet!
+
+292
+00:24:25,940 --> 00:24:28,440
+Today is my 111th birthday!
+
+293
+00:24:28,840 --> 00:24:31,539
+Happy birthday!
+
+294
+00:24:32,540 --> 00:24:37,039
+But alas, eleventh-one years is
+far too short a time to live among...
+
+295
+00:24:37,040 --> 00:24:40,939
+...such excellent and admirable Hobbits.
+
+296
+00:24:40,940 --> 00:24:43,849
+I don't know half of you
+half as well as I should like...
+
+297
+00:24:43,850 --> 00:24:49,750
+...and I like less than half of you
+half as well as you deserve.
+
+298
+00:24:58,450 --> 00:25:02,150
+I have things to do.
+
+299
+00:25:07,150 --> 00:25:10,650
+I've put this off for far too long.
+
+300
+00:25:13,150 --> 00:25:18,249
+I regret to announce this is the end!
+
+301
+00:25:18,250 --> 00:25:20,549
+I'm going now.
+
+302
+00:25:20,550 --> 00:25:24,850
+I bid you all a very fond farewell.
+
+303
+00:25:25,750 --> 00:25:28,450
+Goodbye.
+
+304
+00:26:00,250 --> 00:26:03,659
+I suppose you think that was terribly clever.
+
+305
+00:26:03,660 --> 00:26:07,159
+Come on, Gandalf.
+Did you see their faces?
+
+306
+00:26:07,160 --> 00:26:10,059
+There are many magic rings in
+this world, Bilbo Baggins...
+
+307
+00:26:10,060 --> 00:26:12,449
+...and none of them should be used lightly.
+
+308
+00:26:12,450 --> 00:26:14,759
+It was just a bit of fun.
+
+309
+00:26:14,760 --> 00:26:19,860
+Oh, you're probably right, as usual.
+
+310
+00:26:19,860 --> 00:26:23,659
+- You will keep an eye on Frodo, won't you?
+- Two eyes.
+
+311
+00:26:23,660 --> 00:26:26,459
+As often as I can spare them.
+
+312
+00:26:26,460 --> 00:26:29,859
+- I'm leaving everything to him.
+- What about this ring of yours?
+
+313
+00:26:29,860 --> 00:26:33,859
+- Is that staying too?
+- Yes, yes.
+
+314
+00:26:33,860 --> 00:26:38,759
+It's in an envelope over there on the mantelpiece.
+
+315
+00:26:38,760 --> 00:26:43,160
+No. Wait, it is...
+
+316
+00:26:44,260 --> 00:26:48,360
+...here in my pocket.
+
+317
+00:26:51,460 --> 00:26:56,160
+Isn't that--? Isn't that odd, now?
+
+318
+00:26:56,460 --> 00:27:01,360
+Yet, after all, why not?
+
+319
+00:27:01,460 --> 00:27:06,759
+- Why shouldn't I keep it?
+- I think you should leave the ring behind.
+
+320
+00:27:06,760 --> 00:27:09,159
+Is that so hard?
+
+321
+00:27:09,160 --> 00:27:11,960
+Well, no.
+
+322
+00:27:12,960 --> 00:27:15,860
+And yes.
+
+323
+00:27:16,370 --> 00:27:19,769
+Now it comes to it,
+I don't feel l ike parting with it.
+
+324
+00:27:19,770 --> 00:27:21,769
+It's mine. I found it! It came to me!
+
+325
+00:27:21,770 --> 00:27:26,269
+- There's no need to get angry.
+- Well, if I'm angry, it's your fault!
+
+326
+00:27:26,270 --> 00:27:29,470
+It's mine.
+
+327
+00:27:29,470 --> 00:27:32,269
+My own.
+
+328
+00:27:32,270 --> 00:27:36,469
+- My precious.
+- Precious?
+
+329
+00:27:36,470 --> 00:27:39,569
+It's been called that before, but not by you.
+
+330
+00:27:39,570 --> 00:27:42,269
+What business is it of yours
+what I do with my own things?
+
+331
+00:27:42,270 --> 00:27:45,269
+I think you've had that ring quite long enough.
+
+332
+00:27:45,270 --> 00:27:48,269
+- You want it for yourself!
+- Bilbo Baggins!
+
+333
+00:27:48,270 --> 00:27:52,769
+Do not take me for some conjurer of cheap tricks.
+
+334
+00:27:52,770 --> 00:27:57,770
+I am not trying to rob you.
+
+335
+00:28:01,470 --> 00:28:04,570
+I'm trying to help you.
+
+336
+00:28:11,570 --> 00:28:15,269
+All your long years, we've been friends.
+
+337
+00:28:15,270 --> 00:28:18,870
+Trust me as you once did.
+
+338
+00:28:19,370 --> 00:28:22,279
+Let it go.
+
+339
+00:28:22,280 --> 00:28:26,080
+You're right, Gandalf.
+
+340
+00:28:26,780 --> 00:28:30,869
+The ring must go to Frodo.
+
+341
+00:28:30,870 --> 00:28:34,079
+It's late. The road is long.
+
+342
+00:28:34,080 --> 00:28:37,980
+Yes, it is time.
+
+343
+00:28:39,280 --> 00:28:45,580
+Bilbo, the ring is still in your pocket.
+
+344
+00:29:19,080 --> 00:29:23,480
+I've thought up an ending for my book:
+
+345
+00:29:23,680 --> 00:29:28,979
+"And he lived happily ever after
+to the end of his days."
+
+346
+00:29:28,980 --> 00:29:33,379
+And I'm sure you will, my dear friend.
+
+347
+00:29:33,380 --> 00:29:36,280
+Goodbye, Gandalf.
+
+348
+00:29:37,380 --> 00:29:41,580
+Goodbye, dear Bilbo.
+
+349
+00:29:47,990 --> 00:29:53,590
+<i>The road goes ever on and on...</i>
+
+350
+00:29:54,790 --> 00:29:58,690
+Until our next meeting.
+
+351
+00:30:24,590 --> 00:30:28,389
+It's mine. My own.
+
+352
+00:30:28,390 --> 00:30:32,089
+My precious.
+
+353
+00:30:32,090 --> 00:30:35,289
+Riddles in the dark.
+
+354
+00:30:35,290 --> 00:30:36,889
+Bilbo!
+
+355
+00:30:36,890 --> 00:30:39,790
+Bilbo!
+
+356
+00:30:42,090 --> 00:30:46,490
+My precious.
+
+357
+00:30:46,590 --> 00:30:48,989
+Precious.
+
+358
+00:30:48,990 --> 00:30:52,890
+He's gone, hasn't he?
+
+359
+00:30:54,390 --> 00:30:57,589
+He talked for so long about leaving...
+
+360
+00:30:57,590 --> 00:31:01,690
+...I didn't think he'd really do it.
+
+361
+00:31:04,800 --> 00:31:08,200
+Gandalf?
+
+362
+00:31:14,950 --> 00:31:16,949
+Bilbo's ring.
+
+363
+00:31:16,950 --> 00:31:19,549
+He's gone to stay with the elves.
+
+364
+00:31:19,550 --> 00:31:23,950
+He's left you Bag End.
+
+365
+00:31:26,250 --> 00:31:28,949
+Along with all his possessions.
+
+366
+00:31:28,950 --> 00:31:33,250
+The ring is yours now.
+
+367
+00:31:34,450 --> 00:31:38,049
+- Put it somewhere out of sight.
+- Where are you going?
+
+368
+00:31:38,050 --> 00:31:40,549
+- There are some things that I must see to.
+- What things?
+
+369
+00:31:40,550 --> 00:31:45,749
+- Questions. Questions that need answering.
+- You've only just arrived.
+
+370
+00:31:45,750 --> 00:31:49,750
+I don't understand.
+
+371
+00:31:51,650 --> 00:31:54,150
+Neither do I.
+
+372
+00:31:55,950 --> 00:31:58,449
+Keep it secret.
+
+373
+00:31:58,450 --> 00:32:01,750
+Keep it safe.
+
+374
+00:32:35,250 --> 00:32:37,749
+Shire!
+
+375
+00:32:37,750 --> 00:32:40,550
+Baggins!
+
+376
+00:32:40,970 --> 00:32:50,459
+<i><font color="#778899">♫ Nêbâbîtham Magânanê</font></i>
+<i><font color="#F9E2AF">(We renounce our Maker)</font></i>
+
+377
+00:33:29,350 --> 00:33:32,449
+"The year 3434 of the second age.
+
+378
+00:33:32,450 --> 00:33:37,049
+Here follows the account of Isildur,
+High King of Gondor...
+
+379
+00:33:37,050 --> 00:33:42,150
+...and the finding of the ring of power."
+
+380
+00:33:43,000 --> 00:33:53,400
+<i><font color="#89B4FA">♫ I tuo, i macil</font></i>
+<i><font color="#F9E2AF">(The strength, the weapon)</font></i>
+
+381
+00:33:44,250 --> 00:33:46,349
+"It has come to me.
+
+382
+00:33:46,350 --> 00:33:49,949
+The one ring.
+It shall be an heirloom of my kingdom.
+
+383
+00:33:49,950 --> 00:33:53,400
+All those who follow in my bloodline
+shall be bound to its fate...
+
+384
+00:33:53,640 --> 00:34:11,000
+<i><font color="#89B4FA">♫ Á lelyat túrenna!</font></i>
+<i><font color="#F9E2AF">(Go to victory!)</font></i>
+
+385
+00:33:53,650 --> 00:33:57,649
+...for I will risk no hurt to the ring.
+
+386
+00:33:57,650 --> 00:34:01,049
+It is precious to me...
+
+387
+00:34:01,050 --> 00:34:05,000
+...though I buy it with great pain.
+
+388
+00:34:05,100 --> 00:34:11,000
+<i><font color="#F38BA8">Zigur...</font></i>
+<i><font color="#F9E2AF">(Sauron...)</font></i>
+
+389
+00:34:06,750 --> 00:34:11,000
+The markings upon the band begin to fade.
+
+390
+00:34:11,250 --> 00:34:16,249
+The writing, which at first was as clear
+as red flame, has all but disappeared.
+
+391
+00:34:16,250 --> 00:34:21,550
+A secret now that only fire can tell."
+
+392
+00:34:36,850 --> 00:34:39,949
+Shire...
+
+393
+00:34:39,950 --> 00:34:42,449
+...Baggins.
+
+394
+00:34:42,450 --> 00:34:47,850
+There's no Bagginses around here.
+They're all up in Hobbiton.
+
+395
+00:34:48,150 --> 00:34:51,050
+That way.
+
+396
+00:34:53,350 --> 00:34:55,649
+<i>"Hey ho to the dock I go</i>
+
+397
+00:34:55,650 --> 00:34:58,049
+<i>To heal my heart and drown my woe</i>
+
+398
+00:34:58,050 --> 00:35:00,549
+<i>Rain may fall and wind may blow</i>
+
+399
+00:35:00,550 --> 00:35:02,749
+<i>But there still be...</i>
+
+400
+00:35:02,750 --> 00:35:04,349
+<i>...many miles to go</i>
+
+401
+00:35:04,350 --> 00:35:06,549
+<i>Sweet is the sound of the pouring rain</i>
+
+402
+00:35:06,550 --> 00:35:08,949
+<i>And the stream that falls from hill to plain</i>
+
+403
+00:35:08,950 --> 00:35:10,949
+<i>Better than rain or rippling brook</i>
+
+404
+00:35:10,950 --> 00:35:14,750
+<i>Is a mug of beer inside this Took!"</i>
+
+405
+00:35:16,750 --> 00:35:19,959
+There's been some strange folk crossing the Shire.
+
+406
+00:35:19,960 --> 00:35:24,349
+Dwarves and others of a less than savory nature.
+
+407
+00:35:24,350 --> 00:35:26,559
+War is brewing.
+
+408
+00:35:26,560 --> 00:35:29,459
+The mountains are fair teeming with goblins.
+
+409
+00:35:29,460 --> 00:35:32,249
+Far-off tales and children's stories, that's all that is.
+
+410
+00:35:32,250 --> 00:35:36,959
+You're beginning to sound like that old
+Bilbo Baggins. Cracked, he was.
+
+411
+00:35:36,960 --> 00:35:40,159
+Young Mr. Frodo here, he's cracking.
+
+412
+00:35:40,160 --> 00:35:41,659
+And proud of it.
+
+413
+00:35:41,660 --> 00:35:44,259
+- Cheers, Gaffer.
+- Aye. Cheers.
+
+414
+00:35:44,260 --> 00:35:48,559
+Weel it's none of our concern what
+goes on beyond our borders.
+
+415
+00:35:48,560 --> 00:35:54,060
+Keep your nose out of trouble,
+and no trouble'll come to you.
+
+416
+00:35:56,160 --> 00:35:58,459
+- Good night, lads.
+- Good night.
+
+417
+00:35:58,460 --> 00:36:03,159
+Good night, sweet maiden of the golden ale.
+
+418
+00:36:03,160 --> 00:36:05,759
+Mind who you're sweet-taking.
+
+419
+00:36:05,760 --> 00:36:11,249
+Don't worry, Sam.
+Rosie knows an idiot when she sees one.
+
+420
+00:36:11,250 --> 00:36:13,059
+Does she?
+
+421
+00:36:13,060 --> 00:36:17,460
+- Good night, Sam.
+- Good night, Mr. Frodo.
+
+422
+00:36:40,860 --> 00:36:44,760
+Is it secret? Is it safe?
+
+423
+00:36:52,260 --> 00:36:55,760
+What are you doing?
+
+424
+00:37:06,960 --> 00:37:09,759
+Hold out your hand, Frodo.
+
+425
+00:37:09,760 --> 00:37:12,360
+It's quite cool.
+
+426
+00:37:14,360 --> 00:37:17,560
+What can you see?
+
+427
+00:37:17,960 --> 00:37:21,760
+Can you see anything?
+
+428
+00:37:23,160 --> 00:37:25,059
+Nothing.
+
+429
+00:37:25,060 --> 00:37:28,259
+There's nothing.
+
+430
+00:37:28,260 --> 00:37:31,160
+Wait.
+
+431
+00:37:33,100 --> 00:37:35,500
+<i><font color="#F38BA8">Zigur...</font></i>
+<i><font color="#F9E2AF">(Sauron...)</font></i>
+
+432
+00:37:33,760 --> 00:37:37,460
+There are markings.
+
+433
+00:37:37,560 --> 00:37:41,159
+It's some form of Elvish.
+I can't read it.
+
+434
+00:37:41,160 --> 00:37:44,259
+There are few who can.
+
+435
+00:37:44,260 --> 00:37:49,759
+The language is that of Mordor,
+which I will not utter here.
+
+436
+00:37:49,760 --> 00:37:51,059
+Mordor!
+
+437
+00:37:51,060 --> 00:37:53,259
+In the common tongue, it says:
+
+438
+00:37:53,260 --> 00:37:57,059
+"One ring to rule them all...
+
+439
+00:37:57,060 --> 00:37:59,559
+...One ring to find them...
+
+440
+00:37:59,560 --> 00:38:02,059
+...One ring to bring them all...
+
+441
+00:38:02,060 --> 00:38:06,460
+...and in the darkness bind them."
+
+442
+00:38:06,760 --> 00:38:08,859
+This is the One ring...
+
+443
+00:38:08,860 --> 00:38:14,459
+...forged by the Dark Lord Sauron
+in the fires of Mount Doom.
+
+444
+00:38:14,460 --> 00:38:19,259
+Taken by IsiIdur from the hand of Sauron himself.
+
+445
+00:38:19,260 --> 00:38:22,159
+Bilbo found it.
+
+446
+00:38:22,160 --> 00:38:24,359
+- In Gollum's cave.
+- Yes.
+
+447
+00:38:24,360 --> 00:38:29,159
+For 60 years, the ring lay quiet in Bilbo's keeping...
+
+448
+00:38:29,160 --> 00:38:33,159
+...prolonging his life, delaying old age.
+
+449
+00:38:33,160 --> 00:38:37,759
+But no longer, Frodo.
+Evil is stirring in Mordor.
+
+450
+00:38:37,760 --> 00:38:40,359
+The ring has awoken.
+
+451
+00:38:40,360 --> 00:38:43,259
+It's heard its master's call.
+
+452
+00:38:43,260 --> 00:38:48,000
+But he was destroyed.
+Sauron was destroyed.
+
+453
+00:38:48,100 --> 00:38:50,500
+<i><font color="#F38BA8">Zigur...</font></i>
+<i><font color="#F9E2AF">(Sauron...)</font></i>
+
+454
+00:38:52,860 --> 00:38:55,959
+No, Frodo.
+
+455
+00:38:55,960 --> 00:38:59,459
+The spirit of Sauron endured.
+
+456
+00:38:59,460 --> 00:39:05,059
+His life force is bound to the ring,
+and the ring survived.
+
+457
+00:39:05,060 --> 00:39:08,259
+Sauron has returned.
+
+458
+00:39:08,260 --> 00:39:10,559
+His orcs have multiplied.
+
+459
+00:39:10,560 --> 00:39:14,659
+His fortress at Barad-dûr
+is rebuilt in the land of Mordor.
+
+460
+00:39:14,660 --> 00:39:19,669
+Sauron needs only this ring to cover
+all the lands in a second darkness.
+
+461
+00:39:19,670 --> 00:39:21,959
+He is seeking it.
+
+462
+00:39:21,960 --> 00:39:26,059
+Seeking it - All his thought is bent on it.
+
+463
+00:39:26,060 --> 00:39:28,959
+For the ring yearns above all else...
+
+464
+00:39:28,960 --> 00:39:32,659
+...to return to the hand of its master.
+
+465
+00:39:32,660 --> 00:39:34,459
+They are one...
+
+466
+00:39:34,460 --> 00:39:37,859
+...the ring and the Dark Lord.
+
+467
+00:39:37,860 --> 00:39:39,359
+Frodo...
+
+468
+00:39:39,360 --> 00:39:41,459
+...he must never find it.
+
+469
+00:39:41,460 --> 00:39:42,869
+All right.
+
+470
+00:39:42,870 --> 00:39:47,469
+We put it away. We keep it hidden.
+We never speak of it again.
+
+471
+00:39:47,470 --> 00:39:51,470
+No one knows it's here, do they?
+
+472
+00:39:55,770 --> 00:39:57,969
+Do they, Gandalf?
+
+473
+00:39:57,970 --> 00:40:02,669
+There is one other who knew
+that Bilbo had the ring.
+
+474
+00:40:02,670 --> 00:40:05,869
+I looked everywhere for the creature Gollum.
+
+475
+00:40:05,870 --> 00:40:09,370
+But the enemy found him first.
+
+476
+00:40:09,770 --> 00:40:12,469
+I don't know how long they tortured him.
+
+477
+00:40:12,470 --> 00:40:17,069
+But amidst the endless screams and
+inane babble, they discerned two words:
+
+478
+00:40:17,070 --> 00:40:19,469
+Shire!
+
+479
+00:40:19,470 --> 00:40:21,269
+Baggins!
+
+480
+00:40:21,270 --> 00:40:23,269
+Shire.
+
+481
+00:40:23,270 --> 00:40:27,470
+Baggins.
+But that would lead them here!
+
+482
+00:40:28,970 --> 00:40:31,470
+Who goes there?
+
+483
+00:40:31,770 --> 00:40:33,469
+Take it, Gandalf!
+
+484
+00:40:33,470 --> 00:40:34,569
+- Take it!
+- No, Frodo.
+
+485
+00:40:34,570 --> 00:40:37,169
+- You must take it!
+- You cannot offer me this ring!
+
+486
+00:40:37,170 --> 00:40:41,870
+- I'm giving it to you!
+- Don't tempt me, Frodo!
+
+487
+00:40:42,070 --> 00:40:44,569
+I dare not take it.
+
+488
+00:40:44,570 --> 00:40:48,169
+Not even to keep it safe.
+
+489
+00:40:48,170 --> 00:40:50,869
+Understand, Frodo...
+
+490
+00:40:50,870 --> 00:40:55,870
+...I would use this ring from a desire to do good.
+
+491
+00:40:59,870 --> 00:41:06,269
+But through me, it would wield a power
+too great and terrible to imagine.
+
+492
+00:41:06,270 --> 00:41:10,570
+- But it cannot stay in the Shire!
+- No.
+
+493
+00:41:11,070 --> 00:41:14,070
+No, it can't.
+
+494
+00:41:17,970 --> 00:41:20,870
+What must I do?
+
+495
+00:41:21,070 --> 00:41:24,869
+- You must leave. And leave quickly.
+- Where? Where do I go?
+
+496
+00:41:24,870 --> 00:41:28,369
+Get out of the Shire.
+Make for the village of Bree.
+
+497
+00:41:28,370 --> 00:41:29,669
+Bree.
+
+498
+00:41:29,670 --> 00:41:32,569
+- What about you?
+- I'll be waiting for you...
+
+499
+00:41:32,570 --> 00:41:35,269
+...at the inn of the Prancing Pony.
+
+500
+00:41:35,270 --> 00:41:39,169
+- And the ring will be safe there?
+- I don't know, Frodo.
+
+501
+00:41:39,170 --> 00:41:42,570
+I don't have any answers.
+
+502
+00:41:42,670 --> 00:41:48,369
+I must see the head of my order.
+He is both wise and powerful. Trust me, Frodo.
+
+503
+00:41:48,370 --> 00:41:51,169
+He'll know what to do.
+
+504
+00:41:51,170 --> 00:41:54,269
+You'll have to leave the name
+of Baggins behind you.
+
+505
+00:41:54,270 --> 00:41:57,369
+That name is not safe outside the Shire.
+
+506
+00:41:57,370 --> 00:42:01,369
+Travel only by day.
+And stay off the road.
+
+507
+00:42:01,370 --> 00:42:05,970
+I can cut across country easily enough.
+
+508
+00:42:07,070 --> 00:42:08,669
+My dear Frodo.
+
+509
+00:42:08,670 --> 00:42:11,869
+Hobbits really are amazing creatures.
+
+510
+00:42:11,870 --> 00:42:14,969
+You can learn all that there is to
+know about their ways in a month.
+
+511
+00:42:14,970 --> 00:42:17,569
+And yet, after a hundred years...
+
+512
+00:42:17,570 --> 00:42:20,970
+...they can still surprise you.
+
+513
+00:42:21,270 --> 00:42:24,070
+Get down.
+
+514
+00:42:34,770 --> 00:42:38,469
+Confound it all, Samwise Gamgee!
+Have you been eavesdropping?
+
+515
+00:42:38,470 --> 00:42:40,169
+I haven't been dropping no eaves. Honest.
+
+516
+00:42:40,170 --> 00:42:43,169
+I was just cutting the grass under
+the window there...If you follow me.
+
+517
+00:42:43,170 --> 00:42:45,769
+A little late for trimming the verge, don't you think?
+
+518
+00:42:45,770 --> 00:42:48,769
+- I heard raised voices.
+- What did you hear? Speak!
+
+519
+00:42:48,770 --> 00:42:50,469
+Nothing important.
+
+520
+00:42:50,470 --> 00:42:52,969
+That is, I heard a good deal
+about a ring, and a Dark Lord...
+
+521
+00:42:52,970 --> 00:42:54,669
+...and something about the end of the world but...
+
+522
+00:42:54,670 --> 00:43:00,269
+Please, Mr. Gandalf, sir, don't hurt me.
+Don't turn me into anything unnatural.
+
+523
+00:43:00,270 --> 00:43:03,069
+No?
+
+524
+00:43:03,070 --> 00:43:05,469
+Perhaps not.
+
+525
+00:43:05,470 --> 00:43:10,270
+I've thought of a better use for you.
+
+526
+00:43:10,570 --> 00:43:14,970
+Come along, Samwise. Keep up.
+
+527
+00:43:15,170 --> 00:43:17,679
+Be careful, both of you.
+
+528
+00:43:17,680 --> 00:43:20,569
+The enemy has many spies in his service:
+
+529
+00:43:20,570 --> 00:43:24,870
+Birds, beasts.
+
+530
+00:43:25,270 --> 00:43:28,570
+Is it safe?
+
+531
+00:43:28,780 --> 00:43:30,369
+Never put it on...
+
+532
+00:43:30,370 --> 00:43:33,869
+...for the agents of the Dark Lord
+will be drawn to its power.
+
+533
+00:43:33,870 --> 00:43:35,969
+Always remember, Frodo...
+
+534
+00:43:35,970 --> 00:43:39,579
+...the ring is trying to get back to its master.
+
+535
+00:43:39,580 --> 00:43:43,080
+It wants to be found.
+
+536
+00:44:22,180 --> 00:44:24,779
+This is it.
+
+537
+00:44:24,780 --> 00:44:27,179
+This is what?
+
+538
+00:44:27,180 --> 00:44:29,779
+If I take one more step...
+
+539
+00:44:29,780 --> 00:44:34,980
+...it'll be the farthest away
+from home I've ever been.
+
+540
+00:44:37,980 --> 00:44:40,880
+Come on, Sam.
+
+541
+00:44:47,880 --> 00:44:50,279
+Remember what Bilbo used to say:
+
+542
+00:44:50,280 --> 00:44:54,179
+- "It's a dangerous business, Frodo."
+- "Going out your door.
+
+543
+00:44:54,180 --> 00:44:58,779
+You step onto the road,
+and if you don't keep your feet...
+
+544
+00:44:58,780 --> 00:45:04,280
+... there's no knowing where
+you might be swept off to."
+
+545
+00:45:09,500 --> 00:45:15,500
+<i><font color="#A6E3A1">♫ Rîn athar annún-aearath</font></i>
+<i><font color="#F9E2AF">(O Queen beyond the Western Seas)</font></i>
+
+546
+00:45:16,880 --> 00:45:18,080
+Sam.
+
+547
+00:45:18,500 --> 00:45:25,500
+<i><font color="#A6E3A1">♫ Calad ammen i reniar</font></i>
+<i><font color="#F9E2AF">(O light to us that wander)</font></i>
+
+548
+00:45:22,180 --> 00:45:24,780
+Wood-elves.
+
+549
+00:45:28,000 --> 00:45:36,000
+<i><font color="#A6E3A1">♫ Mi 'aladhremmin ennorath</font></i>
+<i><font color="#F9E2AF">(Amid the tree-woven lands of Middle-earth.)</font></i>
+
+550
+00:45:37,300 --> 00:45:46,000
+<i><font color="#A6E3A1">♫ A Elbereth Gilthoniel</font></i>
+<i><font color="#F9E2AF">(Elbereth Star-kindler)</font></i>
+
+551
+00:45:37,500 --> 00:45:41,079
+They're going to the harbor
+beyond the White Towers.
+
+552
+00:45:41,080 --> 00:45:43,379
+To the Grey Havens.
+
+553
+00:45:43,380 --> 00:45:45,579
+They're leaving Middle-earth.
+
+554
+00:45:45,580 --> 00:45:47,800
+Never to return.
+
+555
+00:45:48,000 --> 00:45:56,000
+<i><font color="#A6E3A1">♫ I chin a thûl lín míriel...</font></i>
+<i><font color="#F9E2AF">(Your eyes and breath, like shining jewels...)</font></i>
+
+556
+00:45:50,680 --> 00:45:53,579
+I don't know why...
+
+557
+00:45:53,580 --> 00:45:57,380
+...it makes me sad.
+
+558
+00:45:57,980 --> 00:46:03,379
+Everywhere I lie there's a dirty
+great root sticking into my back.
+
+559
+00:46:03,380 --> 00:46:05,279
+Just shut your eyes...
+
+560
+00:46:05,280 --> 00:46:08,279
+...and imagine you're back in your own bed...
+
+561
+00:46:08,280 --> 00:46:13,580
+...with a soft mattress and a lovely feather pillow.
+
+562
+00:46:21,480 --> 00:46:24,279
+It's not working, Mr. Frodo.
+
+563
+00:46:24,280 --> 00:46:28,580
+I'm never going to be able to sleep out here.
+
+564
+00:46:29,480 --> 00:46:33,280
+Me neither, Sam.
+
+565
+00:47:00,380 --> 00:47:03,679
+Smoke rises from the Mountain of Doom.
+
+566
+00:47:03,680 --> 00:47:05,479
+The hour grows late.
+
+567
+00:47:05,480 --> 00:47:09,379
+And Gandalf the Grey rides to Isengard...
+
+568
+00:47:09,380 --> 00:47:11,979
+...seeking my counsel.
+
+569
+00:47:11,980 --> 00:47:16,079
+For that is why you have come, is it not?
+
+570
+00:47:16,080 --> 00:47:17,679
+My old friend.
+
+571
+00:47:17,680 --> 00:47:20,680
+Saruman.
+
+572
+00:47:24,080 --> 00:47:27,879
+- You are sure of this?
+- Beyond any doubt.
+
+573
+00:47:27,880 --> 00:47:30,389
+So the ring of power has been found.
+
+574
+00:47:30,390 --> 00:47:33,779
+All these long years, it was in the Shire.
+
+575
+00:47:33,780 --> 00:47:37,589
+- Under my very nose.
+- Yet you did not have the wit to see it.
+
+576
+00:47:37,590 --> 00:47:42,689
+Your love of the halfling's leaf
+has clearly slowed your mind.
+
+577
+00:47:42,690 --> 00:47:47,089
+But we still have time.
+Time enough to counter Sauron if we act quickly.
+
+578
+00:47:47,090 --> 00:47:49,589
+Time?
+
+579
+00:47:49,590 --> 00:47:52,589
+What time do you think we have?
+
+580
+00:47:52,590 --> 00:47:56,689
+Sauron has regained much of his former strength.
+
+581
+00:47:56,690 --> 00:47:59,079
+He cannot yet take physical form...
+
+582
+00:47:59,080 --> 00:48:02,389
+...but his spirit has lost none of its potency.
+
+583
+00:48:02,390 --> 00:48:08,089
+Concealed within his fortress,
+the Lord of Mordor sees all.
+
+584
+00:48:08,090 --> 00:48:15,290
+His gaze pierces cloud, shadow, earth and flesh.
+
+585
+00:48:15,590 --> 00:48:19,589
+You know of what I speak, Gandalf.
+
+586
+00:48:19,590 --> 00:48:25,789
+A great eye, lidless, wreathed in flame.
+
+587
+00:48:25,790 --> 00:48:27,789
+The eye of Sauron.
+
+588
+00:48:27,790 --> 00:48:30,789
+He is gathering all evil to him.
+
+589
+00:48:30,790 --> 00:48:32,789
+Very soon, he'll have summoned an army...
+
+590
+00:48:32,790 --> 00:48:35,989
+...great enough for an assault upon Middle-earth.
+
+591
+00:48:35,990 --> 00:48:38,889
+You know this?
+
+592
+00:48:38,890 --> 00:48:40,989
+How?
+
+593
+00:48:40,990 --> 00:48:43,089
+I have seen it.
+
+594
+00:48:43,090 --> 00:48:47,089
+A palantir is a dangerous tool, Saruman.
+
+595
+00:48:47,090 --> 00:48:48,989
+Why?
+
+596
+00:48:48,990 --> 00:48:53,090
+Why should we fear to use it?
+
+597
+00:48:54,390 --> 00:48:58,489
+They are not all accounted for,
+the lost seeing-stones.
+
+598
+00:48:58,490 --> 00:49:03,090
+We do not know who else may be watching.
+
+599
+00:49:04,290 --> 00:49:07,189
+The hour is later than you think.
+
+600
+00:49:07,190 --> 00:49:10,990
+Sauron's forces are already moving.
+
+601
+00:49:11,790 --> 00:49:14,889
+The Nine have left Minas Morgul.
+
+602
+00:49:14,890 --> 00:49:16,089
+The Nine?
+
+603
+00:49:16,090 --> 00:49:19,389
+They crossed the river Isen on Midsummer's Eve...
+
+604
+00:49:19,390 --> 00:49:22,289
+...disguised as riders in black.
+
+605
+00:49:22,290 --> 00:49:27,590
+- They've reached the Shire?
+- They will find the ring.
+
+606
+00:49:27,790 --> 00:49:30,489
+And kill the one who carries it.
+
+607
+00:49:30,490 --> 00:49:33,390
+Frodo!
+
+608
+00:49:44,690 --> 00:49:49,789
+You did not seriously think that a hobbit
+could contend with the will of Sauron?
+
+609
+00:49:49,790 --> 00:49:53,990
+There are none who can.
+
+610
+00:49:55,090 --> 00:49:58,089
+Against the power of Mordor...
+
+611
+00:49:58,090 --> 00:50:02,090
+...there can be no victory.
+
+612
+00:50:02,690 --> 00:50:07,089
+We must join with him, Gandalf.
+
+613
+00:50:07,090 --> 00:50:10,790
+We must join with Sauron.
+
+614
+00:50:12,090 --> 00:50:15,289
+It would be wise, my friend.
+
+615
+00:50:15,290 --> 00:50:16,889
+Tell me...
+
+616
+00:50:16,890 --> 00:50:18,889
+...friend...
+
+617
+00:50:18,890 --> 00:50:24,790
+...when did Saruman the Wise abandon reason for madness?
+
+618
+00:50:39,000 --> 00:50:46,000
+<i><font color="#F38BA8">♫ Ash Burz-Durbagu burzum-ishi</font></i>
+<i><font color="#F9E2AF">(One for the Dark Lord on his dark throne)</font></i>
+
+619
+00:50:46,500 --> 00:50:50,900
+<i><font color="#F38BA8">♫ Daghburz-ishi</font></i>
+<i><font color="#F9E2AF">(In the land of Mordor)</font></i>
+
+620
+00:50:51,000 --> 00:50:59,900
+<i><font color="#F38BA8">♫ Makha gulshu darulu</font></i>
+<i><font color="#F9E2AF">(Where the shadows lie)</font></i>
+
+621
+00:51:01,000 --> 00:51:20,000
+<i><font color="#F38BA8">♫ Ash Burz-Durbagu burzum-ishi</font></i>
+<i><font color="#F9E2AF">(One for the Dark Lord on his dark throne)</font></i>
+
+622
+00:51:02,990 --> 00:51:05,789
+I gave you the chance of...
+
+623
+00:51:05,790 --> 00:51:08,689
+...aiding me willingly...
+
+624
+00:51:08,690 --> 00:51:14,190
+...but you have elected the way of pain!
+
+625
+00:51:36,200 --> 00:51:38,299
+Mr. Frodo?
+
+626
+00:51:38,300 --> 00:51:41,500
+Frodo? Frodo!
+
+627
+00:51:41,500 --> 00:51:44,789
+- I thought I'd lost you.
+- What are you taking about?
+
+628
+00:51:44,790 --> 00:51:48,699
+- It's just something Gandalf said.
+- What did he say?
+
+629
+00:51:48,700 --> 00:51:52,899
+"Don't you lose him, Samwise Gamgee."
+And I don't mean to.
+
+630
+00:51:52,900 --> 00:51:57,900
+Sam, we're still in the Shire.
+What could possibly happen?
+
+631
+00:51:59,400 --> 00:52:00,699
+Frodo.
+
+632
+00:52:00,700 --> 00:52:03,199
+- Merry, it's Frodo Baggins.
+- Hello, Frodo.
+
+633
+00:52:03,200 --> 00:52:05,089
+Get off him.
+
+634
+00:52:05,090 --> 00:52:06,699
+Come on, Frodo.
+
+635
+00:52:06,700 --> 00:52:08,989
+What's the meaning of this?
+
+636
+00:52:08,990 --> 00:52:13,299
+You've been into Farmer Maggot's crop!
+
+637
+00:52:13,300 --> 00:52:16,399
+You get back here!
+
+638
+00:52:16,400 --> 00:52:17,999
+Get out of my field!
+
+639
+00:52:18,000 --> 00:52:20,999
+You'll know the devil if I catch up with you!
+
+640
+00:52:21,000 --> 00:52:24,099
+I don't know why he's so upset.
+It's only a couple of carrots.
+
+641
+00:52:24,100 --> 00:52:25,399
+And some cabbages.
+
+642
+00:52:25,400 --> 00:52:28,499
+And those three bags of potatoes
+that we lifted last week.
+
+643
+00:52:28,500 --> 00:52:32,799
+- And then the mushrooms the week before.
+- Yes, Pippin. My point is...
+
+644
+00:52:32,800 --> 00:52:35,199
+...he's clearly overreacting.
+
+645
+00:52:35,200 --> 00:52:38,100
+Run!
+
+646
+00:52:50,100 --> 00:52:53,799
+Oh, that was close.
+
+647
+00:52:53,800 --> 00:52:57,899
+I think I've broken something.
+
+648
+00:52:57,900 --> 00:53:00,399
+Trust a Brandybuck and a Took!
+
+649
+00:53:00,400 --> 00:53:04,299
+What? That was just a detour.
+A short cut.
+
+650
+00:53:04,300 --> 00:53:08,000
+- Short cut to what?
+- Mushrooms!
+
+651
+00:53:15,300 --> 00:53:18,200
+That's mine.
+
+652
+00:53:19,500 --> 00:53:21,699
+That's nice, Merry.
+
+653
+00:53:21,700 --> 00:53:23,899
+Here's a nice one, Sam.
+
+654
+00:53:23,900 --> 00:53:27,800
+I think we should get off the road.
+
+655
+00:53:35,700 --> 00:53:37,199
+Get off the road!
+
+656
+00:53:37,200 --> 00:53:40,100
+Quick!
+
+657
+00:53:51,400 --> 00:53:54,300
+Be quiet!
+
+658
+00:54:41,200 --> 00:54:45,500
+<i><font color="#F38BA8">Gulshu durbgu</font></i>
+<i><font color="#F9E2AF">(Lord of shadows)</font></i>
+
+659
+00:54:59,200 --> 00:55:02,800
+What was that?
+
+660
+00:55:16,970 --> 00:55:26,459
+<i><font color="#778899">♫ Nêpâm nêd</font></i>
+<i><font color="#F9E2AF">(We grasp for ourselves)</font></i>
+
+661
+00:55:34,100 --> 00:55:36,299
+Anything?
+
+662
+00:55:36,300 --> 00:55:38,499
+Nothing.
+
+663
+00:55:38,500 --> 00:55:41,309
+What is going on?
+
+664
+00:55:41,310 --> 00:55:46,410
+That Black Rider was looking for something.
+Or someone.
+
+665
+00:55:46,410 --> 00:55:48,609
+Frodo?
+
+666
+00:55:48,610 --> 00:55:51,110
+Get down!
+
+667
+00:56:06,510 --> 00:56:09,809
+I have to leave the Shire.
+
+668
+00:56:09,810 --> 00:56:12,309
+Sam and I must get to Bree.
+
+669
+00:56:12,310 --> 00:56:15,109
+Right.
+
+670
+00:56:15,110 --> 00:56:18,810
+Bucklebury Ferry. Follow me.
+
+671
+00:56:25,710 --> 00:56:28,209
+Run!
+
+672
+00:56:28,210 --> 00:56:31,610
+This way! Follow me!
+
+673
+00:56:33,910 --> 00:56:36,310
+Run!
+
+674
+00:56:42,970 --> 00:56:51,459
+<i><font color="#778899">♫ Nêbâbîtham Magânanê</font></i>
+<i><font color="#F9E2AF">(We renounce our Maker)</font></i>
+
+675
+00:56:48,110 --> 00:56:51,310
+Get the rope, Sam!
+
+676
+00:56:51,970 --> 00:56:56,459
+<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
+
+677
+00:56:52,510 --> 00:56:54,809
+Frodo!
+
+678
+00:56:54,810 --> 00:56:56,608
+Run, Frodo!
+
+679
+00:56:56,609 --> 00:56:59,459
+<i><font color="#778899">♫ Nidir nênâ</font></i>
+<i><font color="#F9E2AF">(We are the Nine)</font></i>
+
+680
+00:56:56,610 --> 00:56:57,809
+Go!
+- Hurry!
+
+681
+00:56:57,810 --> 00:57:01,409
+Frodo, come on!
+
+682
+00:56:59,970 --> 00:57:05,459
+<i><font color="#778899">♫ Dâur-ad</font></i>
+<i><font color="#F9E2AF">(Darkness)</font></i>
+
+683
+00:57:01,410 --> 00:57:04,910
+- Come on! Faster!
+- Jump!
+
+684
+00:57:18,410 --> 00:57:23,910
+- How far to the nearest crossing?
+- The Brandywine Bridge. 20 miles.
+
+685
+00:57:37,210 --> 00:57:40,210
+Come on.
+
+686
+00:57:49,910 --> 00:57:54,710
+- What do you want?
+- We're heading for the Prancing Pony.
+
+687
+00:57:56,810 --> 00:57:59,809
+Hobbits. Four hobbits!
+
+688
+00:57:59,810 --> 00:58:04,309
+What's more, out of the Shire by your talk.
+What business brings you to Bree?
+
+689
+00:58:04,310 --> 00:58:08,509
+We wish to stay at the inn.
+Our business is our own.
+
+690
+00:58:08,510 --> 00:58:11,209
+All right young sir, I meant no offense.
+
+691
+00:58:11,210 --> 00:58:14,009
+It's my job to ask questions after nightfall.
+
+692
+00:58:14,010 --> 00:58:17,009
+There's talk of strange folk abroad.
+
+693
+00:58:17,010 --> 00:58:20,610
+Can't be too careful.
+
+694
+00:58:38,910 --> 00:58:43,710
+Out of the way!
+Watch where you're walking.
+
+695
+00:59:06,410 --> 00:59:09,009
+Excuse me.
+
+696
+00:59:09,010 --> 00:59:12,009
+Good evening, little masters.
+What can I do for you?
+
+697
+00:59:12,010 --> 00:59:18,309
+If you're looking for accommodation, we got
+some nice cozy hobbit-sized rooms available.
+
+698
+00:59:18,310 --> 00:59:24,009
+Always proud to cater to little folk, Mister...?
+
+699
+00:59:24,010 --> 00:59:27,409
+Underhill. My name's Underhill.
+
+700
+00:59:27,410 --> 00:59:30,109
+- Underhill, yeah.
+- We're friends of Gandalf the Grey.
+
+701
+00:59:30,110 --> 00:59:33,609
+- Can you tell him we've arrived?
+- Gandalf?
+
+702
+00:59:33,610 --> 00:59:36,209
+Gandalf.
+
+703
+00:59:36,210 --> 00:59:38,109
+Oh, yes...
+
+704
+00:59:38,110 --> 00:59:40,509
+...I remember. Elderly chap.
+
+705
+00:59:40,510 --> 00:59:43,819
+Big grey beard, pointy hat.
+
+706
+00:59:43,820 --> 00:59:47,120
+Not seen him for six months.
+
+707
+00:59:52,520 --> 00:59:55,320
+What do we do now?
+
+708
+01:00:00,940 --> 01:00:02,339
+Sam...
+
+709
+01:00:02,340 --> 01:00:05,640
+...he'll be here. He'll come.
+
+710
+01:00:07,030 --> 01:00:10,530
+Get out of my way!
+
+711
+01:00:11,530 --> 01:00:13,329
+What's that?
+
+712
+01:00:13,330 --> 01:00:16,139
+This, my friend, is a pint.
+
+713
+01:00:16,140 --> 01:00:18,039
+It comes in pints?
+
+714
+01:00:18,040 --> 01:00:23,040
+- I'm getting one.
+- You got a whole half already!
+
+715
+01:00:28,030 --> 01:00:33,230
+That fellow's done nothing but
+stare at you since we arrived.
+
+716
+01:00:35,530 --> 01:00:38,430
+Excuse me.
+
+717
+01:00:38,830 --> 01:00:43,029
+That man in the corner. Who is he?
+
+718
+01:00:43,030 --> 01:00:47,529
+He's one of them Rangers. They're dangerous
+folk they are, wandering the wilds.
+
+719
+01:00:47,530 --> 01:00:53,430
+What his right name is, I've never heard,
+but 'round here he's known as Strider.
+
+720
+01:00:54,430 --> 01:00:57,130
+Strider.
+
+721
+01:01:08,730 --> 01:01:13,330
+Baggins...
+
+722
+01:01:15,030 --> 01:01:19,430
+Baggins...
+
+723
+01:01:22,330 --> 01:01:25,929
+Baggins...
+
+724
+01:01:25,930 --> 01:01:29,029
+Baggins...
+
+725
+01:01:29,030 --> 01:01:32,629
+<i>Baggins...
+Baggins? Sure, I know a Baggins.</i>
+
+726
+01:01:32,630 --> 01:01:35,429
+He's over there. Frodo Baggins.
+
+727
+01:01:35,430 --> 01:01:38,629
+He's my second cousin,
+once removed on his mother's side...
+
+728
+01:01:38,630 --> 01:01:42,330
+...and my third cousin, twice removed....
+
+729
+01:01:45,430 --> 01:01:48,630
+- Pippin!
+- Steady on, Frodo.
+
+730
+01:02:16,730 --> 01:02:20,630
+You cannot hide.
+
+731
+01:02:22,130 --> 01:02:26,630
+I see you.
+
+732
+01:02:24,628 --> 01:02:28,000
+<i><font color="#F38BA8">Nubin sherkuk</font></i>
+<i><font color="#F9E2AF">(I smell your blood)</font></i>
+
+733
+01:02:27,020 --> 01:02:29,819
+There is no life...
+
+734
+01:02:29,820 --> 01:02:32,219
+...in the void.
+
+735
+01:02:32,220 --> 01:02:34,629
+Only...
+
+736
+01:02:33,413 --> 01:02:35,500
+<i><font color="#F38BA8">...sherkuk</font></i>
+<i><font color="#F9E2AF">(...your blood)</font></i>
+
+737
+01:02:34,630 --> 01:02:37,630
+...death.
+
+738
+01:02:42,130 --> 01:02:48,330
+You draw far too much attention
+to yourself, "Mr. Underhill."
+
+739
+01:02:51,730 --> 01:02:52,919
+What do you want?
+
+740
+01:02:52,920 --> 01:02:55,429
+A little more caution from you.
+That is no trinket you carry.
+
+741
+01:02:55,430 --> 01:02:58,729
+- I carry nothing.
+- Indeed.
+
+742
+01:02:58,730 --> 01:03:01,419
+I can avoid being seen if I wish...
+
+743
+01:03:01,420 --> 01:03:05,619
+...but to disappear entirely, that is a rare gift.
+
+744
+01:03:05,620 --> 01:03:09,519
+- Who are you?
+- Are you frightened?
+
+745
+01:03:09,520 --> 01:03:10,619
+Yes.
+
+746
+01:03:10,620 --> 01:03:15,920
+Not nearly frightened enough.
+I know what hunts you.
+
+747
+01:03:18,520 --> 01:03:22,420
+Let him go!
+Or I'll have you, Longshanks.
+
+748
+01:03:22,820 --> 01:03:27,119
+You have a stout heart, little hobbit.
+But that will not save you.
+
+749
+01:03:27,120 --> 01:03:30,219
+You can no longer wait for the wizard, Frodo.
+
+750
+01:03:30,220 --> 01:03:32,720
+They're coming.
+
+751
+01:03:36,970 --> 01:03:41,459
+<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
+
+752
+01:03:41,970 --> 01:03:48,459
+<i><font color="#778899">♫ Îdô Nidir nênâ</font></i>
+<i><font color="#F9E2AF">(Now, we, the Nine)</font></i>
+
+753
+01:03:49,970 --> 01:03:57,459
+<i><font color="#778899">♫ Kham nêpâm 'bârat aglar</font></i>
+<i><font color="#F9E2AF">(Come grasp power and glory)</font></i>
+
+754
+01:04:54,920 --> 01:04:57,820
+What are they?
+
+755
+01:04:58,520 --> 01:05:00,909
+They were once men.
+
+756
+01:05:00,910 --> 01:05:03,609
+Great kings of men.
+
+757
+01:05:03,610 --> 01:05:07,409
+Then Sauron the Deceiver gave to them
+nine rings of power.
+
+758
+01:05:07,410 --> 01:05:10,709
+Blinded by their greed,
+they took them without question.
+
+759
+01:05:10,710 --> 01:05:14,209
+One by one, falling into darkness.
+
+760
+01:05:14,210 --> 01:05:18,110
+Now they are slaves to his will.
+
+761
+01:05:19,110 --> 01:05:20,909
+They are the Nazgul.
+
+762
+01:05:20,910 --> 01:05:24,509
+Ringwraiths. Neither living nor dead.
+
+763
+01:05:24,510 --> 01:05:26,009
+At all times they feel...
+
+764
+01:05:26,010 --> 01:05:28,209
+... the presence of the ring...
+
+765
+01:05:28,210 --> 01:05:34,010
+...drawn to the power of the One.
+They will never stop hunting you.
+
+766
+01:05:42,710 --> 01:05:47,010
+- Where are you taking us?
+- Into the wild.
+
+767
+01:05:53,910 --> 01:05:58,109
+How can we know this Strider
+is a friend of Gandalf?
+
+768
+01:05:58,110 --> 01:06:01,309
+I think a servant of the enemy would look fairer...
+
+769
+01:06:01,310 --> 01:06:05,809
+...and feel fouler.
+- He's foul enough.
+
+770
+01:06:05,810 --> 01:06:08,909
+We have no choice but to trust him.
+
+771
+01:06:08,910 --> 01:06:13,610
+- But where is he leading us?
+- To Rivendell, Master Gamgee.
+
+772
+01:06:14,610 --> 01:06:18,509
+- To the house of Elrond.
+- Did you hear that? Rivendell.
+
+773
+01:06:18,510 --> 01:06:22,710
+We're going to see the elves.
+
+774
+01:06:42,910 --> 01:06:47,309
+- Gentlemen, we do not stop till nightfall.
+- What about breakfast?
+
+775
+01:06:47,310 --> 01:06:50,209
+- You've already had it.
+- We've had one, yes.
+
+776
+01:06:50,210 --> 01:06:53,910
+What about second breakfast?
+
+777
+01:06:55,810 --> 01:06:59,309
+Don't think he knows about second breakfast, Pip.
+
+778
+01:06:59,310 --> 01:07:04,709
+What about elevenses? Luncheon?
+Afternoon tea? Dinner? Supper?
+
+779
+01:07:04,710 --> 01:07:10,210
+- He knows about them, doesn't he?
+- I wouldn't count on it.
+
+780
+01:07:14,310 --> 01:07:17,410
+Pippin!
+
+781
+01:07:32,400 --> 01:07:37,200
+What do they eat when they can't get Hobbit?
+
+782
+01:07:51,200 --> 01:07:56,000
+<i><font color="#A6E3A1">Tinúviel elvanui </font></i>
+<i><font color="#F9E2AF">(Tinúviel the elven-fair)</font></i>
+
+783
+01:07:56,400 --> 01:08:04,099
+<i><font color="#A6E3A1">Elleth alfirin ethelhael </font></i>
+<i><font color="#F9E2AF">(Immortal maiden elven-wise)</font></i>
+
+784
+01:08:04,100 --> 01:08:10,499
+<i><font color="#A6E3A1">O hon ring finnil fuinui</font></i>
+<i><font color="#F9E2AF">(About him cast her night-dark hair)</font></i>
+
+785
+01:08:10,500 --> 01:08:14,799
+<i><font color="#A6E3A1">A renc gelebrin thiliol.</font></i>
+<i><font color="#F9E2AF">(And arms like silver glimmering.)</font></i>
+
+786
+01:08:14,800 --> 01:08:17,699
+Who is she?
+
+787
+01:08:17,700 --> 01:08:21,600
+This woman you sing of.
+
+788
+01:08:23,600 --> 01:08:26,199
+'Tis the lady of Luthien.
+
+789
+01:08:26,200 --> 01:08:32,700
+The elf-maiden who gave her
+love to Beren, a mortal.
+
+790
+01:08:33,200 --> 01:08:36,800
+What happened to her?
+
+791
+01:08:37,600 --> 01:08:41,500
+She died.
+
+792
+01:08:44,000 --> 01:08:47,800
+Get some sleep, Frodo.
+
+793
+01:08:56,800 --> 01:09:00,999
+The power of Isengard is at your command...
+
+794
+01:09:01,000 --> 01:09:06,700
+... Sauron, Lord of the Earth.
+
+795
+01:09:08,800 --> 01:09:15,900
+Build me an army worthy of Mordor.
+
+796
+01:09:20,100 --> 01:09:25,099
+What orders from Mordor, my lord?
+What does the Eye command?
+
+797
+01:09:25,100 --> 01:09:28,400
+We have work to do.
+
+798
+01:10:09,800 --> 01:10:14,799
+The trees are strong, my lord.
+Their roots go deep.
+
+799
+01:10:14,800 --> 01:10:18,100
+Rip them all down.
+
+800
+01:10:44,090 --> 01:10:48,290
+This was the great watchtower of Amon Sûl.
+
+801
+01:10:48,590 --> 01:10:52,590
+We shall rest here tonight.
+
+802
+01:11:02,890 --> 01:11:06,589
+These are for you.
+Keep them close.
+
+803
+01:11:06,590 --> 01:11:10,490
+I'm going to have a look around.
+
+804
+01:11:11,490 --> 01:11:14,790
+Stay here.
+
+805
+01:11:15,890 --> 01:11:18,289
+My tomato's burst.
+
+806
+01:11:18,290 --> 01:11:20,289
+Could I have some bacon?
+
+807
+01:11:20,290 --> 01:11:22,689
+Want a tomato, Sam?
+
+808
+01:11:22,690 --> 01:11:26,589
+- What are you doing?!
+- Tomatoes, sausages, nice crispy bacon.
+
+809
+01:11:26,590 --> 01:11:29,489
+- We saved some for you, Mr. Frodo.
+- Put it out, you fools!
+
+810
+01:11:29,490 --> 01:11:34,790
+- Put it out!
+- That's nice! Ash on my tomatoes!
+
+811
+01:11:41,890 --> 01:11:45,090
+Go!
+
+812
+01:12:07,300 --> 01:12:11,459
+<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
+
+813
+01:12:11,970 --> 01:12:20,459
+<i><font color="#778899">♫ Îdô Nidir nênâ</font></i>
+<i><font color="#F9E2AF">(Now, we are the Nine)</font></i>
+
+814
+01:12:20,970 --> 01:12:24,459
+<i><font color="#778899">♫ Nêpâm ned abârat</font></i>
+<i><font color="#F9E2AF">(We grasp power for ourselves)</font></i>
+
+815
+01:12:25,970 --> 01:12:30,459
+<i><font color="#778899">♫ Nidir nênâkham</font></i>
+<i><font color="#F9E2AF">(We, the Nine, are coming)</font></i>
+
+816
+01:12:30,970 --> 01:12:40,459
+<i><font color="#778899">♫ Nêbâbîtham Magânanê</font></i>
+<i><font color="#F9E2AF">(We renounce our Maker)</font></i>
+
+817
+01:12:37,180 --> 01:12:40,080
+Back, you devils!
+
+818
+01:12:41,970 --> 01:12:47,459
+<i><font color="#778899">♫ Nêtabdam dâur</font></i>
+<i><font color="#F9E2AF">(We cling to the darkness)</font></i>
+
+819
+01:12:48,000 --> 01:12:51,000
+<font color="#F38BA8">Gûm-ishi...</font>
+<font color="#F9E2AF">(In the Void...)</font>
+
+820
+01:12:53,000 --> 01:12:55,000
+<font color="#F38BA8">...ashi...</font>
+<font color="#F9E2AF">(...only...)</font>
+
+821
+01:13:14,000 --> 01:13:17,000
+<font color="#F38BA8">...gurum</font>
+<font color="#F9E2AF">(...death)</font>
+
+822
+01:13:29,550 --> 01:13:33,350
+<i><font color="#F38BA8">Makha gulshu darulu</font></i>
+<i><font color="#F9E2AF">(Where the Shadows lie)</font></i>
+
+823
+01:13:33,550 --> 01:13:39,550
+<i><font color="#F38BA8">Daghburz-ishi makha gulshu darulu</font></i>
+<i><font color="#F9E2AF">(In the Land of Mordor where the Shadows lie)</font></i>
+
+824
+01:14:02,080 --> 01:14:04,780
+Frodo!
+
+825
+01:14:07,980 --> 01:14:10,680
+Oh, Sam.
+
+826
+01:14:46,270 --> 01:14:48,770
+Strider!
+
+827
+01:14:49,980 --> 01:14:56,780
+- Help him, Strider.
+- He's been stabbed by a Morgul blade.
+
+828
+01:14:56,980 --> 01:15:03,180
+This is beyond my skill to heal.
+He needs elvish medicine.
+
+829
+01:15:06,470 --> 01:15:07,779
+Hurry!
+
+830
+01:15:07,780 --> 01:15:11,869
+We're six days from Rivendell!
+He'll never make it!
+
+831
+01:15:11,870 --> 01:15:14,279
+Hold on, Frodo.
+
+832
+01:15:14,280 --> 01:15:17,780
+Gandalf!
+
+833
+01:15:46,000 --> 01:15:52,500
+<i><font color="#89B4FA">♫ I ce</font></i>
+<i><font color="#F9E2AF">(The earth)</font></i>
+
+834
+01:15:53,000 --> 01:16:03,000
+<i><font color="#89B4FA">♫ I cemen nurrua</font></i>
+<i><font color="#F9E2AF">(The earth groans)</font></i>
+
+835
+01:16:03,000 --> 01:16:09,000
+<i><font color="#89B4FA">♫ Ar i sure...</font></i>
+<i><font color="#F9E2AF">(And the wind...)</font></i>
+
+836
+01:16:11,000 --> 01:16:15,000
+<i><font color="#89B4FA">♫ ...i súre...</font></i>
+<i><font color="#F9E2AF">(...the wind...)</font></i>
+
+837
+01:16:17,000 --> 01:16:20,500
+<i><font color="#89B4FA">♫ ...naina.</font></i>
+<i><font color="#F9E2AF">(...is crying.)</font></i>
+
+838
+01:16:19,970 --> 01:16:22,970
+Gwaihir - Go.
+
+839
+01:17:54,460 --> 01:17:58,860
+Look, Frodo. It's Mr. Bilbo's trolls.
+
+840
+01:17:59,660 --> 01:18:03,860
+Mr. Frodo? He's going cold.
+
+841
+01:18:05,360 --> 01:18:07,359
+Is he going to die?
+
+842
+01:18:07,360 --> 01:18:13,560
+He's passing into the shadow world.
+He'll soon become a wraith like them.
+
+843
+01:18:17,360 --> 01:18:21,459
+- They're close.
+- Sam, do you know the Athelas plant?
+
+844
+01:18:21,460 --> 01:18:23,059
+- Athelas?
+- Kingsfoil.
+
+845
+01:18:23,060 --> 01:18:24,359
+Kingsfoil, aye, it's a weed.
+
+846
+01:18:24,360 --> 01:18:28,860
+It may help to slow the poisoning.
+Hurry!
+
+847
+01:18:41,860 --> 01:18:47,360
+What's this, a ranger caught off his guard?
+
+848
+01:18:50,560 --> 01:19:13,000
+<i><font color="#A6E3A1">♫ Tinúviel el vanui</font></i>
+<i><font color="#F9E2AF">(Tinúviel, the elven-fair)</font></i>
+
+849
+01:19:10,960 --> 01:19:13,000
+Frodo.
+
+850
+01:19:13,500 --> 01:19:28,059
+<i><font color="#A6E3A1">♫ Elleth alfirin</font></i>
+<i><font color="#F9E2AF">(Immortal maiden)</font></i>
+
+851
+01:19:13,560 --> 01:19:19,059
+<font color="#A6E3A1">Im Arwen - Telin le thaed.</font>
+<font color="#F9E2AF">(I am Arwen - I’ve come to help you.)</font>
+
+852
+01:19:19,060 --> 01:19:24,860
+<font color="#A6E3A1">Lasto beth nîn, tolo dan na ngalad.</font>
+<font color="#F9E2AF">(Hear my voice, come back to the light.)</font>
+
+853
+01:19:28,760 --> 01:19:31,259
+Who is she?
+
+854
+01:19:31,260 --> 01:19:33,259
+Frodo.
+
+855
+01:19:33,260 --> 01:19:38,160
+- She's an elf.
+- He's fading.
+
+856
+01:19:39,260 --> 01:19:41,559
+He's not going to last.
+
+857
+01:19:41,560 --> 01:19:44,859
+We must get him to my father.
+
+858
+01:19:44,860 --> 01:19:47,959
+- I've been looking for you for two days.
+- Where are you taking him?
+
+859
+01:19:47,960 --> 01:19:54,959
+There are five wraiths behind you.
+Where the other four are, I do not know.
+
+860
+01:19:54,960 --> 01:19:57,959
+<font color="#A6E3A1">Dartho guin Berian. Rych le ad tolthathon.</font>
+<font color="#F9E2AF">(Stay with the hobbits, I’ll send horses for you.)</font>
+
+861
+01:19:57,960 --> 01:20:00,659
+<font color="#A6E3A1">Hon mabathon. Rochon ellint im.</font>
+<font color="#F9E2AF">(I will take him. I am the swifter rider.)</font>
+
+862
+01:20:00,660 --> 01:20:01,949
+<font color="#A6E3A1">Andelu i ven.</font>
+<font color="#F9E2AF">(The road is very dangerous.)</font>
+
+863
+01:20:01,950 --> 01:20:03,349
+What are they saying?
+
+864
+01:20:03,350 --> 01:20:05,449
+<font color="#A6E3A1">Frodo fîr. Ae athradon i hîr...</font>
+<font color="#F9E2AF">(Frodo dies. If I get across the river...)</font>
+
+865
+01:20:05,450 --> 01:20:09,259
+<font color="#A6E3A1">...tûr gwaith nîn beriatha hon.</font>
+<font color="#F9E2AF">(...the power of my people will protect him.)</font>
+
+866
+01:20:09,260 --> 01:20:12,260
+I do not fear them.
+
+867
+01:20:14,450 --> 01:20:17,450
+<font color="#A6E3A1">Be iest lîn.</font>
+<font color="#F9E2AF">(As you wish.)</font>
+
+868
+01:20:20,760 --> 01:20:22,249
+Arwen...
+
+869
+01:20:22,250 --> 01:20:26,850
+...ride hard. Don't Look back.
+
+870
+01:20:24,400 --> 01:20:27,383
+<font color="#A6E3A1">Noro lim, Asfaloth. Noro lim!</font>
+<font color="#F9E2AF">(Ride fast, Asfaloth. Ride fast!)</font>
+
+871
+01:20:30,550 --> 01:20:36,250
+What are you doing?!
+Those wraiths are still out there!
+
+872
+01:21:36,970 --> 01:21:40,459
+<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
+
+873
+01:21:41,970 --> 01:21:47,459
+<i><font color="#778899">♫ Îdô kham nêpâm</font></i>
+<i><font color="#F9E2AF">(Now we come grasp)</font></i>
+
+874
+01:21:45,250 --> 01:21:48,750
+<font color="#A6E3A1">Noro lim, Asfaloth!</font>
+<font color="#F9E2AF">(Ride fast, Asfaloth!)</font>
+
+875
+01:21:47,970 --> 01:21:51,459
+<i><font color="#778899">♫ Nênâkham nêpâm</font></i>
+<i><font color="#F9E2AF">(We come grasp)</font></i>
+
+876
+01:21:52,970 --> 01:21:57,459
+<i><font color="#778899">♫ 'bârat aglar</font></i>
+<i><font color="#F9E2AF">(power, glory)</font></i>
+
+877
+01:21:57,970 --> 01:22:01,459
+<i><font color="#778899">♫ Nêbâ Katharâd</font></i>
+<i><font color="#F9E2AF">(Deny Eternal Life)</font></i>
+
+878
+01:22:01,970 --> 01:22:06,459
+<i><font color="#778899">♫ Nidir nênâ</font></i>
+<i><font color="#F9E2AF">(We are the Nine)</font></i>
+
+879
+01:22:07,970 --> 01:22:16,459
+<i><font color="#778899">♫ Nêbâbîtham dâur</font></i>
+<i><font color="#F9E2AF">(We cling to the darkness)</font></i>
+
+880
+01:22:29,440 --> 01:22:33,249
+Give up the halfling, She-elf.
+
+881
+01:22:33,250 --> 01:22:37,150
+If you want him, come and claim him.
+
+882
+01:22:47,540 --> 01:22:48,949
+<font color="#A6E3A1">Nîn o Chithaeglir...</font>
+<font color="#F9E2AF">(Waters of the Misty Mountains...)</font>
+
+883
+01:22:48,950 --> 01:22:50,439
+<font color="#A6E3A1">...lasto beth daer;</font>
+<font color="#F9E2AF">(...listen to the great word;)</font>
+
+884
+01:22:50,440 --> 01:22:53,539
+<font color="#A6E3A1">Rimmo nˆn Bruinen dan in Ulaer.</font>
+<font color="#F9E2AF">(flow waters of Loudwater against the Ringwraiths.)</font>
+
+885
+01:22:53,540 --> 01:22:55,039
+<font color="#A6E3A1">Nîn o Chithaeglir...</font>
+<font color="#F9E2AF">(Waters of the Misty Mountains...)</font>
+
+886
+01:22:55,040 --> 01:22:56,439
+<font color="#A6E3A1">...lasto beth daer;</font>
+<font color="#F9E2AF">(...listen to the great word;)</font>
+
+887
+01:22:56,440 --> 01:23:01,840
+<font color="#A6E3A1">Rimmo nˆn Bruinen dan in Ulaer!</font>
+<font color="#F9E2AF">(flow waters of Loudwater against the Ringwraiths!)</font>
+
+888
+01:23:26,440 --> 01:23:46,840
+<i>♫ What grace is given me</i>
+
+889
+01:23:29,640 --> 01:23:33,540
+No. No!
+
+890
+01:23:35,340 --> 01:23:37,839
+Frodo, no.
+
+891
+01:23:37,840 --> 01:23:40,339
+Frodo, don't give in.
+
+892
+01:23:40,340 --> 01:23:43,740
+Not now.
+
+893
+01:23:47,440 --> 01:23:58,440
+<i>♫ Let it pass to him</i>
+
+894
+01:23:53,340 --> 01:23:56,139
+What grace is given me...
+
+895
+01:23:56,440 --> 01:23:58,440
+...let it pass to him.
+
+896
+01:23:58,530 --> 01:24:04,840
+<i>♫ Let him be spared</i>
+
+897
+01:23:58,540 --> 01:24:01,339
+Let him be spared.
+
+898
+01:24:01,540 --> 01:24:04,740
+Save him.
+
+899
+01:24:05,430 --> 01:24:12,940
+<i>♫ Mighty Valar, save him</i>
+
+900
+01:24:05,440 --> 01:24:12,940
+<font color="#A6E3A1">Lasto beth nîn... tolo dan na ngalad.</font>
+<font color="#F9E2AF">(Hear my voice... come back to the light.)</font>
+
+901
+01:24:15,740 --> 01:24:21,339
+- Where am I?
+- You are in the house of Elrond.
+
+902
+01:24:21,340 --> 01:24:29,040
+And it is 10 o'clock in the morning
+on October 24th, if you want to know.
+
+903
+01:24:29,840 --> 01:24:34,940
+- Gandalf!
+- Yes, I'm here.
+
+904
+01:24:35,340 --> 01:24:38,939
+And you're lucky to be here too.
+
+905
+01:24:38,940 --> 01:24:43,229
+A few more hours and you would
+have been beyond our aid.
+
+906
+01:24:43,230 --> 01:24:48,630
+But you have some strength in you,
+my dear Hobbit.
+
+907
+01:24:54,930 --> 01:24:58,329
+What happened, Gandalf?
+
+908
+01:24:58,330 --> 01:25:05,130
+- Why didn't you meet us?
+- I am sorry, Frodo.
+
+909
+01:25:08,430 --> 01:25:11,229
+I was delayed.
+
+910
+01:25:11,230 --> 01:25:16,730
+A friendship with Saruman
+is not lightly thrown aside.
+
+911
+01:25:19,530 --> 01:25:24,529
+One ill turn deserves another. It is over.
+
+912
+01:25:24,530 --> 01:25:27,829
+Embrace the power of the ring...
+
+913
+01:25:25,433 --> 01:25:30,565
+<i><font color="#89B4FA">♫ I ce</font></i>
+<i><font color="#F9E2AF">(The earth)</font></i>
+
+914
+01:25:27,830 --> 01:25:31,730
+...or embrace your own destruction!
+
+915
+01:25:32,630 --> 01:25:36,729
+There is only one lord of the ring.
+
+916
+01:25:36,757 --> 01:25:42,860
+<i><font color="#89B4FA">♫ I ce</font></i>
+<i><font color="#F9E2AF">(The earth)</font></i>
+
+917
+01:25:36,830 --> 01:25:41,610
+Only one who can bend it to his will.
+
+918
+01:25:41,630 --> 01:25:46,930
+And he does not share power.
+
+919
+01:25:59,830 --> 01:26:04,530
+So you have chosen...death.
+
+920
+01:26:13,330 --> 01:26:18,129
+Gandalf? What is it?
+
+921
+01:26:18,130 --> 01:26:20,529
+Nothing, Frodo.
+
+922
+01:26:20,530 --> 01:26:23,829
+Frodo!
+
+923
+01:26:23,830 --> 01:26:26,429
+- Sam.
+- Bless you, you're awake!
+
+924
+01:26:26,430 --> 01:26:29,429
+Sam has hardly left your side.
+
+925
+01:26:29,430 --> 01:26:32,029
+We were that worried about you.
+Weren't we, Mr. Gandalf?
+
+926
+01:26:32,030 --> 01:26:38,430
+By the skills of Lord Elrond,
+you're beginning to mend.
+
+927
+01:26:38,530 --> 01:26:43,530
+Welcome to Rivendell, Frodo Baggins.
+
+928
+01:26:44,250 --> 01:27:03,750
+<i><font color="#A6E3A1">♫ A, Elbereth Gilthoniel</font></i>
+<i><font color="#F9E2AF">(O, Elbereth Kindler of Stars)</font></i>
+
+929
+01:27:04,250 --> 01:27:18,750
+<i><font color="#A6E3A1">♫ silivren penna míriel</font></i>
+<i><font color="#F9E2AF">(Glittering light falling like shining jewels)</font></i>
+
+930
+01:27:19,250 --> 01:27:25,750
+<i><font color="#A6E3A1">♫ A El'</font></i>
+<i><font color="#F9E2AF">(O, the Stars)</font></i>
+
+931
+01:27:30,220 --> 01:27:33,719
+- Bilbo!
+- Hello, Frodo, my lad.
+
+932
+01:27:33,720 --> 01:27:36,920
+Bilbo.
+
+933
+01:27:40,320 --> 01:27:42,319
+There and back again
+
+934
+01:27:42,320 --> 01:27:46,520
+A hobbit's Tale, by Bilbo Baggins.''
+
+935
+01:27:48,220 --> 01:27:52,019
+- This is wonderful.
+- I meant to go back...
+
+936
+01:27:52,020 --> 01:27:56,319
+...wonder at the powers of Mirkwood...
+
+937
+01:27:56,320 --> 01:27:58,819
+...visit Lake-town...
+
+938
+01:27:58,820 --> 01:28:02,819
+...see the Lonely Mountain again.
+
+939
+01:28:02,820 --> 01:28:08,920
+But age, it seems, has finally caught up with me.
+
+940
+01:28:19,820 --> 01:28:22,019
+I miss the Shire.
+
+941
+01:28:22,020 --> 01:28:27,419
+I spent all my childhood pretending
+I was off somewhere else.
+
+942
+01:28:27,420 --> 01:28:32,320
+Off with you, on one of your adventures.
+
+943
+01:28:33,820 --> 01:28:38,820
+But my own adventure turned out
+to be quite different.
+
+944
+01:28:42,820 --> 01:28:47,219
+I'm not like you, Bilbo.
+
+945
+01:28:47,220 --> 01:28:50,820
+My dear boy.
+
+946
+01:28:53,620 --> 01:28:54,819
+Now, what have I forgotten?
+
+947
+01:28:55,250 --> 01:29:02,750
+<i><font color="#A6E3A1">♫ A, Elbereth Gil[thoniel]</font></i>
+<i><font color="#F9E2AF">(O, Elbereth Kindler of Stars)</font></i>
+
+948
+01:28:55,320 --> 01:28:58,219
+Packed already?
+
+949
+01:28:58,220 --> 01:29:00,219
+No harm in being prepared.
+
+950
+01:29:00,220 --> 01:29:03,019
+- I thought you wanted to see the elves.
+- I do.
+
+951
+01:29:03,020 --> 01:29:06,119
+- More than anything.
+- I did.
+
+952
+01:29:06,120 --> 01:29:08,819
+It's just....
+
+953
+01:29:08,820 --> 01:29:11,619
+We did what Gandalf wanted, didn't we?
+
+954
+01:29:11,620 --> 01:29:15,619
+We got the ring this far, to Rivendell.
+And I thought...
+
+955
+01:29:15,620 --> 01:29:19,019
+...seeing as how you're on the mend,
+we'd be off soon.
+
+956
+01:29:19,020 --> 01:29:22,120
+Off home.
+
+957
+01:29:24,820 --> 01:29:28,220
+You are right, Sam.
+
+958
+01:29:29,020 --> 01:29:32,319
+We did what we set out to do.
+
+959
+01:29:32,320 --> 01:29:36,320
+The ring will be safe in Rivendell.
+
+960
+01:29:39,020 --> 01:29:42,119
+I am ready to go home.
+
+961
+01:29:42,120 --> 01:29:44,319
+His strength returns.
+
+962
+01:29:44,320 --> 01:29:50,719
+That wound will never fully heal.
+He will carry it the rest of his life.
+
+963
+01:29:50,720 --> 01:29:53,319
+And yet to have come so far still bearing the ring...
+
+964
+01:29:53,320 --> 01:29:57,309
+...the Hobbit has shown extraordinary
+resilience to its evil.
+
+965
+01:29:57,310 --> 01:30:00,919
+It is a burden he should never have had to bear.
+
+966
+01:30:00,920 --> 01:30:06,439
+- We can ask no more of Frodo.
+- Gandalf, the enemy is moving.
+
+967
+01:30:06,440 --> 01:30:11,339
+Sauron's forces are massing in the East.
+His eye is fixed on Rivendell.
+
+968
+01:30:11,340 --> 01:30:14,339
+And Saruman, you tell me, has betrayed us.
+
+969
+01:30:14,340 --> 01:30:18,239
+Our list of allies grows thin.
+
+970
+01:30:18,240 --> 01:30:21,239
+His treachery runs deeper than you know.
+
+971
+01:30:21,240 --> 01:30:25,139
+By foul craft, Saruman
+has crossed orcs with goblin-men.
+
+972
+01:30:25,140 --> 01:30:27,839
+He's breeding an army in the caverns of Isengard.
+
+973
+01:30:27,840 --> 01:30:32,649
+An army that can move in sunlight
+and cover great distance at speed.
+
+974
+01:30:32,650 --> 01:30:35,449
+Saruman is coming for the ring.
+
+975
+01:30:35,450 --> 01:30:39,749
+This evil cannot be concealed
+by the power of the elves.
+
+976
+01:30:39,750 --> 01:30:45,450
+We do not have the strength to
+fight both Mordor and Isengard!
+
+977
+01:30:47,960 --> 01:30:50,359
+Gandalf...
+
+978
+01:30:50,360 --> 01:30:54,260
+...the ring cannot stay here.
+
+979
+01:31:12,470 --> 01:31:15,869
+This peril belongs to all Middle-earth.
+
+980
+01:31:15,870 --> 01:31:19,679
+They must decide now how to end it.
+
+981
+01:31:19,680 --> 01:31:23,879
+The time of the elves is over.
+My people are leaving these shores.
+
+982
+01:31:23,880 --> 01:31:27,779
+Who will you look to when we've gone?
+The dwarves?
+
+983
+01:31:27,780 --> 01:31:34,180
+They hide in mountains seeking riches.
+They care not for the troubles of others.
+
+984
+01:31:34,380 --> 01:31:37,689
+It is in men that we must place our hope.
+
+985
+01:31:37,690 --> 01:31:40,289
+Men?
+
+986
+01:31:40,290 --> 01:31:43,689
+Men are weak. The race of men is failing.
+
+987
+01:31:43,690 --> 01:31:48,389
+The blood of Numenor is all but spent,
+its pride and dignity forgotten.
+
+988
+01:31:48,390 --> 01:31:52,189
+It is because of men the ring survives.
+
+989
+01:31:52,190 --> 01:31:54,499
+I was there, Gandalf.
+
+990
+01:31:54,500 --> 01:31:58,700
+I was there 3000 years ago...
+
+991
+01:32:04,100 --> 01:32:06,699
+... when Isildur took the ring.
+
+992
+01:32:06,700 --> 01:32:11,900
+I was there the day the strength of men failed.
+
+993
+01:32:13,110 --> 01:32:17,110
+Isildur, hurry! Follow me.
+
+994
+01:32:17,310 --> 01:32:21,209
+I led Isildur into the heart of Mount Doom...
+
+995
+01:32:21,210 --> 01:32:24,809
+...where the ring was forged,
+the one place it could be destroyed.
+
+996
+01:32:24,810 --> 01:32:28,810
+Cast it into the fire!
+
+997
+01:32:32,620 --> 01:32:37,720
+- Destroy it!
+- No.
+
+998
+01:32:37,720 --> 01:32:40,319
+Isildur!
+
+999
+01:32:40,320 --> 01:32:46,420
+It should have ended that day,
+but evil was allowed to endure.
+
+1000
+01:32:49,220 --> 01:32:54,329
+Isildur kept the ring.
+The line of kings is broken.
+
+1001
+01:32:54,330 --> 01:32:58,329
+There's no strength left in the world of men.
+
+1002
+01:32:58,330 --> 01:33:03,329
+- They're scattered, divided, leaderless.
+- There is one who could unite them.
+
+1003
+01:33:03,330 --> 01:33:08,030
+One who could reclaim the throne of Gondor.
+
+1004
+01:33:08,440 --> 01:33:12,339
+He turned from that path a long time ago.
+
+1005
+01:33:12,340 --> 01:33:15,940
+He has chosen exile.
+
+1006
+01:33:45,560 --> 01:33:47,759
+You are no elf.
+
+1007
+01:33:47,760 --> 01:33:50,459
+Men of the South are welcome here.
+
+1008
+01:33:50,460 --> 01:33:55,360
+- Who are you?
+- I am a friend to Gandalf the Grey.
+
+1009
+01:33:55,460 --> 01:33:58,559
+Then we are here on common purpose...
+
+1010
+01:33:58,560 --> 01:34:01,460
+...friend.
+
+1011
+01:34:15,370 --> 01:34:19,670
+The shards of Narsil.
+
+1012
+01:34:21,780 --> 01:34:27,480
+The blade that cut the ring from Sauron's hand.
+
+1013
+01:34:29,080 --> 01:34:32,780
+It's still sharp.
+
+1014
+01:34:40,290 --> 01:34:44,690
+But no more than a broken heirloom.
+
+1015
+01:35:10,200 --> 01:35:14,109
+Why do you fear the past?
+
+1016
+01:35:14,110 --> 01:35:19,709
+You are Isildur's heir, not Isildur himseIf.
+
+1017
+01:35:19,710 --> 01:35:23,609
+You are not bound to his fate.
+
+1018
+01:35:23,610 --> 01:35:28,910
+The same blood flows in my veins.
+
+1019
+01:35:30,620 --> 01:35:34,620
+The same weakness.
+
+1020
+01:35:35,890 --> 01:35:38,889
+Your time will come.
+
+1021
+01:35:38,890 --> 01:35:44,590
+You will face the same evil.
+And you will defeat it.
+
+1022
+01:35:46,180 --> 01:35:49,579
+<font color="#A6E3A1">A si i-Dhuath ú-orthor, Aragorn.</font>
+<font color="#F9E2AF">(Till now the Shadow not masters, Aragorn)</font>
+
+1023
+01:35:49,580 --> 01:35:54,880
+<font color="#A6E3A1">Ú or le a ú or nin.</font>
+<font color="#F9E2AF">(Not over you, not over me.)</font>
+
+1024
+01:36:00,233 --> 01:36:12,200
+<i><font color="#89B4FA">♫ O môr henion i dhû</font></i>
+<i><font color="#F9E2AF">(From darkness I understand the night)</font></i>
+
+1025
+01:36:04,770 --> 01:36:09,970
+<font color="#A6E3A1">Renich i lú i erui govannem?</font>
+<font color="#F9E2AF">(Do you remember when we first met?)</font>
+
+1026
+01:36:12,233 --> 01:36:19,500
+<i><font color="#89B4FA">♫ Ely siriar, êl sila</font></i>
+<i><font color="#F9E2AF">(Dreams flow, a star shines)</font></i>
+
+1027
+01:36:12,270 --> 01:36:16,340
+<font color="#A6E3A1">Nauthannen i ned ôl reniannen.</font>
+<font color="#F9E2AF">(I thought I had strayed into a dream.)</font>
+
+1028
+01:36:16,670 --> 01:36:19,500
+<font color="#A6E3A1">Gwenwin in enninath.</font>
+<font color="#F9E2AF">(Long years have passed.)</font>
+
+1029
+01:36:19,750 --> 01:36:48,200
+<i><font color="#89B4FA">♫ Ai! Aníron Undómiel</font></i>
+<i><font color="#F9E2AF">(Ah! I desire Evenstar)</font></i>
+
+1030
+01:36:19,760 --> 01:36:25,060
+<font color="#A6E3A1">Ú-’arnech in naeth i si celich.</font>
+<font color="#F9E2AF">(You did not wear the troubles you carry now.)</font>
+
+1031
+01:36:25,760 --> 01:36:29,360
+<font color="#A6E3A1">Renech i beth i pennen?</font>
+<font color="#F9E2AF">(Do you remember what I told you?)</font>
+
+1032
+01:36:33,760 --> 01:36:37,860
+You said you'd bind yourself to me...
+
+1033
+01:36:38,560 --> 01:36:44,549
+...forsaking the immortal life of your people.
+
+1034
+01:36:44,550 --> 01:36:46,649
+And to that I hold.
+
+1035
+01:36:46,650 --> 01:36:50,649
+I would rather share one lifetime with you...
+
+1036
+01:36:50,233 --> 01:37:01,200
+<i><font color="#89B4FA">♫ Tiro! El eria e môr</font></i>
+<i><font color="#F9E2AF">(Look! A star rises out of darkness)</font></i>
+
+1037
+01:36:50,650 --> 01:36:55,750
+...than face all the ages of this world alone.
+
+1038
+01:37:02,233 --> 01:37:17,200
+<i><font color="#89B4FA">♫ I ‘lîr en êl luitha ‘úren</font></i>
+<i><font color="#F9E2AF">(The song of the star enchants my heart)</font></i>
+
+1039
+01:37:03,140 --> 01:37:07,940
+I choose a mortal life.
+
+1040
+01:37:07,940 --> 01:37:13,540
+- You cannot give me this.
+- It is mine to give to whom I will...
+
+1041
+01:37:15,440 --> 01:37:19,340
+...like my heart.
+
+1042
+01:37:17,233 --> 01:37:32,200
+<i><font color="#89B4FA">♫ Ai! Aníron...</font></i>
+<i><font color="#F9E2AF">(Ah! I desire...)</font></i>
+
+1043
+01:37:33,730 --> 01:37:37,729
+Strangers from distant lands, friends of old...
+
+1044
+01:37:37,730 --> 01:37:42,229
+...you've been summoned here
+to answer the threat of Mordor.
+
+1045
+01:37:42,230 --> 01:37:47,319
+Middle-earth stands upon the brink of destruction.
+None can escape it.
+
+1046
+01:37:47,320 --> 01:37:51,119
+You will unite, or you will fall.
+
+1047
+01:37:51,120 --> 01:37:56,720
+Each race is bound to this fate, this one doom.
+
+1048
+01:37:57,220 --> 01:38:02,020
+Bring forth the ring, Frodo.
+
+1049
+01:38:14,810 --> 01:38:17,910
+So it is true.
+
+1050
+01:38:26,200 --> 01:38:29,200
+The ring of power...
+
+1051
+01:38:29,800 --> 01:38:32,800
+The doom of men...
+
+1052
+01:38:33,900 --> 01:38:37,400
+In a dream...
+
+1053
+01:38:37,700 --> 01:38:41,089
+...I saw the eastern sky grow dark...
+
+1054
+01:38:41,090 --> 01:38:43,589
+...but in the West a pale light lingered.
+
+1055
+01:38:43,590 --> 01:38:45,689
+A voice was crying:
+
+1056
+01:38:45,690 --> 01:38:49,689
+"Your doom is near at hand.
+
+1057
+01:38:49,690 --> 01:38:53,790
+Isildur's bane is found."
+
+1058
+01:38:54,800 --> 01:38:56,200
+<font color="#F38BA8">Sherkuk-ishi</font>
+<font color="#F9E2AF">(In your blood)</font>
+
+1059
+01:38:56,640 --> 01:38:58,440
+Isildur's bane.
+
+1060
+01:38:58,680 --> 01:38:58,979
+Boromir!
+
+1061
+01:38:58,980 --> 01:39:02,679
+<font color="#F38BA8">[Gandalf] Ash nazg durbatulûk</font>
+<font color="#F9E2AF">(One ring to rule them all)</font>
+
+1062
+01:38:59,680 --> 01:39:05,600
+<font color="#F38BA8">[Sauron] Shre nazg golugranu kilmi-nudu</font>
+<font color="#F9E2AF">(Three Rings for the Elven-kings under the sky)</font>
+
+1063
+01:39:02,680 --> 01:39:06,400
+<font color="#F38BA8">[Gandalf] Ash nazg gimbatul</font>
+<font color="#F9E2AF">(One ring to find them)</font>
+
+1064
+01:39:05,881 --> 01:39:10,400
+<font color="#F38BA8">[Sauron] Ombi kuzd-durbagu... sherkuk</font>
+<font color="#F9E2AF">(Seven for the Dwarf-lords... blood)</font>
+
+1065
+01:39:06,650 --> 01:39:11,800
+<font color="#F38BA8">[Gandalf] Ash nazg thrakatuluk</font>
+<font color="#F9E2AF">(One ring to bring them all)</font>
+
+1066
+01:39:10,681 --> 01:39:16,500
+<font color="#F38BA8">[Sauron] Ash burz durbagu burzum-ishi</font>
+<font color="#F9E2AF">(One for the Dark Lord on his dark throne)</font>
+
+1067
+01:39:12,580 --> 01:39:18,580
+<font color="#F38BA8">[Gandalf] Agh burzum-ishi krimpatul.</font>
+<font color="#F9E2AF">(and in the darkness bind them.)</font>
+
+1068
+01:39:23,170 --> 01:39:27,269
+Never before has any voice uttered the
+words of that tongue here in Imladris.
+
+1069
+01:39:27,270 --> 01:39:31,069
+I do not ask your pardon, Master Elrond...
+
+1070
+01:39:31,070 --> 01:39:33,469
+...for the black speech of Mordor...
+
+1071
+01:39:33,470 --> 01:39:35,069
+...may yet be heard...
+
+1072
+01:39:35,070 --> 01:39:38,169
+...in every corner of the West!
+
+1073
+01:39:38,170 --> 01:39:41,269
+The ring is altogether evil.
+
+1074
+01:39:41,270 --> 01:39:43,459
+It is a gift.
+
+1075
+01:39:43,460 --> 01:39:46,059
+A gift to the foes of Mordor.
+
+1076
+01:39:46,060 --> 01:39:48,359
+Why not use this ring?
+
+1077
+01:39:48,360 --> 01:39:51,359
+Long has my father, the Steward of Gondor...
+
+1078
+01:39:51,360 --> 01:39:55,959
+...kept the forces of Mordor at bay.
+By the blood of our people...
+
+1079
+01:39:55,960 --> 01:39:59,560
+...are your lands kept safe.
+
+1080
+01:39:59,860 --> 01:40:04,449
+Give Gondor the weapon of the enemy.
+Let us use it against him.
+
+1081
+01:40:04,450 --> 01:40:08,849
+You cannot wield it. None of us can.
+
+1082
+01:40:08,850 --> 01:40:13,149
+The one ring answers to Sauron alone.
+It has no other master.
+
+1083
+01:40:13,150 --> 01:40:16,849
+And what would a ranger know of this matter?
+
+1084
+01:40:16,850 --> 01:40:19,839
+This is no mere ranger.
+
+1085
+01:40:19,840 --> 01:40:24,039
+He is Aragorn, son of Arathorn.
+
+1086
+01:40:24,040 --> 01:40:28,340
+You owe him your allegiance.
+
+1087
+01:40:31,040 --> 01:40:34,440
+Aragorn.
+
+1088
+01:40:34,740 --> 01:40:39,040
+This is Isildur's heir?
+
+1089
+01:40:39,940 --> 01:40:44,140
+And heir to the throne of Gondor.
+
+1090
+01:40:44,230 --> 01:40:47,930
+<font color="#A6E3A1">Havo dad, Legolas.</font>
+<font color="#F9E2AF">(Sit down, Legolas.)</font>
+
+1091
+01:40:49,530 --> 01:40:53,830
+Gondor has no king.
+
+1092
+01:40:54,330 --> 01:40:57,430
+Gondor needs no king.
+
+1093
+01:41:02,620 --> 01:41:07,319
+Aragorn is right. We cannot use it.
+
+1094
+01:41:07,320 --> 01:41:10,919
+You have only one choice.
+
+1095
+01:41:10,920 --> 01:41:14,720
+The ring must be destroyed.
+
+1096
+01:41:18,520 --> 01:41:22,520
+Then what are we waiting for?
+
+1097
+01:41:26,550 --> 01:41:32,550
+<font color="#F38BA8">...Daghburz-ishi makha gulshu... sherkuk</font>
+<font color="#F9E2AF">...In the Land of Mordor where the Shadows... blood</font>
+
+1098
+01:41:33,470 --> 01:41:36,769
+The ring cannot be destroyed, Gimli, son of Gloin...
+
+1099
+01:41:36,770 --> 01:41:41,569
+...by any craft that we here possess.
+
+1100
+01:41:41,570 --> 01:41:45,659
+The ring was made in the fires of Mount Doom.
+
+1101
+01:41:45,859 --> 01:41:50,640
+<i><font color="#F38BA8">[Daghburz]-ishi makha gulshu darulu</font></i>
+<i><font color="#F9E2AF">In the Land of Mordor where the Shadows lie</font></i>
+
+1102
+01:41:45,860 --> 01:41:50,659
+Only there can it be unmade.
+
+1103
+01:41:50,860 --> 01:41:53,559
+It must be taken deep into Mordor...
+
+1104
+01:41:53,560 --> 01:41:58,059
+...and cast back into the fiery
+chasm from whence it came.
+
+1105
+01:41:58,060 --> 01:42:01,220
+<i><font color="#F38BA8">[Daghburz]-ishi makha gulshu darulu</font></i>
+<i><font color="#F9E2AF">In the Land of Mordor where the Shadows lie</font></i>
+
+1106
+01:42:01,250 --> 01:42:03,049
+One of you...
+
+1107
+01:42:03,050 --> 01:42:06,650
+...must do this.
+
+1108
+01:42:08,150 --> 01:42:12,749
+One does not simply walk into Mordor.
+
+1109
+01:42:12,750 --> 01:42:17,139
+Its black gates are guarded by more than just orcs.
+
+1110
+01:42:17,140 --> 01:42:21,539
+There is evil there that does not sleep.
+
+1111
+01:42:21,540 --> 01:42:26,529
+The great eye is ever-watchful.
+
+1112
+01:42:26,530 --> 01:42:28,829
+It is a barren wasteland...
+
+1113
+01:42:28,830 --> 01:42:32,529
+...riddled with fire, and ash and dust.
+
+1114
+01:42:32,530 --> 01:42:36,629
+The very air you breathe is a poisonous fume.
+
+1115
+01:42:36,630 --> 01:42:41,129
+Not with 10,000 men could you do this.
+It is folly.
+
+1116
+01:42:41,130 --> 01:42:45,819
+Have you heard nothing Lord Elrond has said?
+The ring must be destroyed.
+
+1117
+01:42:45,820 --> 01:42:48,519
+And I suppose you think you are the one to do it!
+
+1118
+01:42:48,520 --> 01:42:53,419
+And if we fail, what then? What happens
+when Sauron takes back what is his?
+
+1119
+01:42:53,420 --> 01:43:00,020
+I will be dead before I see the
+ring in the hands of an elf!
+
+1120
+01:43:00,710 --> 01:43:04,409
+Never trust an elf!
+
+1121
+01:43:04,410 --> 01:43:10,509
+Do you not understand? While you bicker
+amongst yourselves, Sauron's power grows!
+
+1122
+01:43:10,510 --> 01:43:14,399
+None can escape it!
+You'll all be destroyed!
+
+1123
+01:43:14,400 --> 01:43:16,799
+<i><font color="#F38BA8">Ash nazg durbatuluk...</font>
+<font color="#F9E2AF">(One ring to rule them all...)</font></i>
+
+1124
+01:43:16,800 --> 01:43:19,299
+<i><font color="#F38BA8">Ash nazg gimbatul...</font>
+<font color="#F9E2AF">(One ring to find them...)</font></i>
+
+1125
+01:43:19,300 --> 01:43:21,399
+<i><font color="#F38BA8">Ash nazg durbatuluk...</font>
+<font color="#F9E2AF">(One ring to rule them all...)</font></i>
+
+1126
+01:43:21,400 --> 01:43:23,499
+<i><font color="#F38BA8">Ash nazg gimbatul...</font>
+<font color="#F9E2AF">(One ring to find them...)</font></i>
+
+1127
+01:43:23,500 --> 01:43:25,489
+<i><font color="#F38BA8">Ash nazg durbatuluk...</font>
+<font color="#F9E2AF">(One ring to rule them all...)</font></i>
+
+1128
+01:43:25,490 --> 01:43:27,589
+<i><font color="#F38BA8">Ash nazg gimbatul...</font>
+<font color="#F9E2AF">(One ring to find them...)</font></i>
+
+1129
+01:43:27,590 --> 01:43:31,090
+<i><font color="#F38BA8">Ash nazg durbatuluk...</font>
+<font color="#F9E2AF">(One ring to rule them all...)</font></i>
+
+1130
+01:43:32,090 --> 01:43:35,590
+I will take it.
+
+1131
+01:43:36,390 --> 01:43:40,390
+I will take it.
+
+1132
+01:43:44,680 --> 01:43:49,180
+I will take the ring to Mordor.
+
+1133
+01:43:55,970 --> 01:43:58,570
+Though...
+
+1134
+01:44:00,270 --> 01:44:03,570
+...I do not know the way.
+
+1135
+01:44:04,070 --> 01:44:08,559
+I will help you bear this burden, Frodo Baggins...
+
+1136
+01:44:08,560 --> 01:44:13,059
+...as long as it is yours to bear.
+
+1137
+01:44:13,060 --> 01:44:16,859
+If by my life or death I can protect you...
+
+1138
+01:44:16,860 --> 01:44:19,660
+...I will.
+
+1139
+01:44:21,460 --> 01:44:25,160
+You have my sword.
+
+1140
+01:44:25,550 --> 01:44:28,249
+And you have my bow.
+
+1141
+01:44:28,250 --> 01:44:32,050
+And my ax.
+
+1142
+01:44:37,740 --> 01:44:42,040
+You carry the fates of us all, little one.
+
+1143
+01:44:42,740 --> 01:44:46,939
+If this is indeed the will of the Council...
+
+1144
+01:44:46,940 --> 01:44:50,840
+...then Gondor will see it done.
+
+1145
+01:44:51,940 --> 01:44:56,929
+- Mr. Frodo's not going anywhere without me.
+- No indeed it is hardly possible to separate you...
+
+1146
+01:44:56,930 --> 01:45:02,329
+...even when he is summoned to a
+secret council and you are not.
+
+1147
+01:45:02,330 --> 01:45:05,630
+Oy. We're coming too!
+
+1148
+01:45:06,320 --> 01:45:09,219
+You'll have to send us home
+tied up in a sack to stop us.
+
+1149
+01:45:09,220 --> 01:45:12,919
+Anyway, you need people
+of intelligence on this sort of...
+
+1150
+01:45:12,920 --> 01:45:14,519
+...mission.
+
+1151
+01:45:14,520 --> 01:45:16,419
+Quest.
+
+1152
+01:45:16,420 --> 01:45:18,920
+Thing.
+
+1153
+01:45:19,220 --> 01:45:23,420
+Well, that rules you out, Pip.
+
+1154
+01:45:23,610 --> 01:45:26,910
+Nine companions.
+
+1155
+01:45:27,210 --> 01:45:29,409
+So be it.
+
+1156
+01:45:29,410 --> 01:45:33,109
+You shall be: The Fellowship of the Ring.
+
+1157
+01:45:33,110 --> 01:45:35,309
+Great!
+
+1158
+01:45:35,310 --> 01:45:38,910
+Where are we going?
+
+1159
+01:45:49,970 --> 01:46:01,459
+<i><font color="#A6E3A1">♫ Estel le iôn adar lín</font></i>
+<i><font color="#F9E2AF">(You are your father’s son)</font></i>
+
+1160
+01:46:02,970 --> 01:46:12,459
+<i><font color="#A6E3A1">♫ Û iôn naneth lín</font></i>
+<i><font color="#F9E2AF">(Not your mother’s child)</font></i>
+
+1161
+01:46:11,870 --> 01:46:16,159
+<font color="#A6E3A1">Anirne hene beriad i chen lîn.</font>
+<font color="#F9E2AF">(She wanted to protect her child.)</font>
+
+1162
+01:46:13,970 --> 01:46:27,459
+<i><font color="#A6E3A1">♫ A chéneg a ionneg</font></i>
+<i><font color="#F9E2AF">(Little boy, little one)</font></i>
+
+1163
+01:46:16,160 --> 01:46:21,060
+<font color="#A6E3A1">Ned Imladris nauthant e le beriathar aen.</font>
+<font color="#F9E2AF">(She thought in Rivendell you would be safe.)</font>
+
+1164
+01:46:22,560 --> 01:46:26,569
+In her heart, your mother knew
+you'd be hunted all your life.
+
+1165
+01:46:26,570 --> 01:46:28,569
+That you'd never escape your fate.
+
+1166
+01:46:28,750 --> 01:46:35,459
+<i><font color="#A6E3A1">♫ Danna si (fuin)</font></i>
+<i><font color="#F9E2AF">(Night is falling)</font></i>
+
+1167
+01:46:28,770 --> 01:46:32,850
+The skill of the elves can reforge
+the sword of kings...
+
+1168
+01:46:32,870 --> 01:46:36,100
+...but only you have the power to wield it.
+
+1169
+01:46:36,370 --> 01:46:45,459
+<i><font color="#A6E3A1">♫ Tolo na rengy</font></i>
+<i><font color="#F9E2AF">(Come into my arms)</font></i>
+
+1170
+01:46:37,770 --> 01:46:40,469
+I do not want that power.
+
+1171
+01:46:40,470 --> 01:46:44,369
+I have never wanted it.
+
+1172
+01:46:44,370 --> 01:46:48,370
+You are the last of that bloodline.
+There is no other.
+
+1173
+01:46:46,970 --> 01:46:54,459
+<i><font color="#A6E3A1">♫ Ne theilien</font></i>
+<i><font color="#F9E2AF">(Slaying demons in the shadows)</font></i>
+
+1174
+01:46:51,570 --> 01:46:54,169
+My old sword! Sting.
+
+1175
+01:46:54,170 --> 01:46:56,770
+Here, take it. Take it.
+
+1176
+01:47:00,670 --> 01:47:05,269
+- It's so light.
+- Yes, yeah. Made by the elves, you know.
+
+1177
+01:47:05,270 --> 01:47:09,769
+The blade glows blue when orcs are close.
+
+1178
+01:47:09,770 --> 01:47:14,469
+And it's times like that, my lad,
+when you have to be extra careful.
+
+1179
+01:47:14,470 --> 01:47:17,369
+Here's a pretty thing.
+
+1180
+01:47:17,370 --> 01:47:19,469
+Mithril.
+
+1181
+01:47:19,470 --> 01:47:24,069
+As light as a feather, and as hard as dragon scales.
+
+1182
+01:47:24,070 --> 01:47:28,670
+Let me see you put it on. Come on.
+
+1183
+01:47:35,370 --> 01:47:38,669
+My old ring.
+
+1184
+01:47:38,670 --> 01:47:42,869
+I should very much like...
+
+1185
+01:47:42,870 --> 01:47:48,170
+...to hold it again, one last time.
+
+1186
+01:48:04,180 --> 01:48:08,179
+I'm sorry I brought this upon you, my boy.
+
+1187
+01:48:08,180 --> 01:48:13,580
+I'm sorry that you must carry this burden.
+
+1188
+01:48:16,880 --> 01:48:21,280
+I'm sorry for everything.
+
+1189
+01:48:34,780 --> 01:48:40,379
+The ring-bearer is setting out
+on the quest of Mount Doom.
+
+1190
+01:48:40,380 --> 01:48:43,279
+On you who travel with him, no oath...
+
+1191
+01:48:43,280 --> 01:48:47,780
+...nor bond is laid to go further than you will.
+
+1192
+01:48:49,780 --> 01:48:52,679
+Farewell. Hold to your purpose.
+
+1193
+01:48:52,680 --> 01:48:57,279
+May the blessings of elves and men...
+
+1194
+01:48:57,280 --> 01:49:01,280
+...and all free folk go with you.
+
+1195
+01:49:02,880 --> 01:49:08,280
+The fellowship awaits the ring-bearer.
+
+1196
+01:49:25,480 --> 01:49:28,479
+Mordor, Gandalf, is it left or right?
+
+1197
+01:49:28,600 --> 01:49:36,200
+<i><font color="#A6E3A1">♫ Uilos le linnathon</font></i>
+<i><font color="#F9E2AF">(I will sing to you)</font></i>
+
+1198
+01:49:28,620 --> 01:49:31,780
+Left.
+
+1199
+01:49:36,600 --> 01:49:53,200
+<i><font color="#A6E3A1">♫ Nef aear sî nef aearon</font></i>
+<i><font color="#F9E2AF">(Beyond the Sea, beyond the wide and sundering Sea)</font></i>
+
+1200
+01:50:49,990 --> 01:50:54,589
+We must hold to this course, west
+of the Misty Mountains, for 40 days.
+
+1201
+01:50:54,590 --> 01:50:58,589
+If our luck holds, the Gap of Rohan
+will still be open to us.
+
+1202
+01:50:58,590 --> 01:51:02,289
+From there, our road turns east to Mordor.
+
+1203
+01:51:02,290 --> 01:51:07,490
+Two, one, five. Good! Very good.
+
+1204
+01:51:07,990 --> 01:51:09,189
+Move your feet.
+
+1205
+01:51:09,190 --> 01:51:10,789
+- You look good, Pippin.
+- Thanks.
+
+1206
+01:51:10,790 --> 01:51:13,489
+Faster!
+
+1207
+01:51:13,490 --> 01:51:17,489
+If anyone was to ask for my opinion,
+which I note they're not...
+
+1208
+01:51:17,490 --> 01:51:20,789
+...I'd say we were taking the long way 'round.
+
+1209
+01:51:20,790 --> 01:51:24,389
+Gandalf.
+We could pass through the mines of Moria.
+
+1210
+01:51:24,390 --> 01:51:28,489
+My cousin Balin would give us a royal welcome.
+
+1211
+01:51:28,490 --> 01:51:35,190
+No Gimli, I would not take the road through
+Moria unless I had no other choice.
+
+1212
+01:51:43,200 --> 01:51:44,989
+Sorry!
+
+1213
+01:51:44,990 --> 01:51:47,990
+Get him!
+
+1214
+01:51:48,000 --> 01:51:50,999
+- For the Shire!
+- Hold him. Hold him down, Merry!
+
+1215
+01:51:51,000 --> 01:51:54,700
+Gentlemen, that's enough.
+
+1216
+01:51:57,100 --> 01:51:59,099
+You've got my arm!
+You've got my arm!
+
+1217
+01:51:59,100 --> 01:52:02,099
+- What is that?
+- Nothing. It's just a wisp of cloud.
+
+1218
+01:52:02,100 --> 01:52:04,999
+It's moving fast.
+
+1219
+01:52:05,000 --> 01:52:07,899
+Against the wind.
+
+1220
+01:52:07,900 --> 01:52:10,299
+- Crebain from Dunland!
+- Hide!
+
+1221
+01:52:10,300 --> 01:52:14,400
+- Hurry!
+- Take cover!
+
+1222
+01:52:46,500 --> 01:52:48,899
+Spies of Saruman.
+
+1223
+01:52:48,900 --> 01:52:53,299
+The passage south is being watched.
+
+1224
+01:52:53,300 --> 01:52:58,100
+We must take the pass of Caradhras.
+
+1225
+01:53:09,200 --> 01:53:12,300
+Frodo!
+
+1226
+01:53:29,733 --> 01:53:42,200
+<i><font color="#89B4FA">♫ I tuo I macil staldaron</font></i>
+<i><font color="#F9E2AF">(The strength, the weapon, the needs of the valiant)</font></i>
+
+1227
+01:53:29,900 --> 01:53:32,399
+Boromir.
+
+1228
+01:53:32,400 --> 01:53:36,809
+It is a strange fate that we should
+suffer so much fear and doubt...
+
+1229
+01:53:36,810 --> 01:53:41,310
+...over so small a thing.
+
+1230
+01:53:42,233 --> 01:53:47,200
+<i><font color="#89B4FA">♫ Marinyë túren</font></i>
+<i><font color="#F9E2AF">(The mean of victory)</font></i>
+
+1231
+01:53:43,210 --> 01:53:45,409
+Such a little thing.
+
+1232
+01:53:45,410 --> 01:53:47,509
+Boromir!
+
+1233
+01:53:47,510 --> 01:53:51,510
+Give the ring to Frodo.
+
+1234
+01:54:00,010 --> 01:54:02,709
+As you wish.
+
+1235
+01:54:02,710 --> 01:54:06,210
+I care not.
+
+1236
+01:54:40,110 --> 01:54:45,009
+So, Gandalf, you try to lead them over Caradhras.
+
+1237
+01:54:45,010 --> 01:54:51,010
+And if that fails, where then will you go?
+
+1238
+01:54:51,010 --> 01:54:54,109
+If the mountain defeats you...
+
+1239
+01:54:54,110 --> 01:54:59,910
+... will you risk a more dangerous road?
+
+1240
+01:55:03,710 --> 01:55:11,009
+<i><font color="#89B4FA">Cuiva nwalca Carnirassë!</font>
+<font color="#F9E2AF">(Wake up cruel Redhorn!)</font></i>
+
+1241
+01:55:11,010 --> 01:55:13,809
+There is a fell voice on the air.
+
+1242
+01:55:13,810 --> 01:55:20,009
+<i><font color="#89B4FA">Nai yarvaxëa rasselya!</font>
+<font color="#F9E2AF">(May your horn be bloodstained!)</font></i>
+
+1243
+01:55:15,010 --> 01:55:17,910
+It's Saruman!
+
+1244
+01:55:25,420 --> 01:55:30,219
+He's trying to bring down the mountain!
+Gandalf, we must turn back!
+
+1245
+01:55:30,220 --> 01:55:33,520
+No!
+
+1246
+01:55:34,120 --> 01:55:40,419
+<font color="#89B4FA">Losto Caradhras, sedho, hodo, nuitho i ’ruith!</font>
+<font color="#F9E2AF">(Sleep Caradhras, be still, lie still, hold your wrath!)</font>
+
+1247
+01:55:40,420 --> 01:55:45,619
+<i><font color="#89B4FA">Cuiva nwalca Carnirassë!</font>
+<font color="#F9E2AF">(Wake up cruel Redhorn!)</font></i>
+
+1248
+01:55:45,620 --> 01:55:50,119
+<font color="#89B4FA">Nai yarvaxëa rasselya...</font>
+<font color="#F9E2AF">(May your bloodstained horn...)</font>
+
+1249
+01:55:50,120 --> 01:55:55,120
+<font color="#89B4FA">...taltuva ñotto-carinnar!</font>
+<font color="#F9E2AF">(...fall upon the enemy-heads!)</font>
+
+1250
+01:56:38,520 --> 01:56:40,819
+We must get off the mountain!
+
+1251
+01:56:40,820 --> 01:56:45,419
+Make for the Gap of Rohan,
+and take the west road to my city!
+
+1252
+01:56:45,420 --> 01:56:48,919
+The Gap of Rohan takes us too close to Isengard!
+
+1253
+01:56:48,920 --> 01:56:52,919
+We cannot pass over a mountain.
+Let us go under it.
+
+1254
+01:56:52,920 --> 01:56:57,120
+Let us go through the mines of Moria.
+
+1255
+01:56:57,520 --> 01:57:02,019
+Moria. You fear to go into those mines.
+
+1256
+01:57:02,020 --> 01:57:07,919
+The dwarves delved too greedily and too deep.
+
+1257
+01:57:07,920 --> 01:57:14,019
+You know what they awoke
+in the darkness of Khazad-dûm:
+
+1258
+01:57:14,020 --> 01:57:18,820
+Shadow and flame.
+
+1259
+01:57:20,920 --> 01:57:25,020
+Let the ring-bearer decide.
+
+1260
+01:57:28,330 --> 01:57:30,629
+We cannot stay here!
+
+1261
+01:57:30,630 --> 01:57:33,629
+This will be the death of the hobbits.
+
+1262
+01:57:33,630 --> 01:57:36,730
+Frodo?
+
+1263
+01:57:38,330 --> 01:57:42,029
+We will go through the mines.
+
+1264
+01:57:42,030 --> 01:57:45,330
+So be it.
+
+1265
+01:57:50,530 --> 01:57:55,730
+Frodo, come and help an old man.
+
+1266
+01:57:57,930 --> 01:58:00,329
+How is your shoulder?
+
+1267
+01:58:00,330 --> 01:58:04,930
+- Better than it was.
+- And the ring?
+
+1268
+01:58:05,130 --> 01:58:08,129
+You feel its power growing, don't you?
+
+1269
+01:58:08,130 --> 01:58:11,529
+I've felt it too.
+You must be careful now.
+
+1270
+01:58:11,530 --> 01:58:15,529
+Evil will be drawn to you from
+outside the fellowship.
+
+1271
+01:58:15,530 --> 01:58:19,530
+And, I fear, from within.
+
+1272
+01:58:20,830 --> 01:58:25,129
+- Who then do I trust?
+- You must trust yourself.
+
+1273
+01:58:25,130 --> 01:58:28,229
+Trust your own strengths.
+
+1274
+01:58:28,230 --> 01:58:30,929
+- What do you mean?
+- There are many powers in this world...
+
+1275
+01:58:30,930 --> 01:58:33,229
+...for good or for evil.
+
+1276
+01:58:33,230 --> 01:58:36,029
+Some are greater than I am.
+
+1277
+01:58:36,030 --> 01:58:40,930
+And against some I have not yet been tested.
+
+1278
+01:58:41,030 --> 01:58:43,129
+The walls...
+
+1279
+01:58:43,130 --> 01:58:46,630
+...of Moria.
+
+1280
+01:58:50,930 --> 01:58:54,129
+Dwarf doors are invisible when closed.
+
+1281
+01:58:54,130 --> 01:58:58,929
+Yes, Gimli, their own masters cannot find
+them if their secrets are forgotten.
+
+1282
+01:58:58,930 --> 01:59:02,830
+Why doesn't that surprise me?
+
+1283
+01:59:09,330 --> 01:59:12,929
+Well, let's see.
+
+1284
+01:59:12,930 --> 01:59:15,039
+<font color="#A6E3A1">Ithildin.</font>
+<font color="#F9E2AF">(“moon-star”)</font>
+
+1285
+01:59:15,040 --> 01:59:19,740
+It mirrors only starlight and moonlight.
+
+1286
+01:59:21,233 --> 01:59:40,200
+<i><font color="#89B4FA">♫ Man ammen toltha</font></i>
+<i><font color="#F9E2AF">(Who brings <b>this</b>?)</font></i>
+
+1287
+01:59:32,440 --> 01:59:37,139
+It reads; "The Doors of Durin, Lord of Moria.
+
+1288
+01:59:37,140 --> 01:59:41,900
+- Speak, friend, and enter."
+- What do you suppose that means?
+
+1289
+01:59:42,000 --> 01:59:54,200
+<i><font color="#89B4FA">♫ Si danna atha</font></i>
+<i><font color="#F9E2AF">(All will fall away)</font></i>
+
+1290
+01:59:42,040 --> 01:59:47,239
+Oh It's quite simple. If you are a friend,
+you speak the password and the doors will open.
+
+1291
+01:59:47,240 --> 01:59:53,840
+<font color="#A6E3A1">Annon Edhellen, edro hi ammen!</font>
+<font color="#F9E2AF">(Gate of the elves, open now for me!)</font>
+
+1292
+01:59:59,500 --> 02:00:01,500
+<font color="#A6E3A1">Fennas Nogothrim...</font>
+<font color="#F9E2AF">(Doorway of the dwarf-folk...)</font>
+
+1293
+02:00:03,040 --> 02:00:08,440
+<font color="#A6E3A1">lasto beth lammen.</font>
+<font color="#F9E2AF">(listen to the word of my tongue.)</font>
+
+1294
+02:00:10,440 --> 02:00:12,940
+Nothing's happening.
+
+1295
+02:00:18,640 --> 02:00:23,139
+I once knew every spell in
+all the tongues of elves...
+
+1296
+02:00:23,140 --> 02:00:26,139
+...men and orcs.
+
+1297
+02:00:26,140 --> 02:00:27,539
+What are you going to do, then?
+
+1298
+02:00:27,540 --> 02:00:30,039
+Knock your head against these doors,
+Peregrin Took!
+
+1299
+02:00:30,040 --> 02:00:32,239
+And if that does not shatter them...
+
+1300
+02:00:32,240 --> 02:00:35,139
+...and I am allowed a little
+peace from foolish questions...
+
+1301
+02:00:35,140 --> 02:00:39,940
+...I will try to find the opening words.
+
+1302
+02:00:42,040 --> 02:00:45,540
+<font color="#89B4FA">Ando Eldarinwa...</font>
+<font color="#F9E2AF">(Gate of elves...)</font>
+
+1303
+02:00:45,740 --> 02:00:48,739
+<font color="#89B4FA">a lasta quettanya...</font>
+<font color="#F9E2AF">(listen to my word...)</font>
+
+1304
+02:00:48,740 --> 02:00:51,439
+<font color="#89B4FA">Fenda Casarinwa!</font>
+<font color="#F9E2AF">(threshold of dwarves!)</font>
+
+1305
+02:00:51,440 --> 02:00:54,239
+Mines are no place for a pony.
+
+1306
+02:00:54,240 --> 02:00:58,239
+- Even one so brave as Bill.
+- Bye-bye, Bill.
+
+1307
+02:00:58,240 --> 02:00:59,539
+<font color="#A6E3A1">Fennas Nogothrim...</font>
+<font color="#F9E2AF">(Doorway of the dwarf-folk...)</font>
+
+1308
+02:00:59,540 --> 02:01:02,849
+Go on, Bill. Go on.
+
+1309
+02:01:02,850 --> 02:01:07,850
+Don't worry, Sam, he knows the way home.
+
+1310
+02:01:13,250 --> 02:01:15,949
+Do not disturb the water.
+
+1311
+02:01:15,950 --> 02:01:19,350
+Oh, it's useless.
+
+1312
+02:01:30,550 --> 02:01:34,150
+It's a riddle.
+
+1313
+02:01:35,450 --> 02:01:39,049
+"Speak 'friend' and enter."
+
+1314
+02:01:39,050 --> 02:01:43,249
+What's the elvish word for "friend"?
+
+1315
+02:01:43,250 --> 02:01:46,050
+<font color="#A6E3A1">Mellon.</font>
+
+1316
+02:02:02,650 --> 02:02:07,949
+Soon, master elf, you will enjoy
+the fabled hospitality of the dwarves.
+
+1317
+02:02:07,950 --> 02:02:14,950
+Roaring fires, malt beer, ripe meat off the bone!
+
+1318
+02:02:15,250 --> 02:02:18,749
+This, my friend, is the home of my cousin Balin.
+
+1319
+02:02:18,750 --> 02:02:21,249
+And they call it a mine.
+
+1320
+02:02:21,250 --> 02:02:24,349
+A mine!
+
+1321
+02:02:24,350 --> 02:02:28,950
+This is no mine. It's a tomb.
+
+1322
+02:02:33,750 --> 02:02:36,559
+No....
+
+1323
+02:02:36,560 --> 02:02:39,660
+No!
+
+1324
+02:02:40,950 --> 02:02:43,850
+Goblins.
+
+1325
+02:02:46,350 --> 02:02:51,649
+We make for the Gap of Rohan.
+We should never have come here.
+
+1326
+02:02:51,650 --> 02:02:55,650
+Now, get out of here. Get out!
+
+1327
+02:02:57,050 --> 02:02:59,759
+- Frodo!
+- Help!
+
+1328
+02:02:59,760 --> 02:03:01,459
+Strider!
+
+1329
+02:03:01,460 --> 02:03:04,359
+- Help!
+- Get off him!
+
+1330
+02:03:04,360 --> 02:03:06,860
+Aragorn!
+
+1331
+02:03:15,860 --> 02:03:18,360
+Frodo!
+
+1332
+02:03:43,160 --> 02:03:44,459
+Into the mines!
+
+1333
+02:03:44,460 --> 02:03:49,060
+- Legolas!
+- Into the cave!
+
+1334
+02:03:51,960 --> 02:03:55,160
+Run!
+
+1335
+02:04:10,660 --> 02:04:14,459
+We now have but one choice.
+
+1336
+02:04:14,460 --> 02:04:19,559
+We must face the long dark of Moria.
+
+1337
+02:04:19,560 --> 02:04:21,759
+Be on your guard.
+
+1338
+02:04:21,760 --> 02:04:25,459
+There are older and fouler things than orcs...
+
+1339
+02:04:25,460 --> 02:04:30,260
+...in the deep places of the world.
+
+1340
+02:04:36,860 --> 02:04:41,069
+Quietly now.
+It's a four-day journey to the other side.
+
+1341
+02:04:41,333 --> 02:04:50,200
+<i><font color="#FAB387">♫ Durin ku bin-amrad</font></i>
+<i><font color="#F9E2AF">(Durin who is Deathless)</font></i>
+
+1342
+02:04:41,335 --> 02:04:46,170
+Let us hope that our presence may go unnoticed.
+
+1343
+02:04:50,533 --> 02:04:58,200
+<i><font color="#FAB387">♫ Ugmal sullu addad</font></i>
+<i><font color="#F9E2AF">(Eldest of all Fathers)</font></i>
+
+1344
+02:05:03,533 --> 02:05:16,200
+<i><font color="#FAB387">♫ Ku bakana</font></i>
+<i><font color="#F9E2AF">(Beneath the mountain)</font></i>
+
+1345
+02:05:18,533 --> 02:05:28,200
+<i><font color="#FAB387">♫ Ana aznân...</font></i>
+<i><font color="#F9E2AF">(Who awoke...)</font></i>
+
+1346
+02:05:30,570 --> 02:05:34,569
+The wealth of Moria was not in gold...
+
+1347
+02:05:34,570 --> 02:05:37,069
+...or jewels...
+
+1348
+02:05:37,070 --> 02:05:41,570
+...but mithril.
+
+1349
+02:05:48,533 --> 02:06:02,200
+<i><font color="#FAB387">♫ ...undu abad</font></i>
+<i><font color="#F9E2AF">(...to darkness)</font></i>
+
+1350
+02:05:58,570 --> 02:06:03,669
+Bilbo had a shirt of mithril rings
+that Thorin gave him.
+
+1351
+02:06:03,670 --> 02:06:07,669
+- Oh, that was a kingly gift.
+- Yes.
+
+1352
+02:06:07,670 --> 02:06:09,869
+I never told him...
+
+1353
+02:06:09,870 --> 02:06:16,070
+...but its worth was greater
+than the value of the Shire.
+
+1354
+02:06:17,533 --> 02:06:24,200
+<i><font color="#FAB387">♫ Ku ganaga</font></i>
+<i><font color="#F9E2AF">(Who walked alone)</font></i>
+
+1355
+02:06:24,533 --> 02:06:37,200
+<i><font color="#FAB387">♫ Tur ganâd abanul</font></i>
+<i><font color="#F9E2AF">(Through halls of stone)</font></i>
+
+1356
+02:06:27,070 --> 02:06:30,270
+Pippin.
+
+1357
+02:06:38,533 --> 02:06:49,000
+<i><font color="#FAB387">♫ Durin ku bin-amrad</font></i>
+<i><font color="#F9E2AF">(Durin who is Deathless)</font></i>
+
+1358
+02:06:49,180 --> 02:06:53,480
+I have no memory of this place.
+
+1359
+02:06:54,180 --> 02:06:55,879
+- Are we Lost?
+- No.
+
+1360
+02:06:55,880 --> 02:06:58,579
+- I think we are.
+- Gandalf's thinking.
+
+1361
+02:06:58,580 --> 02:07:00,279
+- Merry?
+- What?
+
+1362
+02:07:00,280 --> 02:07:03,580
+I'm hungry.
+
+1363
+02:07:13,580 --> 02:07:18,179
+- There's something down there.
+- It's Gollum.
+
+1364
+02:07:18,180 --> 02:07:22,579
+- Gollum?
+- He's been following us for three days.
+
+1365
+02:07:22,580 --> 02:07:27,379
+- He escaped the dungeons of Barad-dûr?
+- Escaped...
+
+1366
+02:07:27,380 --> 02:07:29,579
+...or was set loose.
+
+1367
+02:07:29,580 --> 02:07:34,580
+Now the ring has brought him here.
+
+1368
+02:07:35,780 --> 02:07:38,879
+He will never be rid of his need for it.
+
+1369
+02:07:38,880 --> 02:07:44,679
+He hates and loves the ring,
+as he hates and loves himseIf.
+
+1370
+02:07:44,680 --> 02:07:49,779
+Smeagol's life is a sad story.
+
+1371
+02:07:49,780 --> 02:07:56,679
+Yes, Smeagol he was once called.
+Before the ring found him.
+
+1372
+02:07:56,680 --> 02:07:59,679
+Before it drove him mad.
+
+1373
+02:07:59,680 --> 02:08:02,779
+It's a pity Bilbo didn't kill him
+when he had the chance.
+
+1374
+02:08:02,780 --> 02:08:04,979
+Pity?
+
+1375
+02:08:04,980 --> 02:08:08,879
+It is pity that stayed Bilbo's hand.
+
+1376
+02:08:08,880 --> 02:08:15,380
+Many that live deserve death.
+Some that die deserve life.
+
+1377
+02:08:15,580 --> 02:08:19,480
+Can you give it to them, Frodo?
+
+1378
+02:08:20,480 --> 02:08:24,589
+Do not be too eager to deal
+out death and judgment.
+
+1379
+02:08:24,590 --> 02:08:28,079
+Even the very wise cannot see all ends.
+
+1380
+02:08:28,080 --> 02:08:34,879
+My heart tells me that Gollum has some
+part to play yet, for good or ill...
+
+1381
+02:08:34,880 --> 02:08:39,080
+...before this is over.
+
+1382
+02:08:39,180 --> 02:08:44,380
+The pity of Bilbo may rule the fate of many.
+
+1383
+02:08:49,790 --> 02:08:54,490
+I wish the ring had never come to me.
+
+1384
+02:08:54,490 --> 02:08:56,679
+I wish none of this had happened.
+
+1385
+02:08:56,680 --> 02:09:02,589
+So do all who live to see such times.
+But that is not for them to decide.
+
+1386
+02:09:02,590 --> 02:09:09,390
+All we have to decide is what to do
+with the time that is given to us.
+
+1387
+02:09:09,590 --> 02:09:13,989
+There are other forces at work in this
+world, Frodo, besides the will of evil.
+
+1388
+02:09:13,990 --> 02:09:16,889
+Bilbo was meant to find the ring.
+
+1389
+02:09:16,890 --> 02:09:21,489
+In which case, you also were meant to have it.
+
+1390
+02:09:21,490 --> 02:09:25,990
+And that is an encouraging thought.
+
+1391
+02:09:29,490 --> 02:09:31,689
+It's that way.
+
+1392
+02:09:31,690 --> 02:09:34,189
+- He's remembered.
+- No.
+
+1393
+02:09:34,190 --> 02:09:38,089
+But the air doesn't smell so foul down here.
+
+1394
+02:09:38,090 --> 02:09:44,590
+If in doubt, Meriadoc, always follow your nose.
+
+1395
+02:09:58,190 --> 02:10:03,690
+Let me risk a little more light.
+
+1396
+02:10:07,000 --> 02:10:09,489
+Behold...
+
+1397
+02:10:09,490 --> 02:10:16,090
+...the great realm and dwarf-city of Dwarrowdelf.
+
+1398
+02:10:17,190 --> 02:10:21,990
+Now there's an eye opener, and no mistake.
+
+1399
+02:10:45,600 --> 02:10:48,800
+Gimli!
+
+1400
+02:10:54,700 --> 02:10:57,800
+No!
+
+1401
+02:10:58,900 --> 02:11:03,500
+Oh, no.
+
+1402
+02:11:03,900 --> 02:11:06,600
+No.
+
+1403
+02:11:12,500 --> 02:11:14,899
+"Here lies Balin...
+
+1404
+02:11:14,900 --> 02:11:17,299
+...son of Fundin...
+
+1405
+02:11:17,300 --> 02:11:20,899
+...Lord of Moria."
+
+1406
+02:11:20,900 --> 02:11:24,000
+He is dead, then.
+
+1407
+02:11:24,400 --> 02:11:27,500
+It's as I feared.
+
+1408
+02:11:44,300 --> 02:11:47,399
+We must move on. We cannot linger.
+
+1409
+02:11:47,400 --> 02:11:53,199
+"They have taken the bridge and the second hall.
+
+1410
+02:11:53,200 --> 02:11:56,399
+We have barred the gates...
+
+1411
+02:11:56,400 --> 02:11:59,099
+...but cannot hold them for long.
+
+1412
+02:11:59,100 --> 02:12:02,399
+The ground shakes.
+
+1413
+02:12:02,400 --> 02:12:04,299
+Drums...
+
+1414
+02:12:04,300 --> 02:12:09,000
+...drums in the deep.
+
+1415
+02:12:11,300 --> 02:12:14,700
+We cannot get out.
+
+1416
+02:12:15,300 --> 02:12:20,500
+A shadow moves in the dark.
+
+1417
+02:12:20,800 --> 02:12:24,800
+We cannot get out.
+
+1418
+02:12:26,410 --> 02:12:29,710
+They are coming."
+
+1419
+02:13:11,410 --> 02:13:13,509
+Fool of a Took!
+
+1420
+02:13:13,510 --> 02:13:18,710
+Throw yourself in next time,
+and rid us of your stupidity.
+
+1421
+02:13:43,410 --> 02:13:46,510
+Frodo!
+
+1422
+02:13:47,410 --> 02:13:50,310
+Orcs.
+
+1423
+02:13:55,910 --> 02:13:59,310
+Get back! Stay close to Gandalf!
+
+1424
+02:14:05,120 --> 02:14:08,320
+They have a cave-troll.
+
+1425
+02:14:22,610 --> 02:14:24,219
+Let them come!
+
+1426
+02:14:24,220 --> 02:14:29,120
+There is one dwarf yet in Moria
+who still draws breath.
+
+1427
+02:16:46,730 --> 02:16:50,930
+I think I'm getting the hang of this.
+
+1428
+02:16:54,230 --> 02:16:57,430
+Frodo!
+
+1429
+02:17:29,430 --> 02:17:32,329
+Aragorn! Aragorn!
+
+1430
+02:17:32,330 --> 02:17:35,630
+Frodo!
+
+1431
+02:18:19,340 --> 02:18:22,740
+Frodo!
+
+1432
+02:19:21,540 --> 02:19:24,340
+Oh, no.
+
+1433
+02:19:31,240 --> 02:19:34,540
+He's alive.
+
+1434
+02:19:35,640 --> 02:19:38,739
+I'm all right. I'm not hurt.
+
+1435
+02:19:38,740 --> 02:19:41,239
+You should be dead.
+
+1436
+02:19:41,240 --> 02:19:43,839
+That spear would have skewered a wild boar.
+
+1437
+02:19:43,840 --> 02:19:49,940
+I think there's more to this
+hobbit than meets the eye.
+
+1438
+02:19:54,450 --> 02:19:57,050
+Mithril.
+
+1439
+02:19:58,350 --> 02:20:02,350
+You are full of surprises, Master Baggins.
+
+1440
+02:20:06,850 --> 02:20:10,150
+To the bridge of Khazad-dûm!
+
+1441
+02:20:23,850 --> 02:20:26,950
+This way!
+
+1442
+02:21:35,950 --> 02:21:40,250
+What is this new devilry?
+
+1443
+02:21:46,733 --> 02:21:51,675
+<i><font color="#FAB387">♫ Urkhas tanakhi!</font>
+<font color="#F9E2AF">(The demon comes!)</font></i>
+
+1444
+02:21:52,733 --> 02:21:59,455
+<i><font color="#FAB387">♫ Kamin takalladi!</font></i>
+<i><font color="#F9E2AF">(The earth shakes!)</font></i>
+
+1445
+02:21:54,960 --> 02:21:58,059
+A Balrog.
+
+1446
+02:21:59,533 --> 02:22:05,675
+<i><font color="#FAB387">♫ Ugrud tashniki kurduma!</font></i>
+<i><font color="#F9E2AF">(Fear rips our heart!)</font></i>
+
+1447
+02:21:59,560 --> 02:22:02,660
+A demon of the ancient world.
+
+1448
+02:22:03,460 --> 02:22:07,059
+This foe is beyond any of you.
+
+1449
+02:22:07,060 --> 02:22:10,060
+Run!
+
+1450
+02:22:10,733 --> 02:22:20,675
+<i><font color="#FAB387">♫ Urus ni buzra! Urkhas tanakhi! Lu! Lu! Lu! Lu!</font>
+<font color="#F9E2AF">(Fire in the deep! The demon comes! No! No! No! No!)</font></i>
+
+1451
+02:22:15,860 --> 02:22:18,860
+Quickly!
+
+1452
+02:22:34,060 --> 02:22:35,959
+Gandalf.
+
+1453
+02:22:35,960 --> 02:22:38,960
+Lead them on, Aragorn.
+
+1454
+02:22:38,960 --> 02:22:42,960
+The bridge is near.
+
+1455
+02:22:43,460 --> 02:22:48,260
+Do as I say!
+Swords are no more use here.
+
+1456
+02:22:48,733 --> 02:23:05,675
+<i><font color="#FAB387">♫ Urus ni buzra! Urkhas tanakhi! Lu! Lu! Lu! Lu!</font>
+<font color="#F9E2AF">(Fire in the deep! The demon comes! No! No! No! No!)</font></i>
+
+1457
+02:23:15,733 --> 02:23:22,675
+<i><font color="#FAB387">♫ Urus ni buzra! Urkhas tanakhi! Lu! Lu! Lu! Lu!</font>
+<font color="#F9E2AF">(Fire in the deep! The demon comes! No! No! No! No!)</font></i>
+
+1458
+02:23:16,660 --> 02:23:19,860
+Gandalf!
+
+1459
+02:23:36,770 --> 02:23:39,470
+Merry! Pippin!
+
+1460
+02:23:49,170 --> 02:23:52,070
+Sam!
+
+1461
+02:23:53,370 --> 02:23:57,970
+Nobody tosses a Dwarf.
+
+1462
+02:23:59,670 --> 02:24:02,570
+Not the beard!
+
+1463
+02:24:14,370 --> 02:24:17,770
+Steady.
+
+1464
+02:24:18,270 --> 02:24:21,370
+Hold on!
+
+1465
+02:24:22,733 --> 02:24:27,675
+<i><font color="#FAB387">♫ Urkhas tanakhi! Urus ni buzra!</font>
+<font color="#F9E2AF">(The demon comes! Fire in the deep!)</font></i>
+
+1466
+02:24:27,733 --> 02:24:32,675
+<i><font color="#FAB387">♫ Arrâs talbabi, fillumâ, fillumâ!</font>
+<font color="#F9E2AF">(Flames lick, our skin, our skin!)</font></i>
+
+1467
+02:24:32,733 --> 02:24:38,675
+<i><font color="#FAB387">♫ Ugrûd tashniki, kurdumâ, kurdumâ!</font>
+<font color="#F9E2AF">(Fear rips, our heart, our heart!)</font></i>
+
+1468
+02:24:38,733 --> 02:24:44,675
+<i><font color="#FAB387">♫ Urus urkhas, urkhas tanakhi! Urkhas tanakhi!</font>
+<font color="#F9E2AF">(Demon of fire, the demon comes, the demon comes!)</font></i>
+
+1469
+02:24:41,070 --> 02:24:43,770
+Hang on!
+
+1470
+02:24:44,833 --> 02:24:51,675
+<i><font color="#FAB387">♫ Kâmin takalladi! Askad gabil urus!</font>
+<font color="#F9E2AF">(The earth shakes! A great shadow of fire!)</font></i>
+
+1471
+02:24:51,733 --> 02:24:54,675
+<i><font color="#FAB387">♫ Urkhas tanakhi! Urkhas tanakhi!</font>
+<font color="#F9E2AF">(The demon comes! The demon comes!)</font></i>
+
+1472
+02:24:52,970 --> 02:24:54,170
+Lean forward!
+
+1473
+02:24:54,933 --> 02:24:58,275
+<i><font color="#FAB387">♫ Ugrûd tashniki kurdumâ!</font>
+<font color="#F9E2AF">(Fear rips our heart!)</font></i>
+
+1474
+02:24:57,770 --> 02:24:59,169
+Steady.
+
+1475
+02:24:58,733 --> 02:25:02,675
+<i><font color="#FAB387">♫ Urkhas! Urus!</font>
+<font color="#F9E2AF">(Demon! Fire!)</font></i>
+
+1476
+02:25:00,070 --> 02:25:01,469
+Come on!
+
+1477
+02:25:01,470 --> 02:25:04,370
+Now!
+
+1478
+02:25:20,033 --> 02:25:30,675
+<i><font color="#FAB387">♫ Urus ni buzra! Urkhas tanakhi! Lu! Lu! Lu! Lu!</font>
+<font color="#F9E2AF">(Fire in the deep! The demon comes! No! No! No! No!)</font></i>
+
+1479
+02:25:20,570 --> 02:25:22,069
+Over the bridge!
+
+1480
+02:25:22,070 --> 02:25:25,070
+Fly!
+
+1481
+02:26:08,280 --> 02:26:10,579
+You cannot pass!
+
+1482
+02:26:10,580 --> 02:26:13,680
+Gandalf!
+
+1483
+02:26:16,480 --> 02:26:22,279
+I am a servant of the secret fire,
+wielder of the flame of Anor.
+
+1484
+02:26:22,280 --> 02:26:27,480
+The dark fire will not avail you, flame of Udûn!
+
+1485
+02:26:36,180 --> 02:26:39,580
+Go back to the Shadow.
+
+1486
+02:26:45,980 --> 02:26:51,680
+You - shall not - pass!
+
+1487
+02:27:17,480 --> 02:27:22,680
+- No! No!
+- Gandalf!
+
+1488
+02:27:28,990 --> 02:27:32,890
+Fly, you fools!
+
+1489
+02:27:35,590 --> 02:27:39,190
+No!
+
+1490
+02:27:43,890 --> 02:27:47,490
+Aragorn!
+
+1491
+02:28:43,490 --> 02:28:47,690
+Legolas, get them up.
+
+1492
+02:28:50,290 --> 02:28:52,389
+Give them a moment, for pity's sake!
+
+1493
+02:28:52,390 --> 02:28:56,289
+By nightfall, these hills will be swarming with orcs.
+
+1494
+02:28:56,290 --> 02:29:00,489
+We must reach the woods of Lothlórien.
+
+1495
+02:29:00,490 --> 02:29:05,190
+Come, Boromir. Legolas.
+Gimli, get them up.
+
+1496
+02:29:05,390 --> 02:29:07,889
+On your feet, Sam.
+
+1497
+02:29:07,890 --> 02:29:10,790
+Frodo?
+
+1498
+02:29:11,390 --> 02:29:14,490
+Frodo!
+
+1499
+02:29:47,233 --> 02:29:58,200
+<i><font color="#89B4FA">♫ Man ammen toltha I dann hen môrn?</font></i>
+<i><font color="#F9E2AF">(Who brings to us this token of darkness?)</font></i>
+
+1500
+02:29:59,233 --> 02:30:10,200
+<i><font color="#89B4FA">♫ Si danna atha nauva</font></i>
+<i><font color="#F9E2AF">(Now all will fall away)</font></i>
+
+1501
+02:30:05,600 --> 02:30:08,899
+Stay close, young hobbits!
+
+1502
+02:30:08,900 --> 02:30:10,999
+They say that a great sorceress
+
+1503
+02:30:11,233 --> 02:30:20,000
+<i><font color="#89B4FA">♫ Mel, melmë nóren sina</font></i>
+<i><font color="#F9E2AF">(Love, our love for this land)</font></i>
+
+1504
+02:30:11,400 --> 02:30:13,100
+lives in these woods.
+
+1505
+02:30:13,200 --> 02:30:16,300
+An elf-witch...
+
+1506
+02:30:16,400 --> 02:30:19,700
+...of terrible power.
+
+1507
+02:30:20,233 --> 02:30:31,200
+<i><font color="#89B4FA">♫ Nur ala aearon nur</font></i>
+<i><font color="#F9E2AF">(is deeper than the depths of the sea)</font></i>
+
+1508
+02:30:20,240 --> 02:30:22,000
+All who look upon her...
+
+1509
+02:30:22,100 --> 02:30:24,199
+...fall under her spell.
+
+1510
+02:30:24,200 --> 02:30:26,900
+<i>Frodo!</i>
+
+1511
+02:30:27,700 --> 02:30:29,899
+And are never seen again.
+
+1512
+02:30:29,900 --> 02:30:34,599
+<i>Your coming to us is as the footsteps of doom.</i>
+
+1513
+02:30:34,600 --> 02:30:38,599
+<i>You bring great evil here, ring-bearer.</i>
+
+1514
+02:30:38,600 --> 02:30:41,700
+Mr. Frodo?
+
+1515
+02:30:45,700 --> 02:30:51,399
+Well, here's one dwarf she won't ensnare so easily.
+
+1516
+02:30:51,400 --> 02:30:57,300
+I have the eyes of a hawk and the ears of a fox.
+
+1517
+02:31:03,610 --> 02:31:09,510
+The dwarf breathes so loud, we
+could have shot him in the dark.
+
+1518
+02:31:12,310 --> 02:31:16,209
+<font color="#A6E3A1">Mae govannen, Legolas Thranduilion.</font>
+<font color="#F9E2AF">(Well met, Legolas son of Thranduil.)</font>
+
+1519
+02:31:16,210 --> 02:31:17,909
+<font color="#A6E3A1">Govannas vîn gwennen le,</font>
+<font color="#F9E2AF">(Our fellowship stands in your debt,)</font>
+
+1520
+02:31:17,910 --> 02:31:21,210
+<font color="#A6E3A1">Haldir o Lórien.</font>
+<font color="#F9E2AF">(Haldir of Lórien.)</font>
+
+1521
+02:31:21,410 --> 02:31:23,599
+<font color="#A6E3A1">A, Aragorn in Dúnedain...</font>
+<font color="#F9E2AF">(Oh, Aragorn of the Dúnedain...)</font>
+
+1522
+02:31:23,600 --> 02:31:26,099
+<font color="#A6E3A1">istannen le ammen.</font>
+<font color="#F9E2AF">(you are known to us.)</font>
+
+1523
+02:31:26,100 --> 02:31:26,909
+<font color="#A6E3A1">Haldir.</font>
+
+1524
+02:31:26,910 --> 02:31:28,809
+So much for the legendary courtesy of the elves!
+
+1525
+02:31:28,810 --> 02:31:30,909
+Speak words we can all understand!
+
+1526
+02:31:30,910 --> 02:31:35,709
+We have not had dealings with
+the dwarves since the dark days.
+
+1527
+02:31:35,710 --> 02:31:38,509
+And you know what this dwarf says to that?
+
+1528
+02:31:38,510 --> 02:31:44,910
+<font color="#FAB387">Îsh kakhfê ai-dûr-rugnul! </font>
+<font color="#F9E2AF">(May my excrement be poured upon the naked-jawed!)</font>
+
+1529
+02:31:45,110 --> 02:31:48,510
+That was not so courteous.
+
+1530
+02:31:53,610 --> 02:31:59,010
+You bring great evil with you.
+
+1531
+02:31:59,510 --> 02:32:03,110
+You can go no further.
+
+1532
+02:32:07,810 --> 02:32:12,210
+<font color="#A6E3A1">Boe ammen veriad lîn. Andelu i ven.</font>
+<font color="#F9E2AF">(We need your protection. The road is very dangerous.)</font>
+
+1533
+02:32:13,610 --> 02:32:15,309
+<font color="#A6E3A1">Merin le telim.</font>
+<font color="#F9E2AF">(I wish we may come with you.)</font>
+
+1534
+02:32:15,310 --> 02:32:18,509
+<font color="#A6E3A1">Henio, aníron boe ammen i dulu lîn!</font>
+<font color="#F9E2AF">(Please, understand, we need your support!)</font>
+
+1535
+02:32:18,510 --> 02:32:22,810
+Aragorn!
+
+1536
+02:32:31,810 --> 02:32:35,310
+<font color="#A6E3A1">Merin le telim.</font>
+<font color="#F9E2AF">(I wish we may come with you.)</font>
+
+1537
+02:32:36,510 --> 02:32:39,009
+<font color="#A6E3A1">Andelu i ven.</font>
+<font color="#F9E2AF">(The road is very dangerous.)</font>
+
+1538
+02:32:39,010 --> 02:32:42,809
+Gandalf's death was not in vain.
+
+1539
+02:32:42,810 --> 02:32:46,110
+Nor would he have you give up hope.
+
+1540
+02:32:46,210 --> 02:32:50,509
+You carry a heavy burden, Frodo.
+
+1541
+02:32:50,510 --> 02:32:55,010
+Don't carry the weight of the dead.
+
+1542
+02:32:56,410 --> 02:32:59,910
+You will follow me.
+
+1543
+02:33:10,220 --> 02:33:12,719
+Cares Galeton.
+
+1544
+02:33:12,720 --> 02:33:15,819
+The heart of Elvendom on earth.
+
+1545
+02:33:15,820 --> 02:33:22,820
+Realm of the Lord Celeborn
+and of Galadriel, Lady of Light.
+
+1546
+02:33:23,233 --> 02:33:34,200
+<i><font color="#89B4FA">♫ Ela i cá[le]!</font></i>
+<i><font color="#F9E2AF">(Behold the light!)</font></i>
+
+1547
+02:33:34,233 --> 02:33:44,200
+<i><font color="#89B4FA">♫ Nenya sina</font></i>
+<i><font color="#F9E2AF">(Nenya is this)</font></i>
+
+1548
+02:33:45,233 --> 02:33:56,200
+<i><font color="#89B4FA">♫ Corma úhátima</font></i>
+<i><font color="#F9E2AF">(unbreakable Ring)</font></i>
+
+1549
+02:33:57,233 --> 02:34:25,200
+<i><font color="#89B4FA">♫ I haryanye</font></i>
+<i><font color="#F9E2AF">(That I possess)</font></i>
+
+1550
+02:34:40,720 --> 02:34:44,429
+The enemy knows you have entered here.
+
+1551
+02:34:44,430 --> 02:34:50,830
+What hope you had in secrecy is now gone.
+
+1552
+02:34:51,320 --> 02:34:56,029
+Eight there are here, yet nine there
+were set out from Rivendell.
+
+1553
+02:34:56,030 --> 02:34:58,029
+Tell me, where is Gandalf?
+
+1554
+02:34:58,030 --> 02:35:01,329
+For I much desire to speak with him.
+
+1555
+02:35:01,330 --> 02:35:05,029
+I can no longer see him from afar.
+
+1556
+02:35:05,030 --> 02:35:10,429
+Gandalf the Grey did not pass
+the borders of this land.
+
+1557
+02:35:10,430 --> 02:35:14,230
+He has fallen into shadow.
+
+1558
+02:35:17,530 --> 02:35:23,330
+He was taken by both shadow and flame.
+
+1559
+02:35:23,730 --> 02:35:28,129
+A Balrog of Morgoth.
+
+1560
+02:35:28,130 --> 02:35:32,930
+For we went needlessly into the net of Moria.
+
+1561
+02:35:33,630 --> 02:35:37,529
+Needless were none of the deeds of Gandalf in life.
+
+1562
+02:35:37,530 --> 02:35:42,230
+We do not yet know his full purpose.
+
+1563
+02:35:45,530 --> 02:35:50,029
+Do not let the great emptiness
+of Khazad-dûm fill your heart...
+
+1564
+02:35:50,030 --> 02:35:53,329
+...Gimli, son of Gloin.
+
+1565
+02:35:53,330 --> 02:35:58,230
+For the world has grown full of peril...
+
+1566
+02:35:58,330 --> 02:36:01,229
+...and in all lands...
+
+1567
+02:36:01,230 --> 02:36:06,130
+...love is now mingled with grief.
+
+1568
+02:36:17,330 --> 02:36:20,729
+What now becomes of this fellowship?
+
+1569
+02:36:20,730 --> 02:36:25,030
+Without Gandalf, hope is lost.
+
+1570
+02:36:26,630 --> 02:36:30,029
+The quest stands upon the edge of a knife.
+
+1571
+02:36:30,030 --> 02:36:33,929
+Stray but a little and it will fail...
+
+1572
+02:36:33,930 --> 02:36:38,130
+...to the ruin of all.
+
+1573
+02:36:41,130 --> 02:36:48,130
+Yet hope remains while the company is true.
+
+1574
+02:36:48,440 --> 02:36:53,539
+Do not let your hearts be troubled.
+Go now and rest...
+
+1575
+02:36:53,540 --> 02:36:58,640
+...for you are weary with sorrow and much toil.
+
+1576
+02:36:59,540 --> 02:37:01,939
+Tonight, you will sleep....
+
+1577
+02:37:01,940 --> 02:37:06,740
+<i>Welcome, Frodo of the Shire...</i>
+
+1578
+02:37:06,840 --> 02:37:10,040
+<i>...one who has seen the eye!</i>
+
+1579
+02:37:11,200 --> 02:37:14,040
+<i><font color="#A6E3A1">♫ In gwidh ristennin,</font></i>
+<i><font color="#F9E2AF">(The bonds cut)</font></i>
+
+1580
+02:37:14,840 --> 02:37:22,040
+<i><font color="#89B4FA">♫ Ilfirin nairelma</font></i>
+<i><font color="#F9E2AF">(Undying is our regret)</font></i>
+
+1581
+02:37:22,840 --> 02:37:30,040
+<i><font color="#A6E3A1">♫ I fae narchannen</font></i>
+<i><font color="#F9E2AF">(The spirit broken)</font></i>
+
+1582
+02:37:23,240 --> 02:37:27,240
+A lament for Gandalf.
+
+1583
+02:37:30,840 --> 02:37:35,040
+<i><font color="#89B4FA">♫ Nauva i nauva</font></i>
+<i><font color="#F9E2AF">(what should be shall be)</font></i>
+
+1584
+02:37:33,140 --> 02:37:35,000
+What do they say about him?
+
+1585
+02:37:35,020 --> 02:37:38,940
+I have not the heart to tell you.
+
+1586
+02:37:35,840 --> 02:37:41,040
+<i><font color="#A6E3A1">♫ I Lach Anor ed</font></i>
+<i><font color="#F9E2AF">(The Flame of Anor)</font></i>
+
+1587
+02:37:41,540 --> 02:37:48,040
+<i><font color="#89B4FA">♫ Ilfirin nairelma</font></i>
+<i><font color="#F9E2AF">(Undying is our regret)</font></i>
+
+1588
+02:37:41,640 --> 02:37:44,140
+For me, the grief is still too near.
+
+1589
+02:37:45,640 --> 02:37:48,839
+I bet they don't mention his fireworks.
+
+1590
+02:37:48,840 --> 02:37:55,040
+<i><font color="#A6E3A1">♫ ardhon gwannen</font></i>
+<i><font color="#F9E2AF">(has left this World)</font></i>
+
+1591
+02:37:48,850 --> 02:37:53,140
+There should be a verse about them.
+
+1592
+02:37:55,640 --> 02:37:59,040
+<i><font color="#89B4FA">♫ Ar ullume nucuvalme</font></i>
+<i><font color="#F9E2AF">(and yet we will cast all away)</font></i>
+
+1593
+02:37:55,840 --> 02:37:58,239
+The finest rockets ever seen
+
+1594
+02:37:58,240 --> 02:37:59,639
+They burst in stars of blue and green
+
+1595
+02:37:59,840 --> 02:38:07,800
+<i><font color="#A6E3A1">♫ Mithrandir A Randir Vithren!</font></i>
+<i><font color="#F9E2AF">(Mithrandir, O Pilgrim Grey!)</font></i>
+
+1596
+02:38:02,140 --> 02:38:07,900
+Or after thunder, silver showers
+
+1597
+02:38:08,000 --> 02:38:11,040
+<i><font color="#89B4FA">♫ Nauva i nauva</font></i>
+<i><font color="#F9E2AF">(What should be shall be)</font></i>
+
+1598
+02:38:08,200 --> 02:38:11,039
+Came falling like a rain of flowers
+
+1599
+02:38:11,640 --> 02:38:19,040
+<i><font color="#A6E3A1">♫ Ú-reniathach</font></i>
+<i><font color="#F9E2AF">(No more you will)</font></i>
+
+1600
+02:38:11,840 --> 02:38:16,240
+Oh, that doesn't do them justice by a long road.
+
+1601
+02:38:19,840 --> 02:38:24,040
+<i><font color="#89B4FA">♫ Nauva i nauva</font></i>
+<i><font color="#F9E2AF">(What should be shall be)</font></i>
+
+1602
+02:38:24,840 --> 02:38:32,040
+<i><font color="#A6E3A1">♫ I amar galen</font></i>
+<i><font color="#F9E2AF">(Wander the green fields of this earth)</font></i>
+
+1603
+02:38:25,650 --> 02:38:28,539
+Take some rest.
+
+1604
+02:38:28,540 --> 02:38:31,439
+These borders are well-protected.
+
+1605
+02:38:31,440 --> 02:38:35,340
+I will find no rest here.
+
+1606
+02:38:36,840 --> 02:38:43,400
+<i><font color="#A6E3A1">♫ I reniad lín ne môr</font></i>
+<i><font color="#F9E2AF">(Your journey has ended in darkness)</font></i>
+
+1607
+02:38:36,940 --> 02:38:40,139
+I heard her voice inside my head.
+
+1608
+02:38:40,140 --> 02:38:43,400
+She spoke of my father and the fall of Gondor.
+
+1609
+02:38:43,840 --> 02:38:50,040
+<i><font color="#89B4FA">♫ melme nóren</font></i>
+<i><font color="#F9E2AF">(our love for this land)</font></i>
+
+1610
+02:38:43,950 --> 02:38:50,650
+She said to me; "Even now there is hope left."
+
+1611
+02:38:50,840 --> 02:38:53,040
+<i><font color="#A6E3A1">♫ nuithannen</font></i>
+<i><font color="#F9E2AF">(in darknes.)</font></i>
+
+1612
+02:38:50,940 --> 02:38:54,740
+But I cannot see it.
+
+1613
+02:38:54,840 --> 02:38:59,040
+<i><font color="#89B4FA">♫ sina nairelma</font></i>
+<i><font color="#F9E2AF">(is our regret)</font></i>
+
+1614
+02:38:54,940 --> 02:38:58,840
+It is long since we had any hope.
+
+1615
+02:39:07,650 --> 02:39:10,549
+My father is a noble man.
+
+1616
+02:39:10,550 --> 02:39:14,250
+But his rule is failing...
+
+1617
+02:39:15,950 --> 02:39:19,850
+...and our people lose faith.
+
+1618
+02:39:19,950 --> 02:39:23,649
+He looks to me to make things right,
+and I would do it.
+
+1619
+02:39:23,650 --> 02:39:28,550
+I would see the glory of Gondor restored.
+
+1620
+02:39:30,050 --> 02:39:33,649
+Have you ever seen it, Aragorn?
+
+1621
+02:39:33,650 --> 02:39:35,949
+The white tower of Ecthelion.
+
+1622
+02:39:35,950 --> 02:39:40,349
+Glimmering like a spike of pearl and silver.
+
+1623
+02:39:40,350 --> 02:39:45,250
+Its banners caught high in the morning breeze.
+
+1624
+02:39:46,850 --> 02:39:48,949
+Have you ever been called home...
+
+1625
+02:39:48,950 --> 02:39:53,549
+...by the clear ringing of silver trumpets?
+
+1626
+02:39:53,550 --> 02:39:57,049
+I have seen the white city...
+
+1627
+02:39:57,050 --> 02:39:59,549
+...long ago.
+
+1628
+02:39:59,550 --> 02:40:05,449
+One day, our paths will lead us there.
+
+1629
+02:40:05,450 --> 02:40:08,949
+And the tower guard shall take up the call:
+
+1630
+02:40:08,950 --> 02:40:13,550
+"The Lords of Gondor have returned."
+
+1631
+02:40:37,233 --> 02:40:47,200
+<i><font color="#89B4FA">♫ Si danna atha nauva</font></i>
+<i><font color="#F9E2AF">(Now all will fall away)</font></i>
+
+1632
+02:40:48,233 --> 02:40:58,200
+<i><font color="#89B4FA">♫ Melmelma nóren sina</font></i>
+<i><font color="#F9E2AF">(Our love for this land)</font></i>
+
+1633
+02:40:59,233 --> 02:41:11,200
+<i><font color="#89B4FA">♫ Núra [lá] earo núri</font></i>
+<i><font color="#F9E2AF">(is deeper than the depths of the sea)</font></i>
+
+1634
+02:41:12,233 --> 02:41:19,200
+<i><font color="#89B4FA">♫ Ilfirin nairelma</font></i>
+<i><font color="#F9E2AF">(Undying is our regret)</font></i>
+
+1635
+02:41:19,233 --> 02:41:28,200
+<i><font color="#89B4FA">♫ I nairelma nauva</font></i>
+<i><font color="#F9E2AF">(Our regret will be)</font></i>
+
+1636
+02:41:19,460 --> 02:41:22,159
+Will you look into the mirror?
+
+1637
+02:41:22,160 --> 02:41:25,060
+What will I see?
+
+1638
+02:41:26,660 --> 02:41:29,659
+Even the wisest cannot tell.
+
+1639
+02:41:29,833 --> 02:41:43,200
+<i><font color="#89B4FA">♫ Núra [lá] earo</font></i>
+<i><font color="#F9E2AF">(deeper than the deeps of the sea)</font></i>
+
+1640
+02:41:29,860 --> 02:41:31,959
+For the mirror...
+
+1641
+02:41:31,960 --> 02:41:35,860
+...shows many things.
+
+1642
+02:41:37,460 --> 02:41:40,059
+Things that were...
+
+1643
+02:41:40,060 --> 02:41:43,359
+...things that are...
+
+1644
+02:41:43,360 --> 02:41:46,660
+...and some things...
+
+1645
+02:41:48,960 --> 02:41:53,660
+...that have not yet come to pass.
+
+1646
+02:43:14,770 --> 02:43:19,070
+I know what it is you saw.
+
+1647
+02:43:20,070 --> 02:43:23,870
+For it is also in my mind.
+
+1648
+02:43:24,370 --> 02:43:29,670
+<i>It is what will come to pass if you should fail.</i>
+
+1649
+02:43:30,770 --> 02:43:36,269
+<i>The fellowship is breaking.
+It is already begun.</i>
+
+1650
+02:43:36,270 --> 02:43:39,769
+<i>He will try to take the ring.</i>
+
+1651
+02:43:39,770 --> 02:43:42,769
+<i>You know of whom I speak.</i>
+
+1652
+02:43:42,770 --> 02:43:48,670
+<i>One by one, it will destroy them all.</i>
+
+1653
+02:43:48,970 --> 02:43:51,769
+<i>If you ask it of me...</i>
+
+1654
+02:43:51,770 --> 02:43:55,969
+<i>... I will give you the one ring.</i>
+
+1655
+02:43:55,970 --> 02:43:59,570
+<i>You offer it to me freely.</i>
+
+1656
+02:44:02,570 --> 02:44:07,870
+<i>I do not deny that my heart
+has greatly desired this.</i>
+
+1657
+02:44:13,070 --> 02:44:16,669
+In place of a dark lord, you would have a queen...
+
+1658
+02:44:16,670 --> 02:44:21,169
+...not dark but beautiful and terrible as the dawn!
+
+1659
+02:44:21,170 --> 02:44:24,579
+Treacherous as the sea!
+
+1660
+02:44:24,580 --> 02:44:30,079
+Stronger than the foundations of the earth!
+
+1661
+02:44:30,080 --> 02:44:32,679
+All shall love me...
+
+1662
+02:44:32,680 --> 02:44:36,880
+...and despair.
+
+1663
+02:44:49,580 --> 02:44:54,179
+I pass the test. I will diminish...
+
+1664
+02:44:54,180 --> 02:44:56,879
+...and go into the West...
+
+1665
+02:44:56,880 --> 02:45:02,680
+...and remain Galadriel.
+- I cannot do this alone.
+
+1666
+02:45:04,880 --> 02:45:09,979
+You are a ring-bearer, Frodo.
+To bear a ring of power...
+
+1667
+02:45:09,980 --> 02:45:12,880
+...is to be alone.
+
+1668
+02:45:14,880 --> 02:45:17,879
+This is Nenya, the ring of Adamant.
+
+1669
+02:45:17,880 --> 02:45:20,880
+And I am its keeper.
+
+1670
+02:45:22,680 --> 02:45:27,379
+This task was appointed to you.
+
+1671
+02:45:27,380 --> 02:45:31,479
+And if you do not find a way...
+
+1672
+02:45:31,480 --> 02:45:33,879
+...no one will.
+
+1673
+02:45:33,880 --> 02:45:37,579
+Then I know what I must do.
+
+1674
+02:45:37,580 --> 02:45:40,280
+It's just...
+
+1675
+02:45:42,080 --> 02:45:45,780
+...I'm afraid to do it.
+
+1676
+02:45:47,780 --> 02:45:54,280
+Even the smallest person can change
+the course of the future.
+
+1677
+02:45:58,380 --> 02:46:04,889
+Do you know how the orcs first came into being?
+
+1678
+02:46:04,890 --> 02:46:09,279
+They were elves once.
+
+1679
+02:46:09,280 --> 02:46:12,979
+Taken by the dark powers...
+
+1680
+02:46:12,980 --> 02:46:16,379
+...tortured and mutilated.
+
+1681
+02:46:16,380 --> 02:46:21,889
+A ruined and terrible form of life.
+
+1682
+02:46:21,890 --> 02:46:25,190
+And now...
+
+1683
+02:46:25,290 --> 02:46:27,889
+...perfected.
+
+1684
+02:46:27,890 --> 02:46:32,390
+My fighting Uruk-hai...
+
+1685
+02:46:32,990 --> 02:46:35,489
+...whom do you serve?
+
+1686
+02:46:35,490 --> 02:46:39,390
+Saruman!
+
+1687
+02:46:58,790 --> 02:47:02,489
+Hunt them down. Do not stop until, they are found.
+
+1688
+02:47:02,490 --> 02:47:05,589
+You do not know pain.
+You do not know fear.
+
+1689
+02:47:05,590 --> 02:47:09,890
+You will taste man-flesh!
+
+1690
+02:47:13,590 --> 02:47:17,489
+One of the halflings carries
+something of great value.
+
+1691
+02:47:17,490 --> 02:47:22,990
+Bring them to me alive and unspoiled.
+
+1692
+02:47:23,590 --> 02:47:26,290
+Kill the others.
+
+1693
+02:47:37,233 --> 02:47:50,000
+<i><font color="#89B4FA">♫ Ai! Laurië lantar lassi súrinen</font></i>
+<i><font color="#F9E2AF">(Ah! Like gold fall the leaves in the wind)</font></i>
+
+1694
+02:47:43,990 --> 02:47:50,489
+Never before have we clad strangers
+in the garb of our own people.
+
+1695
+02:47:50,433 --> 02:47:57,200
+<i><font color="#89B4FA">♫ Yéni únótimë...</font></i>
+<i><font color="#F9E2AF">(Numberless long years...)</font></i>
+
+1696
+02:47:50,490 --> 02:47:55,690
+May these cloaks help shield
+you from unfriendly eyes.
+
+1697
+02:48:01,500 --> 02:48:03,399
+Lembas.
+
+1698
+02:48:03,400 --> 02:48:06,500
+Elvish waybread.
+
+1699
+02:48:07,400 --> 02:48:11,800
+One small bite is enough to fill
+the stomach of a grown man.
+
+1700
+02:48:16,890 --> 02:48:18,999
+How many did you eat?
+
+1701
+02:48:19,000 --> 02:48:22,100
+Four.
+
+1702
+02:48:26,500 --> 02:48:29,299
+Every league you travel south,
+the danger will increase.
+
+1703
+02:48:29,300 --> 02:48:33,599
+Mordor orcs now hold the
+eastern shore of the Anduin.
+
+1704
+02:48:33,600 --> 02:48:36,299
+Nor will you find safety on the western bank.
+
+1705
+02:48:36,300 --> 02:48:40,399
+Strange creatures bearing the mark of the
+white hand have been seen on our borders.
+
+1706
+02:48:40,400 --> 02:48:46,700
+Seldom do orcs journey in the open
+under the sun, yet these have done so.
+
+1707
+02:48:53,800 --> 02:48:57,500
+<font color="#A6E3A1">Le aphadar aen.</font>
+<font color="#F9E2AF">(You are being followed.)</font>
+
+1708
+02:48:58,100 --> 02:49:04,000
+By river you have the chance of outrunning
+the enemy to the falls of Rauros.
+
+1709
+02:49:20,433 --> 02:50:00,200
+<i><font color="#89B4FA">♫ [Súri]nen yéni únótimë ve rámar aldaron!</font></i>
+<i><font color="#F9E2AF">(Numberless long years as the wings of trees!)</font></i>
+
+1710
+02:49:20,500 --> 02:49:24,999
+<i>My gift for you, Legolas, is a bow of the Galadhrim.</i>
+
+1711
+02:49:25,000 --> 02:49:29,800
+<i>Worthy of the skill of our woodland kin.</i>
+
+1712
+02:49:33,900 --> 02:49:36,599
+<i>These are the daggers of the Noldorin.</i>
+
+1713
+02:49:36,600 --> 02:49:40,699
+<i>They have already seen service in war.</i>
+
+1714
+02:49:40,700 --> 02:49:43,199
+<i>Do not fear, young Peregrin Took.</i>
+
+1715
+02:49:43,200 --> 02:49:47,800
+<i>You will find your courage.</i>
+
+1716
+02:49:48,310 --> 02:49:50,499
+<i>And for you, Samwise Gamgee...</i>
+
+1717
+02:49:50,500 --> 02:49:53,399
+<i>...Elven rope made of hithlain.</i>
+
+1718
+02:49:53,400 --> 02:49:56,900
+Thank you, my lady.
+
+1719
+02:49:57,300 --> 02:50:02,000
+Have you run out of those nice, shiny daggers?
+
+1720
+02:50:00,600 --> 02:50:17,200
+<i><font color="#89B4FA">♫ Yéni ve lintë yuldar avánier</font></i>
+<i><font color="#F9E2AF">(The long years have passed like swift draughts)</font></i>
+
+1721
+02:50:07,010 --> 02:50:10,299
+And what gift would a dwarf ask of the elves?
+
+1722
+02:50:10,300 --> 02:50:13,109
+Nothing.
+
+1723
+02:50:13,110 --> 02:50:17,009
+Except to look upon the lady
+of the Galadhrim one last time...
+
+1724
+02:50:17,010 --> 02:50:23,510
+...for she is more fair than all
+the jewels beneath the earth.
+
+1725
+02:50:18,600 --> 02:50:40,200
+<i><font color="#89B4FA">♫ mi oromardi lissë-miruvóreva</font></i>
+<i><font color="#F9E2AF">(of the sweet mead in lofty halls)</font></i>
+
+1726
+02:50:29,210 --> 02:50:31,009
+Actually....
+
+1727
+02:50:31,010 --> 02:50:33,509
+There was one thing.
+
+1728
+02:50:33,510 --> 02:50:36,309
+No, no, I couIdn't.
+It's quite impossible.
+
+1729
+02:50:36,310 --> 02:50:40,510
+Stupid to ask.
+
+1730
+02:50:41,710 --> 02:50:43,909
+<i>I have nothing greater to give...</i>
+
+1731
+02:50:43,910 --> 02:50:48,409
+<i>...than the gift you already bear.</i>
+
+1732
+02:50:48,410 --> 02:50:50,909
+<font color="#A6E3A1">Am meleth dîn...</font>
+<font color="#F9E2AF">(For her love...)</font>
+
+1733
+02:50:50,910 --> 02:50:57,109
+<font color="#A6E3A1">I ant e guil Arwen Undómiel pígatha.</font>
+<font color="#F9E2AF">(The gift of life of Arwen will dwindle.)</font>
+
+1734
+02:50:57,110 --> 02:51:02,009
+<font color="#A6E3A1">Aníron i e broniatha, ad ae periatham...</font>
+<font color="#F9E2AF">(I wish that she endures, even if we separate...)</font>
+
+1735
+02:51:02,010 --> 02:51:06,710
+<font color="#A6E3A1">athar i methid en-amar hen.</font>
+<font color="#F9E2AF">(beyond the limits of this world.)</font>
+
+1736
+02:51:06,900 --> 02:51:12,690
+<font color="#A6E3A1">Aníron i e círatha na Valannor.</font>
+<font color="#F9E2AF">(I wish that she sails to Valinor.)</font>
+
+1737
+02:51:12,910 --> 02:51:16,709
+That choice is yet before her.
+
+1738
+02:51:16,710 --> 02:51:19,909
+You have your own choice to make, Aragorn.
+
+1739
+02:51:19,910 --> 02:51:25,909
+To rise above the height of all your
+fathers since the days of Elendil...
+
+1740
+02:51:25,910 --> 02:51:31,610
+...or to fall into darkness
+with all that is left of your kin.
+
+1741
+02:51:37,610 --> 02:51:41,010
+<font color="#89B4FA">Namárië.</font>
+<font color="#F9E2AF">(Farewell.)</font>
+
+1742
+02:51:43,010 --> 02:51:48,310
+<font color="#A6E3A1">Nadath nâ i moe cerich.</font>
+<font color="#F9E2AF">(There is much you have yet to do.)</font>
+
+1743
+02:51:48,510 --> 02:51:57,619
+<font color="#A6E3A1">Dan, ú-'eveditham, Elessar.</font>
+<font color="#F9E2AF">(We shall not meet again, Elessar.)</font>
+
+1744
+02:51:57,900 --> 02:52:32,200
+<i><font color="#89B4FA">♫ Namárië! Nai hiruvalyë Valimar!</font></i>
+<i><font color="#F9E2AF">(Farewell! Maybe thou shalt find Valimar!)</font></i>
+
+1745
+02:51:57,920 --> 02:52:01,219
+<i>Farewell, Frodo Baggins.</i>
+
+1746
+02:52:01,220 --> 02:52:05,519
+<i>I give you the light of Earendil...</i>
+
+1747
+02:52:05,520 --> 02:52:09,220
+<i>...our most beloved star.</i>
+
+1748
+02:52:16,920 --> 02:52:21,519
+<i>May it be a light for you in dark places...</i>
+
+1749
+02:52:21,520 --> 02:52:27,020
+<i>... when all other lights go out.</i>
+
+1750
+02:52:32,900 --> 02:52:39,200
+<i><font color="#89B4FA">♫ Namá[rië]!</font></i>
+<i><font color="#F9E2AF">(Farewell!)</font></i>
+
+1751
+02:52:34,620 --> 02:52:38,419
+I have taken my worst wound at this parting...
+
+1752
+02:52:38,420 --> 02:52:43,419
+...having looked my last upon that which is fairest.
+
+1753
+02:52:43,420 --> 02:52:47,019
+Henceforth I will call nothing fair
+unless it be her gift to me.
+
+1754
+02:52:47,020 --> 02:52:49,219
+What was her gift?
+
+1755
+02:52:49,220 --> 02:52:54,819
+I asked her for one hair from her golden head.
+
+1756
+02:52:54,820 --> 02:52:59,120
+She gave me three.
+
+1757
+02:54:39,930 --> 02:54:44,730
+Gollum. He has tracked us since Moria.
+
+1758
+02:54:47,130 --> 02:54:50,429
+I had hoped we would lose him on the river.
+
+1759
+02:54:50,430 --> 02:54:54,429
+But he's too clever a waterman.
+
+1760
+02:54:54,430 --> 02:54:57,829
+And if he alerts the enemy to our whereabouts...
+
+1761
+02:54:57,830 --> 02:55:00,229
+...it will make the crossing even more dangerous.
+
+1762
+02:55:00,230 --> 02:55:02,529
+Have some food, Mr. Frodo.
+
+1763
+02:55:02,530 --> 02:55:05,929
+- No, Sam.
+- You haven't eaten anything all day.
+
+1764
+02:55:05,930 --> 02:55:09,829
+You're not sleeping, neither.
+Don't think I haven't noticed.
+
+1765
+02:55:09,830 --> 02:55:13,029
+- Mr. Frodo
+- I'm all right.
+
+1766
+02:55:13,030 --> 02:55:14,529
+But you're not.
+
+1767
+02:55:14,530 --> 02:55:17,229
+I'm here to help you.
+
+1768
+02:55:17,230 --> 02:55:20,330
+I promised Gandalf that I would.
+
+1769
+02:55:24,940 --> 02:55:28,940
+You can't help me, Sam.
+
+1770
+02:55:29,840 --> 02:55:32,940
+Not this time.
+
+1771
+02:55:34,430 --> 02:55:37,930
+Get some sleep.
+
+1772
+02:55:42,840 --> 02:55:45,539
+Minas Tirith is the safer road.
+
+1773
+02:55:45,540 --> 02:55:48,939
+You know that.
+From there we can regroup.
+
+1774
+02:55:48,940 --> 02:55:51,439
+Strike out for Mordor from a place of strength.
+
+1775
+02:55:51,440 --> 02:55:54,839
+There is no strength in Gondor that can avail us.
+
+1776
+02:55:54,840 --> 02:55:58,240
+You were quick enough to trust the elves.
+
+1777
+02:55:58,640 --> 02:56:01,639
+Have you so little faith in your own people?
+
+1778
+02:56:01,640 --> 02:56:04,839
+Yes, there is weakness.
+There is frailty.
+
+1779
+02:56:04,840 --> 02:56:08,339
+But there is courage also,
+and honor to be found in men.
+
+1780
+02:56:08,340 --> 02:56:10,939
+But you will not see that.
+
+1781
+02:56:10,940 --> 02:56:12,639
+You are afraid!
+
+1782
+02:56:12,640 --> 02:56:15,439
+All your life, you have hidden in the shadows.
+
+1783
+02:56:15,440 --> 02:56:20,240
+Scared of who you are, of what you are.
+
+1784
+02:56:21,340 --> 02:56:27,040
+I will not lead the ring within
+a hundred leagues of your city.
+
+1785
+02:56:37,540 --> 02:56:40,340
+Frodo.
+
+1786
+02:56:40,740 --> 02:56:43,640
+The Argonath.
+
+1787
+02:56:43,970 --> 02:56:59,459
+<i><font color="#89B4FA">♫ Et Eärello Endorenna utúlien</font></i>
+<i><font color="#F9E2AF">(Out of the Great Sea to Middle-earth I come)</font></i>
+
+1788
+02:56:45,740 --> 02:56:50,139
+Long have I desired to look upon the kings of old.
+
+1789
+02:56:50,140 --> 02:56:53,440
+My kin.
+
+1790
+02:57:00,970 --> 02:57:10,459
+<i><font color="#89B4FA">♫ Sinomë maruvan ar Hildinyar</font></i>
+<i><font color="#F9E2AF">(In this place I will abide, and my heirs)</font></i>
+
+1791
+02:58:11,150 --> 02:58:13,549
+We cross the lake at nightfall.
+
+1792
+02:58:13,550 --> 02:58:16,249
+Hide the boats and continue on foot.
+
+1793
+02:58:16,250 --> 02:58:20,149
+- We approach Mordor from the North.
+- Oh, yes?
+
+1794
+02:58:20,150 --> 02:58:24,149
+Just a simple matter of finding
+our way through Emyn Muil...
+
+1795
+02:58:24,150 --> 02:58:27,549
+...an impassable labyrinth of razor-sharp rocks.
+
+1796
+02:58:27,550 --> 02:58:31,049
+And after that, it gets even better.
+
+1797
+02:58:31,050 --> 02:58:36,249
+Festering, stinking marshland
+as far as the eye can see.
+
+1798
+02:58:36,250 --> 02:58:39,050
+That is our road.
+
+1799
+02:58:39,150 --> 02:58:42,549
+I suggest you take some rest and
+recover your strength, Master Dwarf.
+
+1800
+02:58:42,550 --> 02:58:45,650
+Recover my...
+
+1801
+02:58:47,350 --> 02:58:49,449
+- We should Leave now.
+- No.
+
+1802
+02:58:49,450 --> 02:58:54,049
+Orcs patrol the eastern shore.
+We must wait for cover of darkness.
+
+1803
+02:58:54,050 --> 02:58:57,749
+It is not the eastern shore that worries me.
+
+1804
+02:58:57,750 --> 02:59:02,249
+A shadow and a threat has
+been growing in my mind.
+
+1805
+02:59:02,250 --> 02:59:07,750
+Something draws near.
+I can feel it.
+
+1806
+02:59:08,450 --> 02:59:13,949
+Recover strength?
+Pay no heed to that, young hobbit.
+
+1807
+02:59:13,950 --> 02:59:17,050
+Where's Frodo?
+
+1808
+02:59:41,260 --> 02:59:44,459
+None of us should wander alone.
+
+1809
+02:59:44,460 --> 02:59:46,859
+You, least of all.
+
+1810
+02:59:46,860 --> 02:59:50,359
+So much depends on you.
+
+1811
+02:59:50,360 --> 02:59:53,760
+Frodo?
+
+1812
+02:59:59,460 --> 03:00:02,759
+I know why you seek solitude.
+
+1813
+03:00:02,760 --> 03:00:06,959
+You suffer. I see it day by day.
+
+1814
+03:00:06,960 --> 03:00:11,460
+You sure you do not suffer needlessly?
+
+1815
+03:00:11,660 --> 03:00:14,559
+There are other ways, Frodo.
+
+1816
+03:00:14,560 --> 03:00:18,559
+- Other paths that we might take.
+- I know what you would say.
+
+1817
+03:00:18,560 --> 03:00:22,559
+It would seem like wisdom but
+for the warning in my heart.
+
+1818
+03:00:22,560 --> 03:00:25,859
+Warning...against what?
+
+1819
+03:00:25,860 --> 03:00:28,159
+We're all afraid, Frodo.
+
+1820
+03:00:28,160 --> 03:00:32,059
+But to let that fear drive us,
+to destroy what hope we have...
+
+1821
+03:00:32,060 --> 03:00:37,160
+...don't you see that is madness?
+- There is no other way.
+
+1822
+03:00:37,660 --> 03:00:42,260
+I ask only for the strength to defend my people!
+
+1823
+03:00:42,560 --> 03:00:45,759
+- If you would but lend me the ring.
+- No.
+
+1824
+03:00:45,760 --> 03:00:50,760
+- Why do you recoil? I am no thief.
+- You are not yourself.
+
+1825
+03:00:51,360 --> 03:00:54,769
+What chance do you think you have?
+
+1826
+03:00:54,770 --> 03:00:59,659
+They will find you.
+They will take the ring.
+
+1827
+03:00:59,660 --> 03:01:04,760
+And you will beg for death before the end!
+
+1828
+03:01:05,469 --> 03:01:08,118
+<font color="#F38BA8">Gûm-ishi...</font>
+<font color="#F9E2AF">(In the void...)</font>
+
+1829
+03:01:05,570 --> 03:01:07,659
+You fool!
+
+1830
+03:01:07,760 --> 03:01:11,959
+It is not yours, save by unhappy chance!
+It could have been mine.
+
+1831
+03:01:11,960 --> 03:01:14,900
+It should be mine! Give it to me!
+
+1832
+03:01:13,734 --> 03:01:14,900
+<font color="#F38BA8">...ashi...</font>
+<font color="#F9E2AF">(...only...)</font>
+
+1833
+03:01:14,960 --> 03:01:16,459
+- Give it to me!
+- No!
+
+1834
+03:01:16,460 --> 03:01:19,760
+- Give it to me!
+- No.
+
+1835
+03:01:17,250 --> 03:01:19,069
+<font color="#F38BA8">...gurum</font>
+<font color="#F9E2AF">(...death)</font>
+
+1836
+03:01:25,970 --> 03:01:28,269
+I see your mind.
+
+1837
+03:01:28,270 --> 03:01:31,369
+You will take the ring to Sauron!
+
+1838
+03:01:31,370 --> 03:01:33,469
+You will betray us!
+
+1839
+03:01:33,470 --> 03:01:37,069
+You'll go to your death, and the death of us all!
+
+1840
+03:01:37,070 --> 03:01:42,070
+Curse you!
+Curse you and all the halflings!
+
+1841
+03:01:47,770 --> 03:01:50,770
+Frodo?
+
+1842
+03:01:53,570 --> 03:01:56,670
+Frodo.
+
+1843
+03:01:59,170 --> 03:02:01,369
+What have I done?
+
+1844
+03:02:01,370 --> 03:02:03,369
+Please, Frodo.
+
+1845
+03:02:03,370 --> 03:02:07,370
+Frodo, I'm sorry!
+
+1846
+03:02:33,390 --> 03:02:40,890
+<font color="#F38BA8">Akha gûm-ishi ashi gurum</font>
+<font color="#F9E2AF">(Here in the void, only death)</font>
+
+1847
+03:02:54,570 --> 03:02:57,169
+Frodo?
+
+1848
+03:02:57,170 --> 03:03:00,579
+- It has taken Boromir.
+- Where is the ring?
+
+1849
+03:03:00,580 --> 03:03:02,669
+Stay away!
+
+1850
+03:03:02,670 --> 03:03:05,770
+Frodo!
+
+1851
+03:03:06,570 --> 03:03:11,770
+- I swore to protect you.
+- Can you protect me from yourself?
+
+1852
+03:03:12,233 --> 03:03:23,900
+<i><font color="#89B4FA">♫ I tuo i macil a staldaron</font></i>
+<i><font color="#F9E2AF">(The strength, the weapon, the needs of the valiant)</font></i>
+
+1853
+03:03:20,180 --> 03:03:23,980
+Would you destroy it?
+
+1854
+03:03:24,233 --> 03:03:32,200
+<i><font color="#89B4FA">♫ Marinyë Cor[ma]</font></i>
+<i><font color="#F9E2AF">(Let the Ring be your weapon)</font></i>
+
+1855
+03:03:27,680 --> 03:03:30,980
+<i>Aragorn.</i>
+
+1856
+03:03:32,233 --> 03:03:45,200
+<i><font color="#89B4FA">♫ I tuo i macil a lelyat túrenna</font></i>
+<i><font color="#F9E2AF">(The strength, the weapon, go to victory!)</font></i>
+
+1857
+03:03:32,980 --> 03:03:36,680
+<i>Aragorn.</i>
+
+1858
+03:03:37,180 --> 03:03:40,380
+<i>Elessar.</i>
+
+1859
+03:03:46,580 --> 03:03:50,579
+I would have gone with you to the end.
+
+1860
+03:03:50,580 --> 03:03:54,880
+Into the very fires of Mordor.
+
+1861
+03:03:56,880 --> 03:03:59,480
+I know.
+
+1862
+03:04:00,380 --> 03:04:07,180
+Look after the others. Especially Sam.
+He will not understand.
+
+1863
+03:04:09,680 --> 03:04:12,780
+Go, Frodo!
+
+1864
+03:04:14,380 --> 03:04:16,079
+Run.
+
+1865
+03:04:16,080 --> 03:04:19,180
+Run!
+
+1866
+03:04:42,280 --> 03:04:45,380
+Mr. Frodo!
+
+1867
+03:04:53,380 --> 03:04:56,480
+Find the halfling!
+
+1868
+03:04:56,680 --> 03:05:00,580
+Find the halfling!
+
+1869
+03:05:02,780 --> 03:05:05,880
+Elendil!
+
+1870
+03:05:10,890 --> 03:05:13,890
+Aragorn, go!
+
+1871
+03:05:34,090 --> 03:05:35,989
+Frodo!
+
+1872
+03:05:35,990 --> 03:05:38,289
+Hide here. Quick!
+
+1873
+03:05:38,290 --> 03:05:41,190
+Come on!
+
+1874
+03:05:42,190 --> 03:05:45,690
+What's he doing?
+
+1875
+03:05:48,390 --> 03:05:51,890
+He's leaving.
+
+1876
+03:05:55,290 --> 03:05:59,590
+- No!
+- Pippin!
+
+1877
+03:06:03,090 --> 03:06:05,989
+Run, Frodo. Go!
+
+1878
+03:06:05,990 --> 03:06:09,489
+- Hey! Hey, you!
+- Over here!
+
+1879
+03:06:09,490 --> 03:06:12,490
+- Over here!
+- This way!
+
+1880
+03:06:21,990 --> 03:06:25,690
+- It's working!
+- I know it's working! Run!
+
+1881
+03:06:40,000 --> 03:06:55,000
+<i><font color="#F38BA8">♫ Ash Burz-Durbagu burzum-ishi</font></i>
+<i><font color="#F9E2AF">(One for the Dark Lord on his dark throne)</font></i>
+
+1882
+03:07:19,600 --> 03:07:24,000
+- The horn of Gondor.
+- Boromir.
+
+1883
+03:07:58,970 --> 03:08:16,459
+<i><font color="#A6E3A1">♫ Ú-velin i vegil an aegas</font></i>
+<i><font color="#F9E2AF">(I do not love the bright sword for its sharpness)</font></i>
+
+1884
+03:08:05,800 --> 03:08:08,300
+Run!
+
+1885
+03:08:16,970 --> 03:08:38,459
+<i><font color="#A6E3A1">♫ Egor i... bilin a linn[as]</font></i>
+<i><font color="#F9E2AF">(Nor the... arrow for its swiftness)</font></i>
+
+1886
+03:08:48,233 --> 03:09:00,200
+<i><font color="#89B4FA">♫ I alda helda, i ehtelë lína</font></i>
+<i><font color="#F9E2AF">(The tree is bare, the fountain still)</font></i>
+
+1887
+03:09:01,233 --> 03:09:16,200
+<i><font color="#89B4FA">♫ Manna lelyalye Voromírë?</font></i>
+<i><font color="#F9E2AF">(Whither goest thou Boromir?)</font></i>
+
+1888
+03:09:18,233 --> 03:09:35,200
+<i><font color="#89B4FA">♫ Cánalya desse sí mas[së]</font></i>
+<i><font color="#F9E2AF">(We heard your call but cannot find you)</font></i>
+
+1889
+03:11:38,520 --> 03:11:41,520
+No.
+
+1890
+03:11:44,120 --> 03:11:47,319
+- They took the little ones.
+- Hold still.
+
+1891
+03:11:47,320 --> 03:11:50,820
+Frodo. Where is Frodo?
+
+1892
+03:11:51,320 --> 03:11:53,419
+I let Frodo go.
+
+1893
+03:11:53,420 --> 03:11:57,019
+Then you did what I could not.
+
+1894
+03:11:57,020 --> 03:12:00,819
+I tried to take the ring from him.
+
+1895
+03:12:00,820 --> 03:12:05,319
+- The ring is beyond our reach now.
+- Forgive me.
+
+1896
+03:12:05,320 --> 03:12:07,819
+I did not see it.
+
+1897
+03:12:07,820 --> 03:12:11,519
+- I have failed you all.
+- No, Boromir.
+
+1898
+03:12:11,520 --> 03:12:14,319
+You fought bravely.
+
+1899
+03:12:14,320 --> 03:12:17,619
+You have kept your honor.
+
+1900
+03:12:17,620 --> 03:12:19,819
+Leave it.
+
+1901
+03:12:19,820 --> 03:12:23,129
+It is over.
+
+1902
+03:12:23,130 --> 03:12:28,819
+The world of men will fall and
+all will come to darkness...
+
+1903
+03:12:28,820 --> 03:12:33,120
+...and my city to ruin.
+
+1904
+03:12:35,830 --> 03:12:38,729
+I do not know what strength is in my blood...
+
+1905
+03:12:38,730 --> 03:12:43,729
+...but I swear to you, I will
+not let the white city fall...
+
+1906
+03:12:43,730 --> 03:12:47,129
+...nor our people fail.
+
+1907
+03:12:47,130 --> 03:12:50,030
+Our people.
+
+1908
+03:12:52,430 --> 03:12:55,930
+Our people.
+
+1909
+03:13:16,230 --> 03:13:20,630
+I would have followed you, my brother.
+
+1910
+03:13:20,830 --> 03:13:24,230
+My captain.
+
+1911
+03:13:25,530 --> 03:13:28,830
+My king.
+
+1912
+03:13:28,970 --> 03:13:50,459
+<i><font color="#A6E3A1">♫ Ú-velin i ve[gil]</font></i>
+<i><font color="#F9E2AF">(I do not love the bright sword)</font></i>
+
+1913
+03:13:47,030 --> 03:13:49,729
+Be at peace...
+
+1914
+03:13:49,730 --> 03:13:53,030
+...son of Gondor.
+
+1915
+03:14:08,030 --> 03:14:11,929
+They will look for his coming from the white tower.
+
+1916
+03:14:11,930 --> 03:14:16,330
+But he will not return.
+
+1917
+03:14:38,240 --> 03:14:41,640
+Frodo!
+
+1918
+03:14:59,640 --> 03:15:04,139
+I wish the ring had never come to me.
+
+1919
+03:15:04,140 --> 03:15:08,440
+I wish none of this had happened.
+
+1920
+03:15:10,140 --> 03:15:13,139
+So do all who live to see such times...
+
+1921
+03:15:13,140 --> 03:15:16,839
+...but that is not for them to decide.
+
+1922
+03:15:16,840 --> 03:15:19,639
+All you have to decide...
+
+1923
+03:15:19,640 --> 03:15:25,740
+...is what to do with the time that is given to you.
+
+1924
+03:15:53,140 --> 03:15:55,939
+Frodo, no!
+
+1925
+03:15:55,940 --> 03:15:57,849
+Frodo!
+
+1926
+03:15:57,850 --> 03:16:01,950
+- Mr. Frodo!
+- No, Sam.
+
+1927
+03:16:04,140 --> 03:16:06,639
+Go back, Sam!
+
+1928
+03:16:06,640 --> 03:16:10,339
+- I'm going to Mordor alone.
+- Of course you are.
+
+1929
+03:16:10,340 --> 03:16:13,739
+And I'm coming with you!
+
+1930
+03:16:13,740 --> 03:16:17,540
+You can't swim!
+
+1931
+03:16:19,840 --> 03:16:23,040
+Sam!
+
+1932
+03:16:27,150 --> 03:16:30,050
+Sam!
+
+1933
+03:17:09,450 --> 03:17:12,549
+I made a promise, Mr. Frodo.
+
+1934
+03:17:12,550 --> 03:17:17,949
+A promise:
+"Don't you leave him, Samwise Gamgee."
+
+1935
+03:17:17,950 --> 03:17:20,849
+And I don't mean to.
+
+1936
+03:17:20,850 --> 03:17:24,450
+I don't mean to.
+
+1937
+03:17:24,750 --> 03:17:27,950
+Oh Sam.
+
+1938
+03:17:41,450 --> 03:17:44,550
+Come on.
+
+1939
+03:18:11,450 --> 03:18:17,350
+Hurry! Frodo and Sam have
+reached the eastern shore.
+
+1940
+03:18:30,960 --> 03:18:37,360
+- You mean not to follow them.
+- Frodo's fate is no longer in our hands.
+
+1941
+03:18:39,360 --> 03:18:45,560
+Then it has all been in vain.
+The fellowship has failed.
+
+1942
+03:18:56,060 --> 03:19:00,660
+Not if we hold true to each other.
+
+1943
+03:19:00,660 --> 03:19:06,059
+We will not abandon Merry and
+Pippin to torment and death.
+
+1944
+03:19:06,060 --> 03:19:12,660
+Not while we have strength left.
+Leave all that can be spared behind.
+
+1945
+03:19:12,660 --> 03:19:14,859
+We travel light.
+
+1946
+03:19:14,860 --> 03:19:18,260
+Let us hunt some orc.
+
+1947
+03:19:19,760 --> 03:19:23,260
+Yes!
+
+1948
+03:19:40,760 --> 03:19:42,859
+Mordor.
+
+1949
+03:19:42,860 --> 03:19:47,159
+I hope the others find a safer road.
+
+1950
+03:19:47,160 --> 03:19:50,769
+Strider will look after them.
+
+1951
+03:19:50,770 --> 03:19:54,459
+I don't suppose we'll ever see them again.
+
+1952
+03:19:54,460 --> 03:19:56,969
+We may yet, Mr. Frodo.
+
+1953
+03:19:56,970 --> 03:19:59,970
+We may.
+
+1954
+03:20:00,670 --> 03:20:03,270
+Sam...
+
+1955
+03:20:05,370 --> 03:20:09,370
+...I'm glad you are with me.
+
+1956
+03:21:14,808 --> 03:21:20,365
+<i>♫ Shines down upon you</i>
+
+1957
+03:21:21,968 --> 03:21:28,032
+<i>♫ May it be when darkness falls</i>
+
+1958
+03:21:28,056 --> 03:21:34,625
+<i>♫ Your heart will be true</i>
+
+1959
+03:21:35,212 --> 03:21:41,387
+<i>♫ You walk a lonely road</i>
+
+1960
+03:21:41,411 --> 03:21:50,922
+<i>♫ Oh! How far you are from home</i>
+
+1961
+03:21:52,002 --> 03:22:03,585
+<i><font color="#89B4FA">♫ Mornie utúlië</font></i>
+<i><font color="#F9E2AF">(Darkness has come)</font></i>
+
+1962
+03:22:03,609 --> 03:22:15,526
+<i>♫ Believe and you will find your way</i>
+
+1963
+03:22:15,550 --> 03:22:27,968
+<i><font color="#89B4FA">♫ Mornie alantië</font></i>
+<i><font color="#F9E2AF">(Darkness has fallen)</font></i>
+
+1964
+03:22:27,992 --> 03:22:39,402
+<i>♫ A promise lives within you now</i>
+
+1965
+03:22:42,558 --> 03:22:48,609
+<i>♫ May it be the shadow's call</i>
+
+1966
+03:22:48,633 --> 03:22:54,086
+<i>♫ Will fly away</i>
+
+1967
+03:22:55,632 --> 03:23:01,537
+<i>♫ May it be you journey on</i>
+
+1968
+03:23:01,561 --> 03:23:06,927
+<i>♫ To light the day</i>
+
+1969
+03:23:08,066 --> 03:23:14,415
+<i>♫ When the night is overcome</i>
+
+1970
+03:23:14,439 --> 03:23:23,212
+<i>♫ You may rise to find the sun</i>
+
+1971
+03:23:23,402 --> 03:23:36,000
+<i><font color="#89B4FA">♫ Mornie utúlië</font></i>
+<i><font color="#F9E2AF">(Darkness has come)</font></i>
+
+1972
+03:23:36,173 --> 03:23:47,753
+<i>♫ Believe and you will find your way</i>
+
+1973
+03:23:47,778 --> 03:23:59,532
+<i><font color="#89B4FA">♫ Mornie alantië</font></i>
+<i><font color="#F9E2AF">(Darkness has fallen)</font></i>
+
+1974
+03:23:59,556 --> 03:24:11,965
+<i>♫ A promise lives within you now</i>
+
+1975
+03:24:11,991 --> 03:24:24,076
+<i>♫ A promise lives within you...</i>
+
+1976
+03:24:24,100 --> 03:24:31,400
+<i>♫ ...now</i>
+
+1977
+03:25:08,430 --> 03:25:14,835
+<i>♫ When the cold of winter comes</i>
+
+1978
+03:25:14,859 --> 03:25:21,206
+<i>♫ Starless night will cover day</i>
+
+1979
+03:25:21,230 --> 03:25:27,396
+<i>♫ In the veiling of the sun</i>
+
+1980
+03:25:27,420 --> 03:25:34,353
+<i>♫ We will walk in bitter rain</i>
+
+1981
+03:25:34,640 --> 03:25:39,676
+<i>♫ But in dreams</i>
+
+1982
+03:25:39,700 --> 03:25:46,670
+<i>♫ I can hear your name</i>
+
+1983
+03:25:46,694 --> 03:25:52,592
+<i>♫ And in dreams</i>
+
+1984
+03:25:52,616 --> 03:26:03,703
+<i>♫ We will meet again</i>
+
+1985
+03:26:22,376 --> 03:26:28,229
+<i>♫ When the seas and mountains fall</i>
+
+1986
+03:26:28,254 --> 03:26:34,946
+<i>♫ And we come, to end of days</i>
+
+1987
+03:26:34,970 --> 03:26:41,244
+<i>♫ In the dark I hear a call</i>
+
+1988
+03:26:41,268 --> 03:26:44,344
+<i>♫ Calling me there</i>
+
+1989
+03:26:44,765 --> 03:26:47,931
+<i>♫ I will go there</i>
+
+1990
+03:26:47,955 --> 03:26:53,115
+<i>♫ And back again.</i>
+
+1991
+03:26:53,139 --> 03:27:13,339
+<i><font color="#A6E3A1">♫ A, Elbereth Gilthoniel</font></i>
+<i><font color="#F9E2AF">(O, Elbereth Kindler of Stars)</font></i>
+
+1992
+03:27:13,363 --> 03:27:35,025
+<i><font color="#A6E3A1">♫ silivren penna míriel</font></i>
+<i><font color="#F9E2AF">(Glittering light falling like shining jewels)</font></i>
+
