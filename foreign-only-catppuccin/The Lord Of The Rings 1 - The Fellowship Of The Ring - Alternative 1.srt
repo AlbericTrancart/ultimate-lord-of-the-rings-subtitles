@@ -26,7 +26,7 @@
 
 7
 00:02:42,970 --> 00:02:53,459
-<i><font color="#778899">♫ Nênâkham nêpâm abârat aglar</font></i>
+<i><font color="#6C7086">♫ Nênâkham nêpâm abârat aglar</font></i>
 <i><font color="#F9E2AF">(We come grasp power and glory)</font></i>
 
 8
@@ -41,22 +41,22 @@
 
 10
 00:02:53,970 --> 00:02:58,459
-<i><font color="#778899">♫ Nêbâ Katharâd</font></i>
+<i><font color="#6C7086">♫ Nêbâ Katharâd</font></i>
 <i><font color="#F9E2AF">(Deny Eternal Life)</font></i>
 
 11
 00:02:59,970 --> 00:03:04,459
-<i><font color="#778899">♫ Nidir nênâ</font></i>
+<i><font color="#6C7086">♫ Nidir nênâ</font></i>
 <i><font color="#F9E2AF">(We are the Nine)</font></i>
 
 12
 00:03:04,970 --> 00:03:12,459
-<i><font color="#778899">♫ Nêbâbîtham dâur</font></i>
+<i><font color="#6C7086">♫ Nêbâbîtham dâur</font></i>
 <i><font color="#F9E2AF">(We cling to the darkness)</font></i>
 
 13
 00:03:27,970 --> 00:03:38,459
-<i><font color="#778899">♫ Nênâkham nêpâm abârat aglar</font></i>
+<i><font color="#6C7086">♫ Nênâkham nêpâm abârat aglar</font></i>
 <i><font color="#F9E2AF">(We come grasp power and glory)</font></i>
 
 14
@@ -66,7 +66,7 @@
 
 15
 00:32:40,970 --> 00:32:50,459
-<i><font color="#778899">♫ Nêbâbîtham Magânanê</font></i>
+<i><font color="#6C7086">♫ Nêbâbîtham Magânanê</font></i>
 <i><font color="#F9E2AF">(We renounce our Maker)</font></i>
 
 16
@@ -146,27 +146,27 @@
 
 31
 00:55:16,970 --> 00:55:26,459
-<i><font color="#778899">♫ Nêpâm nêd</font></i>
+<i><font color="#6C7086">♫ Nêpâm nêd</font></i>
 <i><font color="#F9E2AF">(We grasp for ourselves)</font></i>
 
 32
 00:56:42,970 --> 00:56:51,459
-<i><font color="#778899">♫ Nêbâbîtham Magânanê</font></i>
+<i><font color="#6C7086">♫ Nêbâbîtham Magânanê</font></i>
 <i><font color="#F9E2AF">(We renounce our Maker)</font></i>
 
 33
 00:56:51,970 --> 00:56:56,459
-<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#6C7086">♫ Bârî’n Katharâd</font></i>
 <i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
 
 34
 00:56:56,609 --> 00:56:59,459
-<i><font color="#778899">♫ Nidir nênâ</font></i>
+<i><font color="#6C7086">♫ Nidir nênâ</font></i>
 <i><font color="#F9E2AF">(We are the Nine)</font></i>
 
 35
 00:56:59,970 --> 00:57:05,459
-<i><font color="#778899">♫ Dâur-ad</font></i>
+<i><font color="#6C7086">♫ Dâur-ad</font></i>
 <i><font color="#F9E2AF">(Darkness)</font></i>
 
 36
@@ -181,17 +181,17 @@
 
 38
 01:03:36,970 --> 01:03:41,459
-<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#6C7086">♫ Bârî’n Katharâd</font></i>
 <i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
 
 39
 01:03:41,970 --> 01:03:48,459
-<i><font color="#778899">♫ Îdô Nidir nênâ</font></i>
+<i><font color="#6C7086">♫ Îdô Nidir nênâ</font></i>
 <i><font color="#F9E2AF">(Now, we, the Nine)</font></i>
 
 40
 01:03:49,970 --> 01:03:57,459
-<i><font color="#778899">♫ Kham nêpâm 'bârat aglar</font></i>
+<i><font color="#6C7086">♫ Kham nêpâm 'bârat aglar</font></i>
 <i><font color="#F9E2AF">(Come grasp power and glory)</font></i>
 
 41
@@ -216,32 +216,32 @@
 
 45
 01:12:07,300 --> 01:12:11,459
-<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#6C7086">♫ Bârî’n Katharâd</font></i>
 <i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
 
 46
 01:12:11,970 --> 01:12:20,459
-<i><font color="#778899">♫ Îdô Nidir nênâ</font></i>
+<i><font color="#6C7086">♫ Îdô Nidir nênâ</font></i>
 <i><font color="#F9E2AF">(Now, we are the Nine)</font></i>
 
 47
 01:12:20,970 --> 01:12:24,459
-<i><font color="#778899">♫ Nêpâm ned abârat</font></i>
+<i><font color="#6C7086">♫ Nêpâm ned abârat</font></i>
 <i><font color="#F9E2AF">(We grasp power for ourselves)</font></i>
 
 48
 01:12:25,970 --> 01:12:30,459
-<i><font color="#778899">♫ Nidir nênâkham</font></i>
+<i><font color="#6C7086">♫ Nidir nênâkham</font></i>
 <i><font color="#F9E2AF">(We, the Nine, are coming)</font></i>
 
 49
 01:12:30,970 --> 01:12:40,459
-<i><font color="#778899">♫ Nêbâbîtham Magânanê</font></i>
+<i><font color="#6C7086">♫ Nêbâbîtham Magânanê</font></i>
 <i><font color="#F9E2AF">(We renounce our Maker)</font></i>
 
 50
 01:12:41,970 --> 01:12:47,459
-<i><font color="#778899">♫ Nêtabdam dâur</font></i>
+<i><font color="#6C7086">♫ Nêtabdam dâur</font></i>
 <i><font color="#F9E2AF">(We cling to the darkness)</font></i>
 
 51
@@ -351,12 +351,12 @@
 
 72
 01:21:36,970 --> 01:21:40,459
-<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#6C7086">♫ Bârî’n Katharâd</font></i>
 <i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
 
 73
 01:21:41,970 --> 01:21:47,459
-<i><font color="#778899">♫ Îdô kham nêpâm</font></i>
+<i><font color="#6C7086">♫ Îdô kham nêpâm</font></i>
 <i><font color="#F9E2AF">(Now we come grasp)</font></i>
 
 74
@@ -366,27 +366,27 @@
 
 75
 01:21:47,970 --> 01:21:51,459
-<i><font color="#778899">♫ Nênâkham nêpâm</font></i>
+<i><font color="#6C7086">♫ Nênâkham nêpâm</font></i>
 <i><font color="#F9E2AF">(We come grasp)</font></i>
 
 76
 01:21:52,970 --> 01:21:57,459
-<i><font color="#778899">♫ 'bârat aglar</font></i>
+<i><font color="#6C7086">♫ 'bârat aglar</font></i>
 <i><font color="#F9E2AF">(power, glory)</font></i>
 
 77
 01:21:57,970 --> 01:22:01,459
-<i><font color="#778899">♫ Nêbâ Katharâd</font></i>
+<i><font color="#6C7086">♫ Nêbâ Katharâd</font></i>
 <i><font color="#F9E2AF">(Deny Eternal Life)</font></i>
 
 78
 01:22:01,970 --> 01:22:06,459
-<i><font color="#778899">♫ Nidir nênâ</font></i>
+<i><font color="#6C7086">♫ Nidir nênâ</font></i>
 <i><font color="#F9E2AF">(We are the Nine)</font></i>
 
 79
 01:22:07,970 --> 01:22:16,459
-<i><font color="#778899">♫ Nêbâbîtham dâur</font></i>
+<i><font color="#6C7086">♫ Nêbâbîtham dâur</font></i>
 <i><font color="#F9E2AF">(We cling to the darkness)</font></i>
 
 80

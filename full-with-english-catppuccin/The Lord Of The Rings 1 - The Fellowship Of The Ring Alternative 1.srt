@@ -149,7 +149,7 @@ fought for the freedom of Middle-earth.
 
 36
 00:02:42,970 --> 00:02:53,459
-<i><font color="#778899">♫ Nênâkham nêpâm abârat aglar</font></i>
+<i><font color="#6C7086">♫ Nênâkham nêpâm abârat aglar</font></i>
 <i><font color="#F9E2AF">(We come grasp power and glory)</font></i>
 
 37
@@ -164,17 +164,17 @@ fought for the freedom of Middle-earth.
 
 39
 00:02:53,970 --> 00:02:58,459
-<i><font color="#778899">♫ Nêbâ Katharâd</font></i>
+<i><font color="#6C7086">♫ Nêbâ Katharâd</font></i>
 <i><font color="#F9E2AF">(Deny Eternal Life)</font></i>
 
 40
 00:02:59,970 --> 00:03:04,459
-<i><font color="#778899">♫ Nidir nênâ</font></i>
+<i><font color="#6C7086">♫ Nidir nênâ</font></i>
 <i><font color="#F9E2AF">(We are the Nine)</font></i>
 
 41
 00:03:04,970 --> 00:03:12,459
-<i><font color="#778899">♫ Nêbâbîtham dâur</font></i>
+<i><font color="#6C7086">♫ Nêbâbîtham dâur</font></i>
 <i><font color="#F9E2AF">(We cling to the darkness)</font></i>
 
 42
@@ -191,7 +191,7 @@ But the power of the ring...
 
 45
 00:03:27,970 --> 00:03:38,459
-<i><font color="#778899">♫ Nênâkham nêpâm abârat aglar</font></i>
+<i><font color="#6C7086">♫ Nênâkham nêpâm abârat aglar</font></i>
 <i><font color="#F9E2AF">(We come grasp power and glory)</font></i>
 
 46
@@ -1595,7 +1595,7 @@ Baggins!
 
 376
 00:32:40,970 --> 00:32:50,459
-<i><font color="#778899">♫ Nêbâbîtham Magânanê</font></i>
+<i><font color="#6C7086">♫ Nêbâbîtham Magânanê</font></i>
 <i><font color="#F9E2AF">(We renounce our Maker)</font></i>
 
 377
@@ -2815,7 +2815,7 @@ What was that?
 
 660
 00:55:16,970 --> 00:55:26,459
-<i><font color="#778899">♫ Nêpâm nêd</font></i>
+<i><font color="#6C7086">♫ Nêpâm nêd</font></i>
 <i><font color="#F9E2AF">(We grasp for ourselves)</font></i>
 
 661
@@ -2873,7 +2873,7 @@ Run!
 
 674
 00:56:42,970 --> 00:56:51,459
-<i><font color="#778899">♫ Nêbâbîtham Magânanê</font></i>
+<i><font color="#6C7086">♫ Nêbâbîtham Magânanê</font></i>
 <i><font color="#F9E2AF">(We renounce our Maker)</font></i>
 
 675
@@ -2882,7 +2882,7 @@ Get the rope, Sam!
 
 676
 00:56:51,970 --> 00:56:56,459
-<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#6C7086">♫ Bârî’n Katharâd</font></i>
 <i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
 
 677
@@ -2895,7 +2895,7 @@ Run, Frodo!
 
 679
 00:56:56,609 --> 00:56:59,459
-<i><font color="#778899">♫ Nidir nênâ</font></i>
+<i><font color="#6C7086">♫ Nidir nênâ</font></i>
 <i><font color="#F9E2AF">(We are the Nine)</font></i>
 
 680
@@ -2909,7 +2909,7 @@ Frodo, come on!
 
 682
 00:56:59,970 --> 00:57:05,459
-<i><font color="#778899">♫ Dâur-ad</font></i>
+<i><font color="#6C7086">♫ Dâur-ad</font></i>
 <i><font color="#F9E2AF">(Darkness)</font></i>
 
 683
@@ -3212,17 +3212,17 @@ They're coming.
 
 751
 01:03:36,970 --> 01:03:41,459
-<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#6C7086">♫ Bârî’n Katharâd</font></i>
 <i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
 
 752
 01:03:41,970 --> 01:03:48,459
-<i><font color="#778899">♫ Îdô Nidir nênâ</font></i>
+<i><font color="#6C7086">♫ Îdô Nidir nênâ</font></i>
 <i><font color="#F9E2AF">(Now, we, the Nine)</font></i>
 
 753
 01:03:49,970 --> 01:03:57,459
-<i><font color="#778899">♫ Kham nêpâm 'bârat aglar</font></i>
+<i><font color="#6C7086">♫ Kham nêpâm 'bârat aglar</font></i>
 <i><font color="#F9E2AF">(Come grasp power and glory)</font></i>
 
 754
@@ -3482,27 +3482,27 @@ Go!
 
 812
 01:12:07,300 --> 01:12:11,459
-<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#6C7086">♫ Bârî’n Katharâd</font></i>
 <i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
 
 813
 01:12:11,970 --> 01:12:20,459
-<i><font color="#778899">♫ Îdô Nidir nênâ</font></i>
+<i><font color="#6C7086">♫ Îdô Nidir nênâ</font></i>
 <i><font color="#F9E2AF">(Now, we are the Nine)</font></i>
 
 814
 01:12:20,970 --> 01:12:24,459
-<i><font color="#778899">♫ Nêpâm ned abârat</font></i>
+<i><font color="#6C7086">♫ Nêpâm ned abârat</font></i>
 <i><font color="#F9E2AF">(We grasp power for ourselves)</font></i>
 
 815
 01:12:25,970 --> 01:12:30,459
-<i><font color="#778899">♫ Nidir nênâkham</font></i>
+<i><font color="#6C7086">♫ Nidir nênâkham</font></i>
 <i><font color="#F9E2AF">(We, the Nine, are coming)</font></i>
 
 816
 01:12:30,970 --> 01:12:40,459
-<i><font color="#778899">♫ Nêbâbîtham Magânanê</font></i>
+<i><font color="#6C7086">♫ Nêbâbîtham Magânanê</font></i>
 <i><font color="#F9E2AF">(We renounce our Maker)</font></i>
 
 817
@@ -3511,7 +3511,7 @@ Back, you devils!
 
 818
 01:12:41,970 --> 01:12:47,459
-<i><font color="#778899">♫ Nêtabdam dâur</font></i>
+<i><font color="#6C7086">♫ Nêtabdam dâur</font></i>
 <i><font color="#F9E2AF">(We cling to the darkness)</font></i>
 
 819
@@ -3760,12 +3760,12 @@ Those wraiths are still out there!
 
 872
 01:21:36,970 --> 01:21:40,459
-<i><font color="#778899">♫ Bârî’n Katharâd</font></i>
+<i><font color="#6C7086">♫ Bârî’n Katharâd</font></i>
 <i><font color="#F9E2AF">(Lords of Eternal Life)</font></i>
 
 873
 01:21:41,970 --> 01:21:47,459
-<i><font color="#778899">♫ Îdô kham nêpâm</font></i>
+<i><font color="#6C7086">♫ Îdô kham nêpâm</font></i>
 <i><font color="#F9E2AF">(Now we come grasp)</font></i>
 
 874
@@ -3775,27 +3775,27 @@ Those wraiths are still out there!
 
 875
 01:21:47,970 --> 01:21:51,459
-<i><font color="#778899">♫ Nênâkham nêpâm</font></i>
+<i><font color="#6C7086">♫ Nênâkham nêpâm</font></i>
 <i><font color="#F9E2AF">(We come grasp)</font></i>
 
 876
 01:21:52,970 --> 01:21:57,459
-<i><font color="#778899">♫ 'bârat aglar</font></i>
+<i><font color="#6C7086">♫ 'bârat aglar</font></i>
 <i><font color="#F9E2AF">(power, glory)</font></i>
 
 877
 01:21:57,970 --> 01:22:01,459
-<i><font color="#778899">♫ Nêbâ Katharâd</font></i>
+<i><font color="#6C7086">♫ Nêbâ Katharâd</font></i>
 <i><font color="#F9E2AF">(Deny Eternal Life)</font></i>
 
 878
 01:22:01,970 --> 01:22:06,459
-<i><font color="#778899">♫ Nidir nênâ</font></i>
+<i><font color="#6C7086">♫ Nidir nênâ</font></i>
 <i><font color="#F9E2AF">(We are the Nine)</font></i>
 
 879
 01:22:07,970 --> 01:22:16,459
-<i><font color="#778899">♫ Nêbâbîtham dâur</font></i>
+<i><font color="#6C7086">♫ Nêbâbîtham dâur</font></i>
 <i><font color="#F9E2AF">(We cling to the darkness)</font></i>
 
 880
@@ -6620,7 +6620,7 @@ And you know what this dwarf says to that?
 
 1528
 02:31:46,310 --> 02:31:52,710
-<font color="#FAB387">Îsh kakhfê ai-dûr-rugnul! </font>
+<font color="#FAB387">Îsh kakhfê ai-dûr-rugnul!</font>
 <font color="#F9E2AF">(May my excrement be poured upon the naked-jawed!)</font>
 
 1529
