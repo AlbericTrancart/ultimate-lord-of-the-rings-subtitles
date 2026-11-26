@@ -54,3 +54,15 @@ I also used a lot of other pages for small cross-checks that would be too long t
 It took me tens of hours to do this, so if you like these subs please share them to every Lord of the Rings fan out there, that's the best way to thank me!
 
 Contributions are welcome if you notice a mistake.
+
+## Contributing
+
+### Adding/changing offsets
+If you notice offsets, please submit a new PR adding new files you've updated, but not overwritten using the naming scheme "<file_name> Alternative n.srt" where `n` is the most recent number + 1. This makes it easy for everyone!
+
+### Update Catppuccin colors via script
+
+ - Commit your changes
+ - Run `sh ./update_catppuccin.sh` from the repo root on MacOS, Linux, or Windows WSL to automatically update the coloring of Subtitles.
+ - Save new changes for catppuccin files as a new commit
+

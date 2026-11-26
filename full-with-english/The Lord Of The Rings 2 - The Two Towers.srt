@@ -1,4 +1,4 @@
-﻿﻿1
+1
 00:01:17,249 --> 00:01:20,860
 <i>- You cannot pass!
 - Gandalf!</i>
@@ -1959,7 +1959,6 @@ Yes. Yes, that is their name.
 00:45:43,688 --> 00:45:45,410
 This way.
 
-
 460
 00:45:45,623 --> 00:45:48,306
 Don't follow the lights.
@@ -3548,7 +3547,6 @@ You have no power here...
 I will draw you, Saruman,
 as poison is drawn from a wound.
 
-
 829
 01:20:13,500 --> 01:20:23,600
 <i><font color="#800080">♫ Lim-strang wæs geboren</font></i>
@@ -3747,7 +3745,6 @@ He was strong in life.
 01:26:50,100 --> 01:26:57,700
 <i><font color="#800080">♫ Of cilde tó menn</font></i>
 <i><font color="#FFFF00">(From childhood to a man)</font></i>
-
 
 874
 01:26:50,821 --> 01:26:54,300
@@ -5581,7 +5578,6 @@ May the grace of the Valar protect you.
 02:07:25,670 --> 02:07:40,259
 <i><font color="#008000">♫ Boe cuil ban firitha</font></i>
 <i><font color="#FFFF00">(All life is doomed to fade)</font></i>
-
 
 1295
 02:07:58,534 --> 02:08:00,355
@@ -7720,7 +7716,6 @@ Is this is all you can conjure, Saruman?
 <font color="#008000">Dago han, Legolas!</font>
 <font color="#FFFF00">(Bring him down, Legolas!)</font>
 
-
 1785
 02:55:40,054 --> 02:55:41,167
 <font color="#008000">Dago han!</font>
@@ -9373,3 +9368,4 @@ Sméagol will show you the way.
 2166
 03:34:19,550 --> 03:34:21,689
 Follow me.
+
